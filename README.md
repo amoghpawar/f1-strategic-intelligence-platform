@@ -2,11 +2,18 @@
 
 A Business Intelligence solution for Formula One race strategy, performance analytics, and operational decision support.
 
-## 📌 Project Overview
+## Project Overview
 
-Race data in Formula One comes from several places: timing feeds, official race documents, weather services, and reference listings. Each one uses its own identifiers, date formats, name spellings, and units. Driver names appear as `Max Verstappen`, `VERSTAPPEN, Max`, and `MAX VERSTAPPEN` depending on the source. Circuit lengths arrive in kilometres from one source and metres from another. Constructor names change across seasons after rebrands. Answering a basic question such as "which team scores most reliably at wet races" means reconciling all of this first.
+Race data in Formula One comes from several places: timing feeds, official race documents, weather services, and reference listings. Each source uses its own identifiers, date formats, name spellings, and units. Driver names may appear as `Max Verstappen`, `VERSTAPPEN, Max`, or `MAX VERSTAPPEN` depending on the source. Circuit lengths may be recorded in kilometres by one source and metres by another, while constructor names can change across seasons after rebrands.
 
-This project builds a Business Intelligence pipeline that does that reconciliation. A Python ETL process extracts raw files from five simulated source systems, cleans and standardizes them, and loads them into a star-schema data warehouse. SQL queries define the KPIs, and a Power BI report presents them across four pages: championship, driver, constructor, and race/circuit analysis.
+Answering a basic business question such as **"Which team scores most reliably at wet races?"** therefore requires these datasets to be reconciled and standardized first.
+
+This project builds a **Business Intelligence pipeline** to perform that reconciliation. A Python ETL process extracts raw files from five simulated source systems, cleans and standardizes the data, and loads it into a **star-schema data warehouse**. SQL queries define the analytical KPIs, while a **Power BI report** presents the results across four pages:
+
+- **Championship Analysis**
+- **Driver Performance**
+- **Constructor Performance**
+- **Race & Circuit Analysis**
 
 The data covers 70 race weekends across the 2023 to 2025 seasons. All values are synthetic (see [Data Disclaimer](#️-data-disclaimer)).
 
