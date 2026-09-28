@@ -1,0 +1,71 @@
+season,round,race_name,circuit,country,date,source
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Bahrain,2023-03-05,formula1_official
+2023,2,Qatar Grand Prix,Losail International Circuit,Qatar,2023-03-12,formula1_official
+2023,3,Italy Grand Prix,Autodromo Enzo e Dino Ferrari,Italy,2023-03-19,formula1_official
+2023,4,China Grand Prix,Shanghai International Circuit,China,2023-04-02,formula1_official
+2023,5,Saudi Arabia Grand Prix,Jeddah Corniche Circuit,Saudi Arabia,2023-04-16,formula1_official
+2023,6,Austin Grand Prix,Circuit of the Americas,USA,2023-04-30,formula1_official
+2023,7,Netherlands Grand Prix,Circuit Zandvoort,Netherlands,2023-05-14,formula1_official
+2023,8,United Kingdom Grand Prix,Silverstone Circuit,United Kingdom,2023-05-21,formula1_official
+2023,9,Miami Grand Prix,Miami International Autodrome,USA,2023-05-28,formula1_official
+2023,10,Hungary Grand Prix,Hungaroring,Hungary,2023-06-18,formula1_official
+2023,11,Brazil Grand Prix,Autodromo Jose Carlos Pace,Brazil,2023-06-25,formula1_official
+2023,12,Belgium Grand Prix,Circuit de Spa-Francorchamps,Belgium,2023-07-02,formula1_official
+2023,13,Azerbaijan Grand Prix,Baku City Circuit,Azerbaijan,2023-07-09,formula1_official
+2023,14,Las Vegas Grand Prix,Las Vegas Strip Circuit,USA,2023-07-23,formula1_official
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,2023-08-06,formula1_official
+2023,16,Monaco Grand Prix,Circuit de Monaco,Monaco,2023-08-13,formula1_official
+2023,17,Canada Grand Prix,Circuit Gilles Villeneuve,Canada,2023-08-27,formula1_official
+2023,18,Austria Grand Prix,Red Bull Ring,Austria,2023-09-17,formula1_official
+2023,19,Spain Grand Prix,Circuit de Barcelona-Catalunya,Spain,2023-10-01,formula1_official
+2023,20,UAE Grand Prix,Yas Marina Circuit,UAE,2023-10-22,formula1_official
+2023,21,Australia Grand Prix,Albert Park Circuit,Australia,2023-11-05,formula1_official
+2023,22,Japan Grand Prix,Suzuka International Racing Course,Japan,2023-11-12,formula1_official
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Bahrain,2024-03-05,formula1_official
+2024,2,Australia Grand Prix,Albert Park Circuit,Australia,2024-03-26,formula1_official
+2024,3,Italy Grand Prix,Autodromo Nazionale Monza,Italy,2024-04-09,formula1_official
+2024,4,China Grand Prix,Shanghai International Circuit,China,2024-04-23,formula1_official
+2024,5,Monaco Grand Prix,Circuit de Monaco,Monaco,2024-05-07,formula1_official
+2024,6,Belgium Grand Prix,Circuit de Spa-Francorchamps,Belgium,2024-05-21,formula1_official
+2024,7,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,2024-06-04,formula1_official
+2024,8,Netherlands Grand Prix,Circuit Zandvoort,Netherlands,2024-06-11,formula1_official
+2024,9,Azerbaijan Grand Prix,Baku City Circuit,Azerbaijan,2024-06-18,formula1_official
+2024,10,Austin Grand Prix,Circuit of the Americas,USA,2024-07-09,formula1_official
+2024,11,Brazil Grand Prix,Autodromo Jose Carlos Pace,Brazil,2024-07-16,formula1_official
+2024,12,Austria Grand Prix,Red Bull Ring,Austria,2024-07-30,formula1_official
+2024,13,Saudi Arabia Grand Prix,Jeddah Corniche Circuit,Saudi Arabia,2024-08-13,formula1_official
+2024,14,UAE Grand Prix,Yas Marina Circuit,UAE,2024-08-27,formula1_official
+2024,15,Canada Grand Prix,Circuit Gilles Villeneuve,Canada,2024-09-03,formula1_official
+2024,16,Hungary Grand Prix,Hungaroring,Hungary,2024-09-24,formula1_official
+2024,17,Mexico Grand Prix,Autodromo Hermanos Rodriguez,Mexico,2024-10-01,formula1_official
+2024,18,Qatar Grand Prix,Losail International Circuit,Qatar,2024-10-22,formula1_official
+2024,19,Spain Grand Prix,Circuit de Barcelona-Catalunya,Spain,2024-10-29,formula1_official
+2024,20,Japan Grand Prix,Suzuka International Racing Course,Japan,2024-11-12,formula1_official
+2024,21,United Kingdom Grand Prix,Silverstone Circuit,United Kingdom,2024-11-26,formula1_official
+2024,22,Miami Grand Prix,Miami International Autodrome,USA,2024-12-10,formula1_official
+2024,23,Las Vegas Grand Prix,Las Vegas Strip Circuit,USA,2024-12-17,formula1_official
+2024,24,Italy Grand Prix,Autodromo Enzo e Dino Ferrari,Italy,2024-12-24,formula1_official
+2025,1,Bahrain Grand Prix,Bahrain International Circuit,Bahrain,2025-03-16,formula1_official
+2025,2,Qatar Grand Prix,Losail International Circuit,Qatar,2025-03-30,formula1_official
+2025,3,Miami Grand Prix,Miami International Autodrome,USA,2025-04-06,formula1_official
+2025,4,Belgium Grand Prix,Circuit de Spa-Francorchamps,Belgium,2025-04-20,formula1_official
+2025,5,Azerbaijan Grand Prix,Baku City Circuit,Azerbaijan,2025-04-27,formula1_official
+2025,6,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,2025-05-18,formula1_official
+2025,7,Mexico Grand Prix,Autodromo Hermanos Rodriguez,Mexico,2025-06-01,formula1_official
+2025,8,Brazil Grand Prix,Autodromo Jose Carlos Pace,Brazil,2025-06-22,formula1_official
+2025,9,China Grand Prix,Shanghai International Circuit,China,2025-07-06,formula1_official
+2025,10,Italy Grand Prix,Autodromo Nazionale Monza,Italy,2025-07-20,formula1_official
+2025,11,Italy Grand Prix,Autodromo Enzo e Dino Ferrari,Italy,2025-08-03,formula1_official
+2025,12,Canada Grand Prix,Circuit Gilles Villeneuve,Canada,2025-08-17,formula1_official
+2025,13,Saudi Arabia Grand Prix,Jeddah Corniche Circuit,Saudi Arabia,2025-08-31,formula1_official
+2025,14,Monaco Grand Prix,Circuit de Monaco,Monaco,2025-09-14,formula1_official
+2025,15,Hungary Grand Prix,Hungaroring,Hungary,2025-09-21,formula1_official
+2025,16,Austria Grand Prix,Red Bull Ring,Austria,2025-10-05,formula1_official
+2025,17,Las Vegas Grand Prix,Las Vegas Strip Circuit,USA,2025-10-19,formula1_official
+2025,18,Netherlands Grand Prix,Circuit Zandvoort,Netherlands,2025-11-02,formula1_official
+2025,19,Japan Grand Prix,Suzuka International Racing Course,Japan,2025-11-23,formula1_official
+2025,20,UAE Grand Prix,Yas Marina Circuit,UAE,2025-12-14,formula1_official
+2025,21,Spain Grand Prix,Circuit de Barcelona-Catalunya,Spain,2025-12-28,formula1_official
+2025,22,United Kingdom Grand Prix,Silverstone Circuit,United Kingdom,2026-01-11,formula1_official
+2025,23,Austin Grand Prix,Circuit of the Americas,USA,2026-01-25,formula1_official
+2025,24,Australia Grand Prix,Albert Park Circuit,Australia,2026-02-01,formula1_official

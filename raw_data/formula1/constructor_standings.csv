@@ -1,0 +1,31 @@
+season,position,constructor,points,wins,podiums,source
+2023,1,Red Bull Racing,287,4,8,formula1_official
+2023,2,Haas F1 Team,263,3,10,formula1_official
+2023,3,Alpine,248,3,8,formula1_official
+2023,4,Aston Martin,243,3,8,formula1_official
+2023,5,McLaren,224,0,9,formula1_official
+2023,6,Ferrari,222,4,5,formula1_official
+2023,7,Alfa Romeo,222,4,6,formula1_official
+2023,8,Williams,199,0,5,formula1_official
+2023,9,AlphaTauri,167,1,3,formula1_official
+2023,10,Mercedes,147,0,4,formula1_official
+2024,1,Haas F1 Team,402,3,11,formula1_official
+2024,2,Williams,258,3,7,formula1_official
+2024,3,Kick Sauber,246,2,7,formula1_official
+2024,4,Ferrari,241,4,9,formula1_official
+2024,5,Mercedes,224,3,8,formula1_official
+2024,6,RB,223,3,6,formula1_official
+2024,7,Alpine,222,3,6,formula1_official
+2024,8,McLaren,213,1,6,formula1_official
+2024,9,Red Bull Racing,211,2,6,formula1_official
+2024,10,Aston Martin,184,0,6,formula1_official
+2025,1,Ferrari,360,6,13,formula1_official
+2025,2,Aston Martin,341,4,12,formula1_official
+2025,3,Mercedes,280,1,8,formula1_official
+2025,4,Racing Bulls,248,2,7,formula1_official
+2025,5,Haas F1 Team,236,4,8,formula1_official
+2025,6,Alpine,213,1,6,formula1_official
+2025,7,Kick Sauber,207,2,5,formula1_official
+2025,8,Williams,206,3,4,formula1_official
+2025,9,Red Bull Racing,175,1,6,formula1_official
+2025,10,McLaren,158,0,3,formula1_official

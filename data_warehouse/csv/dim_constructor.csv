@@ -1,0 +1,11 @@
+constructor_sk,constructor_id,constructor_name,nationality,_con_key
+1,CON06,Alpine,French,alpine
+2,CON03,Ferrari,Italian,ferrari
+3,CON01,Red Bull Racing,Austrian,redbullracing
+4,CON02,Mercedes,German,mercedes
+5,CON04,Mclaren,British,mclaren
+6,CON05,Aston Martin,British,astonmartin
+7,CON07,Williams,British,williams
+8,CON08,Racing Bulls,Italian,racingbulls
+9,CON09,Kick Sauber,Swiss,kicksauber
+10,CON10,Haas F1 Team,American,haasf1team

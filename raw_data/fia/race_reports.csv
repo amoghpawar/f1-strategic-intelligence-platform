@@ -1,0 +1,453 @@
+document_id,race_name,season,driver,constructor,classification,grid,laps,status,points,penalty,penalty_reason,document_date,source_document
+FIA-2023-01-5001,Bahrain Grand Prix,2023,George Russell,Mercedes,DNF,17,23,Not Classified,4,5 second time penalty,Impeding another driver in Qualifying,05 Mar 2023,Doc 32 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,Yuki Tsunoda,AlphaTauri,12,20,56,Classified,1,,,05 Mar 2023,Doc 31 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,CARLOS SAINZ,Ferrari,15,17,56,Classified,8,,,05 Mar 2023,Doc 44 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,ALEXANDER ALBON,Williams,8,14,56,Classified,0,,,05 Mar 2023,Doc 56 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,Valtteri Bottas,Alfa Romeo,19,4,56,Classified,4,Reprimand,Impeding another driver in Qualifying,05 Mar 2023,Doc 41 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,LANDO NORRIS,McLaren,17,6,56,Classified,25,Reprimand,Impeding another driver in Qualifying,05 Mar 2023,Doc 46 - Classification
+FIA-2023-01-5001,Bahrain Grand Prix,2023,DANIEL RICCIARDO,AlphaTauri,15,18,56,Classified,4,,,05 Mar 2023,Doc 44 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,OSCAR PIASTRI,McLaren,18,4,56,Classified,0,Reprimand,Track limits infringement,12 Mar 2023,Doc 38 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,Pierre Gasly,Alpine,4,1,56,Classified,18,5 second time penalty,Unsafe release from pit lane,12 Mar 2023,Doc 43 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,Carlos Sainz,Ferrari,3,2,56,Classified,8,Reprimand,Ignoring blue flags,12 Mar 2023,Doc 61 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,LOGAN SARGEANT,Williams,14,18,56,Classified,18,Reprimand,Speeding under Safety Car,12 Mar 2023,Doc 59 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,YUKI TSUNODA,AlphaTauri,17,16,56,Classified,0,5 second time penalty,Speeding under Safety Car,12 Mar 2023,Doc 30 - Classification
+FIA-2023-02-5002,Qatar Grand Prix,2023,Valtteri Bottas,Alfa Romeo,12,13,56,Classified,18,Reprimand,Ignoring blue flags,12 Mar 2023,Doc 63 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,YUKI TSUNODA,AlphaTauri,8,2,62,Classified,25,Reprimand,Unsafe release from pit lane,19 Mar 2023,Doc 40 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,Kevin Magnussen,Haas F1 Team,9,17,62,Classified,25,5 second time penalty,Speeding under Safety Car,19 Mar 2023,Doc 47 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,Alexander Albon,Williams,5,6,62,Classified,0,,,19 Mar 2023,Doc 30 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,Max Verstappen,Red Bull Racing,20,5,62,Classified,8,,,19 Mar 2023,Doc 57 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,Charles Leclerc,Ferrari,1,10,62,Classified,10,Reprimand,Speeding under Safety Car,19 Mar 2023,Doc 47 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,20,9,62,Classified,18,5 second time penalty,Unsafe release from pit lane,19 Mar 2023,Doc 44 - Classification
+FIA-2023-03-5003,Italy Grand Prix,2023,Pierre Gasly,Alpine,3,10,62,Classified,2,,,19 Mar 2023,Doc 48 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,LANDO NORRIS,McLaren,19,20,55,Classified,0,5 second time penalty,Ignoring blue flags,02 Apr 2023,Doc 31 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,GEORGE RUSSELL,Mercedes,DNF,19,20,Not Classified,8,,,02 Apr 2023,Doc 46 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,Daniel Ricciardo,AlphaTauri,DNF,18,28,Not Classified,1,5 second time penalty,Speeding under Safety Car,02 Apr 2023,Doc 60 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,Logan Sargeant,Williams,7,19,55,Classified,25,,,02 Apr 2023,Doc 37 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,CHARLES LECLERC,Ferrari,3,10,55,Classified,25,,,02 Apr 2023,Doc 67 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,CARLOS SAINZ,Ferrari,9,12,55,Classified,0,5 second time penalty,Unsafe release from pit lane,02 Apr 2023,Doc 52 - Classification
+FIA-2023-04-5004,China Grand Prix,2023,ALEXANDER ALBON,Williams,11,14,55,Classified,12,Reprimand,Ignoring blue flags,02 Apr 2023,Doc 62 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,LANCE STROLL,Aston Martin,3,13,49,Classified,8,5 second time penalty,Impeding another driver in Qualifying,16 Apr 2023,Doc 30 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,ESTEBAN OCON,Alpine,7,12,49,Classified,6,Reprimand,Causing a collision,16 Apr 2023,Doc 68 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,Lando Norris,McLaren,16,12,49,Classified,18,Reprimand,Track limits infringement,16 Apr 2023,Doc 46 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,NICO HULKENBERG,Haas F1 Team,14,9,49,Classified,6,,,16 Apr 2023,Doc 48 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,YUKI TSUNODA,AlphaTauri,19,4,49,Classified,8,,,16 Apr 2023,Doc 52 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,Charles Leclerc,Ferrari,9,18,49,Classified,0,,,16 Apr 2023,Doc 58 - Classification
+FIA-2023-05-5005,Saudi Arabia Grand Prix,2023,LEWIS HAMILTON,Mercedes,5,11,49,Classified,1,Reprimand,Unsafe release from pit lane,16 Apr 2023,Doc 38 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,SERGIO PEREZ,Red Bull Racing,9,15,55,Classified,15,5 second time penalty,Track limits infringement,30 Apr 2023,Doc 68 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,Oscar Piastri,McLaren,6,15,55,Classified,8,Reprimand,Impeding another driver in Qualifying,30 Apr 2023,Doc 34 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,KEVIN MAGNUSSEN,Haas F1 Team,1,16,55,Classified,0,5 second time penalty,Speeding under Safety Car,30 Apr 2023,Doc 42 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,NICO HULKENBERG,Haas F1 Team,12,12,55,Classified,1,Reprimand,Impeding another driver in Qualifying,30 Apr 2023,Doc 32 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,FERNANDO ALONSO,Aston Martin,DNF,20,14,Not Classified,2,5 second time penalty,Unsafe release from pit lane,30 Apr 2023,Doc 44 - Classification
+FIA-2023-06-5006,Austin Grand Prix,2023,CARLOS SAINZ,Ferrari,DNF,9,47,Not Classified,4,5 second time penalty,Impeding another driver in Qualifying,30 Apr 2023,Doc 58 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,YUKI TSUNODA,AlphaTauri,DNF,3,17,Not Classified,2,5 second time penalty,Causing a collision,14 May 2023,Doc 45 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,17,11,71,Classified,0,Reprimand,Speeding under Safety Car,14 May 2023,Doc 39 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,Oscar Piastri,McLaren,7,6,71,Classified,25,Reprimand,Speeding under Safety Car,14 May 2023,Doc 64 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,MAX VERSTAPPEN,Red Bull Racing,5,20,71,Classified,4,Reprimand,Causing a collision,14 May 2023,Doc 47 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,Carlos Sainz,Ferrari,13,17,71,Classified,6,Reprimand,Unsafe release from pit lane,14 May 2023,Doc 62 - Classification
+FIA-2023-07-5007,Netherlands Grand Prix,2023,LEWIS HAMILTON,Mercedes,3,12,71,Classified,6,,,14 May 2023,Doc 72 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,DANIEL RICCIARDO,AlphaTauri,19,8,51,Classified,0,5 second time penalty,Unsafe release from pit lane,21 May 2023,Doc 57 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,PIERRE GASLY,Alpine,16,12,51,Classified,0,Reprimand,Causing a collision,21 May 2023,Doc 33 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,Fernando Alonso,Aston Martin,9,3,51,Classified,6,,,21 May 2023,Doc 63 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,LEWIS HAMILTON,Mercedes,10,20,51,Classified,0,Reprimand,Track limits infringement,21 May 2023,Doc 69 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,Logan Sargeant,Williams,2,10,51,Classified,0,5 second time penalty,Speeding under Safety Car,21 May 2023,Doc 37 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,Esteban Ocon,Alpine,DNF,9,33,Not Classified,25,,,21 May 2023,Doc 64 - Classification
+FIA-2023-08-5008,United Kingdom Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,DNF,10,11,Not Classified,2,5 second time penalty,Speeding under Safety Car,21 May 2023,Doc 31 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,OSCAR PIASTRI,McLaren,3,6,56,Classified,18,,,28 May 2023,Doc 46 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,Esteban Ocon,Alpine,12,6,56,Classified,25,Reprimand,Track limits infringement,28 May 2023,Doc 40 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,Zhou Guanyu,Alfa Romeo,19,17,56,Classified,25,Reprimand,Causing a collision,28 May 2023,Doc 40 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,CHARLES LECLERC,Ferrari,DNF,1,15,Not Classified,2,,,28 May 2023,Doc 71 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,KEVIN MAGNUSSEN,Haas F1 Team,4,12,56,Classified,2,5 second time penalty,Causing a collision,28 May 2023,Doc 60 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,Alexander Albon,Williams,19,20,56,Classified,6,5 second time penalty,Causing a collision,28 May 2023,Doc 30 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,Max Verstappen,Red Bull Racing,15,9,56,Classified,8,Reprimand,Causing a collision,28 May 2023,Doc 70 - Classification
+FIA-2023-09-5009,Miami Grand Prix,2023,Lewis Hamilton,Mercedes,4,6,56,Classified,1,Reprimand,Ignoring blue flags,28 May 2023,Doc 36 - Classification
+FIA-2023-10-5010,Hungary Grand Prix,2023,Carlos Sainz,Ferrari,DNF,10,18,Not Classified,10,,,18 Jun 2023,Doc 52 - Classification
+FIA-2023-10-5010,Hungary Grand Prix,2023,Sergio Perez,Red Bull Racing,2,1,69,Classified,2,Reprimand,Speeding under Safety Car,18 Jun 2023,Doc 46 - Classification
+FIA-2023-10-5010,Hungary Grand Prix,2023,Lewis Hamilton,Mercedes,4,6,69,Classified,2,Reprimand,Unsafe release from pit lane,18 Jun 2023,Doc 60 - Classification
+FIA-2023-10-5010,Hungary Grand Prix,2023,Lando Norris,McLaren,11,16,69,Classified,2,5 second time penalty,Ignoring blue flags,18 Jun 2023,Doc 40 - Classification
+FIA-2023-10-5010,Hungary Grand Prix,2023,Fernando Alonso,Aston Martin,15,18,69,Classified,0,Reprimand,Speeding under Safety Car,18 Jun 2023,Doc 30 - Classification
+FIA-2023-11-5011,Brazil Grand Prix,2023,Pierre Gasly,Alpine,6,18,70,Classified,10,5 second time penalty,Causing a collision,25 Jun 2023,Doc 30 - Classification
+FIA-2023-11-5011,Brazil Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,6,16,70,Classified,0,Reprimand,Causing a collision,25 Jun 2023,Doc 40 - Classification
+FIA-2023-11-5011,Brazil Grand Prix,2023,OSCAR PIASTRI,McLaren,18,2,70,Classified,0,Reprimand,Ignoring blue flags,25 Jun 2023,Doc 33 - Classification
+FIA-2023-11-5011,Brazil Grand Prix,2023,LANCE STROLL,Aston Martin,6,1,70,Classified,18,Reprimand,Unsafe release from pit lane,25 Jun 2023,Doc 46 - Classification
+FIA-2023-12-5012,Belgium Grand Prix,2023,MAX VERSTAPPEN,Red Bull Racing,2,19,44,Classified,18,,,02 Jul 2023,Doc 34 - Classification
+FIA-2023-12-5012,Belgium Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,14,9,44,Classified,8,,,02 Jul 2023,Doc 64 - Classification
+FIA-2023-12-5012,Belgium Grand Prix,2023,PIERRE GASLY,Alpine,2,17,44,Classified,1,Reprimand,Unsafe release from pit lane,02 Jul 2023,Doc 35 - Classification
+FIA-2023-12-5012,Belgium Grand Prix,2023,Charles Leclerc,Ferrari,14,8,44,Classified,8,,,02 Jul 2023,Doc 49 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,LOGAN SARGEANT,Williams,DNF,17,10,Not Classified,18,Reprimand,Causing a collision,09 Jul 2023,Doc 61 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,SERGIO PEREZ,Red Bull Racing,17,9,50,Classified,12,Reprimand,Causing a collision,09 Jul 2023,Doc 70 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,GEORGE RUSSELL,Mercedes,12,8,50,Classified,1,,,09 Jul 2023,Doc 72 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,CHARLES LECLERC,Ferrari,6,16,50,Classified,6,,,09 Jul 2023,Doc 47 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,Max Verstappen,Red Bull Racing,20,3,50,Classified,0,Reprimand,Impeding another driver in Qualifying,09 Jul 2023,Doc 69 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,Nico Hulkenberg,Haas F1 Team,2,20,50,Classified,15,Reprimand,Unsafe release from pit lane,09 Jul 2023,Doc 41 - Classification
+FIA-2023-13-5013,Azerbaijan Grand Prix,2023,LANDO NORRIS,McLaren,12,1,50,Classified,12,5 second time penalty,Impeding another driver in Qualifying,09 Jul 2023,Doc 63 - Classification
+FIA-2023-14-5014,Las Vegas Grand Prix,2023,YUKI TSUNODA,AlphaTauri,20,20,49,Classified,10,5 second time penalty,Ignoring blue flags,23 Jul 2023,Doc 37 - Classification
+FIA-2023-14-5014,Las Vegas Grand Prix,2023,Lewis Hamilton,Mercedes,11,9,49,Classified,25,5 second time penalty,Causing a collision,23 Jul 2023,Doc 49 - Classification
+FIA-2023-14-5014,Las Vegas Grand Prix,2023,Pierre Gasly,Alpine,16,12,49,Classified,6,Reprimand,Impeding another driver in Qualifying,23 Jul 2023,Doc 45 - Classification
+FIA-2023-14-5014,Las Vegas Grand Prix,2023,LOGAN SARGEANT,Williams,4,2,49,Classified,2,,,23 Jul 2023,Doc 43 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,Zhou Guanyu,Alfa Romeo,3,16,61,Classified,1,,,06 Aug 2023,Doc 62 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,SERGIO PEREZ,Red Bull Racing,14,10,61,Classified,0,5 second time penalty,Track limits infringement,06 Aug 2023,Doc 38 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,Fernando Alonso,Aston Martin,20,8,61,Classified,1,Reprimand,Unsafe release from pit lane,06 Aug 2023,Doc 36 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,LANCE STROLL,Aston Martin,3,16,61,Classified,0,5 second time penalty,Unsafe release from pit lane,06 Aug 2023,Doc 61 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,OSCAR PIASTRI,McLaren,15,4,61,Classified,2,Reprimand,Causing a collision,06 Aug 2023,Doc 54 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,Daniel Ricciardo,AlphaTauri,7,6,61,Classified,1,,,06 Aug 2023,Doc 60 - Classification
+FIA-2023-15-5015,Singapore Grand Prix,2023,Pierre Gasly,Alpine,3,11,61,Classified,0,Reprimand,Speeding under Safety Car,06 Aug 2023,Doc 62 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,DANIEL RICCIARDO,AlphaTauri,10,11,78,Classified,12,,,13 Aug 2023,Doc 66 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,VALTTERI BOTTAS,Alfa Romeo,DNF,1,63,Not Classified,1,Reprimand,Track limits infringement,13 Aug 2023,Doc 57 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,NICO HULKENBERG,Haas F1 Team,16,12,78,Classified,12,,,13 Aug 2023,Doc 60 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,Sergio Perez,Red Bull Racing,11,4,78,Classified,8,,,13 Aug 2023,Doc 36 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,PIERRE GASLY,Alpine,17,6,78,Classified,0,5 second time penalty,Unsafe release from pit lane,13 Aug 2023,Doc 67 - Classification
+FIA-2023-16-5016,Monaco Grand Prix,2023,George Russell,Mercedes,8,3,78,Classified,0,5 second time penalty,Speeding under Safety Car,13 Aug 2023,Doc 48 - Classification
+FIA-2023-17-5017,Canada Grand Prix,2023,FERNANDO ALONSO,Aston Martin,6,14,69,Classified,0,Reprimand,Track limits infringement,27 Aug 2023,Doc 52 - Classification
+FIA-2023-17-5017,Canada Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,18,11,69,Classified,4,,,27 Aug 2023,Doc 62 - Classification
+FIA-2023-17-5017,Canada Grand Prix,2023,NICO HULKENBERG,Haas F1 Team,15,1,69,Classified,0,Reprimand,Track limits infringement,27 Aug 2023,Doc 64 - Classification
+FIA-2023-17-5017,Canada Grand Prix,2023,George Russell,Mercedes,16,14,69,Classified,4,Reprimand,Causing a collision,27 Aug 2023,Doc 58 - Classification
+FIA-2023-18-5018,Austria Grand Prix,2023,LANDO NORRIS,McLaren,8,15,70,Classified,4,Reprimand,Speeding under Safety Car,17 Sep 2023,Doc 41 - Classification
+FIA-2023-18-5018,Austria Grand Prix,2023,LEWIS HAMILTON,Mercedes,10,5,70,Classified,15,Reprimand,Causing a collision,17 Sep 2023,Doc 35 - Classification
+FIA-2023-18-5018,Austria Grand Prix,2023,ESTEBAN OCON,Alpine,5,4,70,Classified,25,,,17 Sep 2023,Doc 43 - Classification
+FIA-2023-18-5018,Austria Grand Prix,2023,FERNANDO ALONSO,Aston Martin,7,18,70,Classified,25,,,17 Sep 2023,Doc 72 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,CHARLES LECLERC,Ferrari,16,7,65,Classified,4,,,01 Oct 2023,Doc 38 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,Sergio Perez,Red Bull Racing,17,12,65,Classified,6,5 second time penalty,Ignoring blue flags,01 Oct 2023,Doc 45 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,LEWIS HAMILTON,Mercedes,10,6,65,Classified,1,5 second time penalty,Track limits infringement,01 Oct 2023,Doc 61 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,PIERRE GASLY,Alpine,20,2,65,Classified,0,Reprimand,Impeding another driver in Qualifying,01 Oct 2023,Doc 50 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,GEORGE RUSSELL,Mercedes,19,5,65,Classified,0,5 second time penalty,Track limits infringement,01 Oct 2023,Doc 62 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,LANCE STROLL,Aston Martin,5,2,65,Classified,12,5 second time penalty,Causing a collision,01 Oct 2023,Doc 32 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,Zhou Guanyu,Alfa Romeo,2,18,65,Classified,8,,,01 Oct 2023,Doc 55 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,Nico Hulkenberg,Haas F1 Team,8,20,65,Classified,0,Reprimand,Track limits infringement,01 Oct 2023,Doc 55 - Classification
+FIA-2023-19-5019,Spain Grand Prix,2023,Oscar Piastri,McLaren,5,6,65,Classified,25,Reprimand,Causing a collision,01 Oct 2023,Doc 35 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,Alexander Albon,Williams,10,12,57,Classified,25,Reprimand,Track limits infringement,22 Oct 2023,Doc 60 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,ESTEBAN OCON,Alpine,DNF,15,17,Not Classified,1,5 second time penalty,Unsafe release from pit lane,22 Oct 2023,Doc 43 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,Nico Hulkenberg,Haas F1 Team,DNF,3,49,Not Classified,18,Reprimand,Ignoring blue flags,22 Oct 2023,Doc 30 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,CARLOS SAINZ,Ferrari,16,6,57,Classified,15,,,22 Oct 2023,Doc 67 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,LANCE STROLL,Aston Martin,9,6,57,Classified,4,5 second time penalty,Impeding another driver in Qualifying,22 Oct 2023,Doc 37 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,LOGAN SARGEANT,Williams,5,11,57,Classified,0,Reprimand,Ignoring blue flags,22 Oct 2023,Doc 34 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,OSCAR PIASTRI,McLaren,1,2,57,Classified,10,5 second time penalty,Impeding another driver in Qualifying,22 Oct 2023,Doc 64 - Classification
+FIA-2023-20-5020,UAE Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,13,14,57,Classified,15,,,22 Oct 2023,Doc 60 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,Zhou Guanyu,Alfa Romeo,7,11,57,Classified,4,Reprimand,Ignoring blue flags,05 Nov 2023,Doc 44 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,VALTTERI BOTTAS,Alfa Romeo,16,17,57,Classified,0,,,05 Nov 2023,Doc 53 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,Charles Leclerc,Ferrari,17,4,57,Classified,15,5 second time penalty,Ignoring blue flags,05 Nov 2023,Doc 47 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,FERNANDO ALONSO,Aston Martin,14,3,57,Classified,15,Reprimand,Ignoring blue flags,05 Nov 2023,Doc 71 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,LANCE STROLL,Aston Martin,6,18,57,Classified,10,5 second time penalty,Ignoring blue flags,05 Nov 2023,Doc 64 - Classification
+FIA-2023-21-5021,Australia Grand Prix,2023,Daniel Ricciardo,AlphaTauri,13,10,57,Classified,0,5 second time penalty,Impeding another driver in Qualifying,05 Nov 2023,Doc 32 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,Carlos Sainz,Ferrari,20,19,52,Classified,10,Reprimand,Ignoring blue flags,12 Nov 2023,Doc 44 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,Logan Sargeant,Williams,18,15,52,Classified,0,Reprimand,Track limits infringement,12 Nov 2023,Doc 61 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,KEVIN MAGNUSSEN,Haas F1 Team,6,13,52,Classified,2,Reprimand,Track limits infringement,12 Nov 2023,Doc 48 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,GEORGE RUSSELL,Mercedes,7,2,52,Classified,18,,,12 Nov 2023,Doc 37 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,LEWIS HAMILTON,Mercedes,17,18,52,Classified,6,5 second time penalty,Unsafe release from pit lane,12 Nov 2023,Doc 54 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,ZHOU GUANYU,Alfa Romeo,11,2,52,Classified,8,5 second time penalty,Speeding under Safety Car,12 Nov 2023,Doc 45 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,ALEXANDER ALBON,Williams,DNF,15,22,Not Classified,15,5 second time penalty,Speeding under Safety Car,12 Nov 2023,Doc 71 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,CHARLES LECLERC,Ferrari,6,6,52,Classified,0,Reprimand,Speeding under Safety Car,12 Nov 2023,Doc 50 - Classification
+FIA-2023-22-5022,Japan Grand Prix,2023,Esteban Ocon,Alpine,12,15,52,Classified,18,5 second time penalty,Impeding another driver in Qualifying,12 Nov 2023,Doc 37 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,Fernando Alonso,Aston Martin,9,8,56,Classified,2,5 second time penalty,Impeding another driver in Qualifying,05 Mar 2024,Doc 46 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,LEWIS HAMILTON,Mercedes,2,17,56,Classified,0,,,05 Mar 2024,Doc 33 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,17,11,56,Classified,0,,,05 Mar 2024,Doc 65 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,Charles Leclerc,Ferrari,13,16,56,Classified,8,Reprimand,Unsafe release from pit lane,05 Mar 2024,Doc 52 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,ALEXANDER ALBON,Williams,DNF,12,30,Not Classified,10,,,05 Mar 2024,Doc 39 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,FRANCO COLAPINTO,Williams,15,3,56,Classified,2,5 second time penalty,Unsafe release from pit lane,05 Mar 2024,Doc 53 - Classification
+FIA-2024-01-5023,Bahrain Grand Prix,2024,SERGIO PEREZ,Red Bull Racing,18,3,56,Classified,12,,,05 Mar 2024,Doc 64 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,Oliver Bearman,Haas F1 Team,15,4,57,Classified,6,,,26 Mar 2024,Doc 43 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,YUKI TSUNODA,RB,DNF,11,33,Not Classified,4,5 second time penalty,Track limits infringement,26 Mar 2024,Doc 31 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,PIERRE GASLY,Alpine,13,5,57,Classified,1,5 second time penalty,Speeding under Safety Car,26 Mar 2024,Doc 58 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,Lance Stroll,Aston Martin,5,11,57,Classified,0,5 second time penalty,Speeding under Safety Car,26 Mar 2024,Doc 55 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,ALEXANDER ALBON,Williams,12,16,57,Classified,12,,,26 Mar 2024,Doc 47 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,Valtteri Bottas,Kick Sauber,DNF,9,35,Not Classified,8,5 second time penalty,Track limits infringement,26 Mar 2024,Doc 48 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,MAX VERSTAPPEN,Red Bull Racing,16,21,57,Classified,0,5 second time penalty,Speeding under Safety Car,26 Mar 2024,Doc 60 - Classification
+FIA-2024-02-5024,Australia Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,2,1,57,Classified,6,,,26 Mar 2024,Doc 36 - Classification
+FIA-2024-03-5025,Italy Grand Prix,2024,LANCE STROLL,Aston Martin,1,5,52,Classified,1,,,09 Apr 2024,Doc 57 - Classification
+FIA-2024-03-5025,Italy Grand Prix,2024,YUKI TSUNODA,RB,9,6,52,Classified,15,5 second time penalty,Impeding another driver in Qualifying,09 Apr 2024,Doc 53 - Classification
+FIA-2024-03-5025,Italy Grand Prix,2024,George Russell,Mercedes,13,19,52,Classified,10,Reprimand,Impeding another driver in Qualifying,09 Apr 2024,Doc 36 - Classification
+FIA-2024-03-5025,Italy Grand Prix,2024,PIERRE GASLY,Alpine,DNF,1,39,Not Classified,15,,,09 Apr 2024,Doc 57 - Classification
+FIA-2024-04-5026,China Grand Prix,2024,Charles Leclerc,Ferrari,4,7,55,Classified,18,Reprimand,Impeding another driver in Qualifying,23 Apr 2024,Doc 68 - Classification
+FIA-2024-04-5026,China Grand Prix,2024,LIAM LAWSON,RB,16,18,55,Classified,0,5 second time penalty,Causing a collision,23 Apr 2024,Doc 56 - Classification
+FIA-2024-04-5026,China Grand Prix,2024,Lando Norris,McLaren,14,10,55,Classified,2,Reprimand,Track limits infringement,23 Apr 2024,Doc 59 - Classification
+FIA-2024-04-5026,China Grand Prix,2024,Oliver Bearman,Haas F1 Team,21,7,55,Classified,0,Reprimand,Causing a collision,23 Apr 2024,Doc 42 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,Sergio Perez,Red Bull Racing,20,4,78,Classified,25,,,07 May 2024,Doc 66 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,Franco Colapinto,Williams,5,13,78,Classified,15,Reprimand,Ignoring blue flags,07 May 2024,Doc 43 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,OSCAR PIASTRI,McLaren,DNF,2,57,Not Classified,18,5 second time penalty,Impeding another driver in Qualifying,07 May 2024,Doc 35 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,ALEXANDER ALBON,Williams,8,9,78,Classified,0,Reprimand,Impeding another driver in Qualifying,07 May 2024,Doc 34 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,LANDO NORRIS,McLaren,9,20,78,Classified,15,,,07 May 2024,Doc 65 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,PIERRE GASLY,Alpine,DNF,20,45,Not Classified,18,5 second time penalty,Ignoring blue flags,07 May 2024,Doc 59 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,MAX VERSTAPPEN,Red Bull Racing,1,7,78,Classified,2,Reprimand,Unsafe release from pit lane,07 May 2024,Doc 66 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,Zhou Guanyu,Kick Sauber,14,11,78,Classified,12,5 second time penalty,Causing a collision,07 May 2024,Doc 33 - Classification
+FIA-2024-05-5027,Monaco Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,DNF,18,69,Not Classified,12,5 second time penalty,Track limits infringement,07 May 2024,Doc 31 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,Lando Norris,McLaren,12,6,44,Classified,0,Reprimand,Track limits infringement,21 May 2024,Doc 54 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,Lewis Hamilton,Mercedes,19,7,44,Classified,0,Reprimand,Impeding another driver in Qualifying,21 May 2024,Doc 39 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,PIERRE GASLY,Alpine,8,13,44,Classified,4,Reprimand,Track limits infringement,21 May 2024,Doc 37 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,MAX VERSTAPPEN,Red Bull Racing,20,5,44,Classified,4,,,21 May 2024,Doc 36 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,ESTEBAN OCON,Alpine,2,13,44,Classified,18,,,21 May 2024,Doc 68 - Classification
+FIA-2024-06-5028,Belgium Grand Prix,2024,Zhou Guanyu,Kick Sauber,15,5,44,Classified,2,,,21 May 2024,Doc 56 - Classification
+FIA-2024-07-5029,Singapore Grand Prix,2024,Kevin Magnussen,Haas F1 Team,20,1,61,Classified,12,5 second time penalty,Unsafe release from pit lane,04 Jun 2024,Doc 35 - Classification
+FIA-2024-07-5029,Singapore Grand Prix,2024,ALEXANDER ALBON,Williams,4,6,61,Classified,8,,,04 Jun 2024,Doc 35 - Classification
+FIA-2024-07-5029,Singapore Grand Prix,2024,Fernando Alonso,Aston Martin,19,17,61,Classified,25,,,04 Jun 2024,Doc 69 - Classification
+FIA-2024-07-5029,Singapore Grand Prix,2024,Oscar Piastri,McLaren,DNF,12,44,Not Classified,25,Reprimand,Track limits infringement,04 Jun 2024,Doc 37 - Classification
+FIA-2024-07-5029,Singapore Grand Prix,2024,CHARLES LECLERC,Ferrari,DNF,9,28,Not Classified,15,Reprimand,Ignoring blue flags,04 Jun 2024,Doc 49 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,GEORGE RUSSELL,Mercedes,10,3,71,Classified,0,5 second time penalty,Unsafe release from pit lane,11 Jun 2024,Doc 72 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,Charles Leclerc,Ferrari,18,9,71,Classified,0,5 second time penalty,Impeding another driver in Qualifying,11 Jun 2024,Doc 42 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,13,21,71,Classified,4,Reprimand,Causing a collision,11 Jun 2024,Doc 45 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,FRANCO COLAPINTO,Williams,DNF,15,33,Not Classified,10,5 second time penalty,Track limits infringement,11 Jun 2024,Doc 45 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,Lewis Hamilton,Mercedes,19,20,71,Classified,15,,,11 Jun 2024,Doc 60 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,ALEXANDER ALBON,Williams,9,4,71,Classified,4,5 second time penalty,Impeding another driver in Qualifying,11 Jun 2024,Doc 38 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,CARLOS SAINZ,Ferrari,12,5,71,Classified,4,Reprimand,Ignoring blue flags,11 Jun 2024,Doc 55 - Classification
+FIA-2024-08-5030,Netherlands Grand Prix,2024,Sergio Perez,Red Bull Racing,16,2,71,Classified,0,Reprimand,Speeding under Safety Car,11 Jun 2024,Doc 42 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,Fernando Alonso,Aston Martin,18,12,50,Classified,1,Reprimand,Causing a collision,18 Jun 2024,Doc 47 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,Carlos Sainz,Ferrari,16,9,50,Classified,18,,,18 Jun 2024,Doc 67 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,LANCE STROLL,Aston Martin,11,20,50,Classified,15,5 second time penalty,Track limits infringement,18 Jun 2024,Doc 37 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,CHARLES LECLERC,Ferrari,11,19,50,Classified,10,,,18 Jun 2024,Doc 50 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,ZHOU GUANYU,Kick Sauber,9,9,50,Classified,4,Reprimand,Impeding another driver in Qualifying,18 Jun 2024,Doc 66 - Classification
+FIA-2024-09-5031,Azerbaijan Grand Prix,2024,PIERRE GASLY,Alpine,21,11,50,Classified,4,,,18 Jun 2024,Doc 35 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,Nico Hulkenberg,Haas F1 Team,12,19,55,Classified,0,,,09 Jul 2024,Doc 64 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,16,1,55,Classified,25,5 second time penalty,Unsafe release from pit lane,09 Jul 2024,Doc 43 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,FRANCO COLAPINTO,Williams,10,13,55,Classified,0,Reprimand,Impeding another driver in Qualifying,09 Jul 2024,Doc 71 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,Esteban Ocon,Alpine,7,4,55,Classified,0,,,09 Jul 2024,Doc 64 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,SERGIO PEREZ,Red Bull Racing,8,21,55,Classified,6,Reprimand,Causing a collision,09 Jul 2024,Doc 41 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,FERNANDO ALONSO,Aston Martin,11,7,55,Classified,2,Reprimand,Impeding another driver in Qualifying,09 Jul 2024,Doc 72 - Classification
+FIA-2024-10-5032,Austin Grand Prix,2024,YUKI TSUNODA,RB,11,7,55,Classified,15,,,09 Jul 2024,Doc 70 - Classification
+FIA-2024-11-5033,Brazil Grand Prix,2024,PIERRE GASLY,Alpine,DNF,12,31,Not Classified,18,,,16 Jul 2024,Doc 51 - Classification
+FIA-2024-11-5033,Brazil Grand Prix,2024,ESTEBAN OCON,Alpine,5,14,70,Classified,1,,,16 Jul 2024,Doc 45 - Classification
+FIA-2024-11-5033,Brazil Grand Prix,2024,NICO HULKENBERG,Haas F1 Team,DNF,2,58,Not Classified,15,Reprimand,Unsafe release from pit lane,16 Jul 2024,Doc 56 - Classification
+FIA-2024-11-5033,Brazil Grand Prix,2024,Kevin Magnussen,Haas F1 Team,14,19,70,Classified,0,,,16 Jul 2024,Doc 52 - Classification
+FIA-2024-11-5033,Brazil Grand Prix,2024,FRANCO COLAPINTO,Williams,16,10,70,Classified,2,,,16 Jul 2024,Doc 54 - Classification
+FIA-2024-12-5034,Austria Grand Prix,2024,LANCE STROLL,Aston Martin,19,2,70,Classified,15,5 second time penalty,Speeding under Safety Car,30 Jul 2024,Doc 67 - Classification
+FIA-2024-12-5034,Austria Grand Prix,2024,CARLOS SAINZ,Ferrari,11,6,70,Classified,0,5 second time penalty,Unsafe release from pit lane,30 Jul 2024,Doc 54 - Classification
+FIA-2024-12-5034,Austria Grand Prix,2024,PIERRE GASLY,Alpine,1,10,70,Classified,18,5 second time penalty,Speeding under Safety Car,30 Jul 2024,Doc 38 - Classification
+FIA-2024-12-5034,Austria Grand Prix,2024,Nico Hulkenberg,Haas F1 Team,14,1,70,Classified,1,5 second time penalty,Causing a collision,30 Jul 2024,Doc 41 - Classification
+FIA-2024-12-5034,Austria Grand Prix,2024,Yuki Tsunoda,RB,21,1,70,Classified,10,5 second time penalty,Impeding another driver in Qualifying,30 Jul 2024,Doc 69 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Oscar Piastri,McLaren,21,5,49,Classified,10,,,13 Aug 2024,Doc 61 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,ALEXANDER ALBON,Williams,11,11,49,Classified,18,Reprimand,Track limits infringement,13 Aug 2024,Doc 35 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Oliver Bearman,Haas F1 Team,16,19,49,Classified,15,,,13 Aug 2024,Doc 45 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Max Verstappen,Red Bull Racing,DNF,19,15,Not Classified,1,5 second time penalty,Unsafe release from pit lane,13 Aug 2024,Doc 35 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Kevin Magnussen,Haas F1 Team,20,7,49,Classified,12,Reprimand,Causing a collision,13 Aug 2024,Doc 50 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Yuki Tsunoda,RB,13,7,49,Classified,0,5 second time penalty,Impeding another driver in Qualifying,13 Aug 2024,Doc 70 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,LEWIS HAMILTON,Mercedes,4,12,49,Classified,0,Reprimand,Track limits infringement,13 Aug 2024,Doc 31 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Pierre Gasly,Alpine,15,12,49,Classified,12,,,13 Aug 2024,Doc 32 - Classification
+FIA-2024-13-5035,Saudi Arabia Grand Prix,2024,Liam Lawson,RB,15,8,49,Classified,1,5 second time penalty,Ignoring blue flags,13 Aug 2024,Doc 69 - Classification
+FIA-2024-14-5036,UAE Grand Prix,2024,Yuki Tsunoda,RB,4,13,57,Classified,10,5 second time penalty,Unsafe release from pit lane,27 Aug 2024,Doc 41 - Classification
+FIA-2024-14-5036,UAE Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,DNF,19,28,Not Classified,15,5 second time penalty,Causing a collision,27 Aug 2024,Doc 59 - Classification
+FIA-2024-14-5036,UAE Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,14,2,57,Classified,4,5 second time penalty,Ignoring blue flags,27 Aug 2024,Doc 69 - Classification
+FIA-2024-14-5036,UAE Grand Prix,2024,CARLOS SAINZ,Ferrari,10,9,57,Classified,0,5 second time penalty,Unsafe release from pit lane,27 Aug 2024,Doc 36 - Classification
+FIA-2024-15-5037,Canada Grand Prix,2024,Nico Hulkenberg,Haas F1 Team,20,21,69,Classified,25,5 second time penalty,Speeding under Safety Car,03 Sep 2024,Doc 61 - Classification
+FIA-2024-15-5037,Canada Grand Prix,2024,Lando Norris,McLaren,DNF,5,12,Not Classified,2,,,03 Sep 2024,Doc 39 - Classification
+FIA-2024-15-5037,Canada Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,DNF,14,23,Not Classified,12,,,03 Sep 2024,Doc 47 - Classification
+FIA-2024-15-5037,Canada Grand Prix,2024,LIAM LAWSON,RB,2,3,69,Classified,18,5 second time penalty,Causing a collision,03 Sep 2024,Doc 65 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,Alexander Albon,Williams,14,2,69,Classified,0,5 second time penalty,Ignoring blue flags,24 Sep 2024,Doc 37 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,FERNANDO ALONSO,Aston Martin,21,15,69,Classified,4,5 second time penalty,Unsafe release from pit lane,24 Sep 2024,Doc 48 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,LEWIS HAMILTON,Mercedes,12,5,69,Classified,1,Reprimand,Unsafe release from pit lane,24 Sep 2024,Doc 64 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,Zhou Guanyu,Kick Sauber,16,21,69,Classified,6,,,24 Sep 2024,Doc 32 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,GEORGE RUSSELL,Mercedes,DNF,3,51,Not Classified,6,5 second time penalty,Causing a collision,24 Sep 2024,Doc 42 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,FRANCO COLAPINTO,Williams,7,5,69,Classified,4,Reprimand,Unsafe release from pit lane,24 Sep 2024,Doc 32 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,Esteban Ocon,Alpine,11,10,69,Classified,0,,,24 Sep 2024,Doc 45 - Classification
+FIA-2024-16-5038,Hungary Grand Prix,2024,SERGIO PEREZ,Red Bull Racing,12,8,69,Classified,6,Reprimand,Speeding under Safety Car,24 Sep 2024,Doc 52 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,CHARLES LECLERC,Ferrari,5,2,70,Classified,6,5 second time penalty,Speeding under Safety Car,01 Oct 2024,Doc 32 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,Lando Norris,McLaren,5,11,70,Classified,0,5 second time penalty,Impeding another driver in Qualifying,01 Oct 2024,Doc 47 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,Carlos Sainz,Ferrari,10,12,70,Classified,6,,,01 Oct 2024,Doc 34 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,ZHOU GUANYU,Kick Sauber,19,15,70,Classified,18,Reprimand,Causing a collision,01 Oct 2024,Doc 55 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,ALEXANDER ALBON,Williams,DNF,4,32,Not Classified,4,,,01 Oct 2024,Doc 53 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,PIERRE GASLY,Alpine,5,11,70,Classified,8,5 second time penalty,Track limits infringement,01 Oct 2024,Doc 45 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,Max Verstappen,Red Bull Racing,20,16,70,Classified,4,Reprimand,Impeding another driver in Qualifying,01 Oct 2024,Doc 46 - Classification
+FIA-2024-17-5039,Mexico Grand Prix,2024,Fernando Alonso,Aston Martin,DNF,18,12,Not Classified,10,Reprimand,Unsafe release from pit lane,01 Oct 2024,Doc 59 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,ALEXANDER ALBON,Williams,6,6,56,Classified,1,,,22 Oct 2024,Doc 52 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,Pierre Gasly,Alpine,1,7,56,Classified,2,5 second time penalty,Speeding under Safety Car,22 Oct 2024,Doc 57 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,OLIVER BEARMAN,Haas F1 Team,12,4,56,Classified,4,Reprimand,Track limits infringement,22 Oct 2024,Doc 39 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,FRANCO COLAPINTO,Williams,7,13,56,Classified,10,,,22 Oct 2024,Doc 56 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,George Russell,Mercedes,DNF,18,31,Not Classified,15,,,22 Oct 2024,Doc 38 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,Max Verstappen,Red Bull Racing,DNF,20,32,Not Classified,2,5 second time penalty,Ignoring blue flags,22 Oct 2024,Doc 62 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,Nico Hulkenberg,Haas F1 Team,11,15,56,Classified,12,Reprimand,Impeding another driver in Qualifying,22 Oct 2024,Doc 54 - Classification
+FIA-2024-18-5040,Qatar Grand Prix,2024,Lance Stroll,Aston Martin,DNF,20,45,Not Classified,0,,,22 Oct 2024,Doc 49 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,Zhou Guanyu,Kick Sauber,8,12,65,Classified,15,,,29 Oct 2024,Doc 32 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,Lando Norris,McLaren,17,9,65,Classified,10,Reprimand,Track limits infringement,29 Oct 2024,Doc 57 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,OSCAR PIASTRI,McLaren,17,18,65,Classified,1,Reprimand,Speeding under Safety Car,29 Oct 2024,Doc 64 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,FRANCO COLAPINTO,Williams,19,14,65,Classified,8,Reprimand,Speeding under Safety Car,29 Oct 2024,Doc 30 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,FERNANDO ALONSO,Aston Martin,17,9,65,Classified,0,Reprimand,Track limits infringement,29 Oct 2024,Doc 31 - Classification
+FIA-2024-19-5041,Spain Grand Prix,2024,MAX VERSTAPPEN,Red Bull Racing,16,9,65,Classified,8,5 second time penalty,Causing a collision,29 Oct 2024,Doc 63 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,Zhou Guanyu,Kick Sauber,1,2,52,Classified,4,Reprimand,Impeding another driver in Qualifying,12 Nov 2024,Doc 61 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,5,11,52,Classified,0,Reprimand,Impeding another driver in Qualifying,12 Nov 2024,Doc 68 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,FRANCO COLAPINTO,Williams,6,18,52,Classified,2,,,12 Nov 2024,Doc 64 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,FERNANDO ALONSO,Aston Martin,19,7,52,Classified,25,5 second time penalty,Ignoring blue flags,12 Nov 2024,Doc 42 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,NICO HULKENBERG,Haas F1 Team,11,8,52,Classified,25,,,12 Nov 2024,Doc 66 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,6,8,52,Classified,10,,,12 Nov 2024,Doc 51 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,Lewis Hamilton,Mercedes,4,1,52,Classified,0,5 second time penalty,Ignoring blue flags,12 Nov 2024,Doc 47 - Classification
+FIA-2024-20-5042,Japan Grand Prix,2024,PIERRE GASLY,Alpine,13,12,52,Classified,8,Reprimand,Speeding under Safety Car,12 Nov 2024,Doc 58 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,OLIVER BEARMAN,Haas F1 Team,20,14,51,Classified,15,5 second time penalty,Track limits infringement,26 Nov 2024,Doc 60 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,Zhou Guanyu,Kick Sauber,16,1,51,Classified,10,Reprimand,Track limits infringement,26 Nov 2024,Doc 45 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,CHARLES LECLERC,Ferrari,20,12,51,Classified,12,,,26 Nov 2024,Doc 41 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,YUKI TSUNODA,RB,16,16,51,Classified,12,5 second time penalty,Causing a collision,26 Nov 2024,Doc 55 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,KEVIN MAGNUSSEN,Haas F1 Team,19,20,51,Classified,6,Reprimand,Ignoring blue flags,26 Nov 2024,Doc 48 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,Esteban Ocon,Alpine,1,13,51,Classified,8,,,26 Nov 2024,Doc 53 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,Lance Stroll,Aston Martin,DNF,13,17,Not Classified,0,5 second time penalty,Track limits infringement,26 Nov 2024,Doc 64 - Classification
+FIA-2024-21-5043,United Kingdom Grand Prix,2024,Liam Lawson,RB,3,6,51,Classified,0,,,26 Nov 2024,Doc 33 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,ALEXANDER ALBON,Williams,20,5,56,Classified,0,Reprimand,Ignoring blue flags,10 Dec 2024,Doc 54 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,Kevin Magnussen,Haas F1 Team,21,9,56,Classified,4,5 second time penalty,Unsafe release from pit lane,10 Dec 2024,Doc 37 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,OSCAR PIASTRI,McLaren,12,4,56,Classified,12,Reprimand,Impeding another driver in Qualifying,10 Dec 2024,Doc 46 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,Max Verstappen,Red Bull Racing,15,2,56,Classified,0,5 second time penalty,Causing a collision,10 Dec 2024,Doc 64 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,Esteban Ocon,Alpine,4,19,56,Classified,8,,,10 Dec 2024,Doc 69 - Classification
+FIA-2024-22-5044,Miami Grand Prix,2024,CARLOS SAINZ,Ferrari,DNF,9,23,Not Classified,18,Reprimand,Track limits infringement,10 Dec 2024,Doc 62 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,LANCE STROLL,Aston Martin,18,8,49,Classified,12,5 second time penalty,Impeding another driver in Qualifying,17 Dec 2024,Doc 33 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,Lando Norris,McLaren,1,7,49,Classified,25,Reprimand,Causing a collision,17 Dec 2024,Doc 48 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,Zhou Guanyu,Kick Sauber,8,1,49,Classified,4,Reprimand,Unsafe release from pit lane,17 Dec 2024,Doc 58 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,LIAM LAWSON,RB,14,8,49,Classified,1,,,17 Dec 2024,Doc 49 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,Lewis Hamilton,Mercedes,16,17,49,Classified,12,5 second time penalty,Track limits infringement,17 Dec 2024,Doc 72 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,SERGIO PEREZ,Red Bull Racing,18,2,49,Classified,1,5 second time penalty,Speeding under Safety Car,17 Dec 2024,Doc 52 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,NICO HULKENBERG,Haas F1 Team,5,19,49,Classified,2,Reprimand,Track limits infringement,17 Dec 2024,Doc 37 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,9,16,49,Classified,15,Reprimand,Unsafe release from pit lane,17 Dec 2024,Doc 71 - Classification
+FIA-2024-23-5045,Las Vegas Grand Prix,2024,OSCAR PIASTRI,McLaren,18,6,49,Classified,18,5 second time penalty,Ignoring blue flags,17 Dec 2024,Doc 55 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,LANDO NORRIS,McLaren,18,12,62,Classified,25,5 second time penalty,Unsafe release from pit lane,24 Dec 2024,Doc 55 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,Oscar Piastri,McLaren,8,9,62,Classified,8,Reprimand,Track limits infringement,24 Dec 2024,Doc 32 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,Lewis Hamilton,Mercedes,13,17,62,Classified,8,Reprimand,Causing a collision,24 Dec 2024,Doc 30 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,VALTTERI BOTTAS,Kick Sauber,11,3,62,Classified,4,,,24 Dec 2024,Doc 59 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,MAX VERSTAPPEN,Red Bull Racing,DNF,21,20,Not Classified,8,,,24 Dec 2024,Doc 66 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,SERGIO PEREZ,Red Bull Racing,21,3,62,Classified,4,Reprimand,Speeding under Safety Car,24 Dec 2024,Doc 62 - Classification
+FIA-2024-24-5046,Italy Grand Prix,2024,Alexander Albon,Williams,1,3,62,Classified,12,5 second time penalty,Ignoring blue flags,24 Dec 2024,Doc 67 - Classification
+FIA-2025-01-5047,Bahrain Grand Prix,2025,MAX VERSTAPPEN,Red Bull Racing,9,14,56,Classified,4,,,16 Mar 2025,Doc 50 - Classification
+FIA-2025-01-5047,Bahrain Grand Prix,2025,Esteban Ocon,Alpine,8,14,56,Classified,18,Reprimand,Unsafe release from pit lane,16 Mar 2025,Doc 71 - Classification
+FIA-2025-01-5047,Bahrain Grand Prix,2025,KEVIN MAGNUSSEN,Haas F1 Team,16,19,56,Classified,12,5 second time penalty,Causing a collision,16 Mar 2025,Doc 61 - Classification
+FIA-2025-01-5047,Bahrain Grand Prix,2025,Lewis Hamilton,Ferrari,4,7,56,Classified,0,,,16 Mar 2025,Doc 43 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,Nico Hulkenberg,Kick Sauber,17,14,56,Classified,0,5 second time penalty,Causing a collision,30 Mar 2025,Doc 57 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,George Russell,Mercedes,7,14,56,Classified,0,5 second time penalty,Causing a collision,30 Mar 2025,Doc 54 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,Andrea Kimi Antonelli,Mercedes,14,2,56,Classified,0,Reprimand,Unsafe release from pit lane,30 Mar 2025,Doc 46 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,Fernando Alonso,Aston Martin,12,7,56,Classified,1,Reprimand,Unsafe release from pit lane,30 Mar 2025,Doc 45 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,Yuki Tsunoda,Racing Bulls,5,10,56,Classified,0,,,30 Mar 2025,Doc 43 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,LANCE STROLL,Aston Martin,5,8,56,Classified,18,Reprimand,Speeding under Safety Car,30 Mar 2025,Doc 50 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,ISACK HADJAR,Racing Bulls,DNF,9,38,Not Classified,4,Reprimand,Unsafe release from pit lane,30 Mar 2025,Doc 71 - Classification
+FIA-2025-02-5048,Qatar Grand Prix,2025,CHARLES LECLERC,Ferrari,DNF,15,19,Not Classified,4,,,30 Mar 2025,Doc 64 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,ANDREA KIMI ANTONELLI,Mercedes,15,11,56,Classified,12,,,06 Apr 2025,Doc 65 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,LANCE STROLL,Aston Martin,10,8,56,Classified,1,,,06 Apr 2025,Doc 39 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,Charles Leclerc,Ferrari,9,8,56,Classified,2,Reprimand,Impeding another driver in Qualifying,06 Apr 2025,Doc 56 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,ESTEBAN OCON,Alpine,5,20,56,Classified,12,5 second time penalty,Ignoring blue flags,06 Apr 2025,Doc 52 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,Lewis Hamilton,Ferrari,4,3,56,Classified,2,,,06 Apr 2025,Doc 38 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,OSCAR PIASTRI,McLaren,15,20,56,Classified,1,Reprimand,Causing a collision,06 Apr 2025,Doc 68 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,LANDO NORRIS,McLaren,6,12,56,Classified,25,Reprimand,Unsafe release from pit lane,06 Apr 2025,Doc 44 - Classification
+FIA-2025-03-5049,Miami Grand Prix,2025,Alexander Albon,Williams,DNF,1,9,Not Classified,18,Reprimand,Unsafe release from pit lane,06 Apr 2025,Doc 46 - Classification
+FIA-2025-04-5050,Belgium Grand Prix,2025,ESTEBAN OCON,Alpine,8,16,44,Classified,6,,,20 Apr 2025,Doc 56 - Classification
+FIA-2025-04-5050,Belgium Grand Prix,2025,YUKI TSUNODA,Racing Bulls,15,13,44,Classified,2,5 second time penalty,Track limits infringement,20 Apr 2025,Doc 46 - Classification
+FIA-2025-04-5050,Belgium Grand Prix,2025,KEVIN MAGNUSSEN,Haas F1 Team,DNF,14,12,Not Classified,6,5 second time penalty,Speeding under Safety Car,20 Apr 2025,Doc 61 - Classification
+FIA-2025-04-5050,Belgium Grand Prix,2025,Charles Leclerc,Ferrari,9,19,44,Classified,4,,,20 Apr 2025,Doc 71 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,LANDO NORRIS,McLaren,19,6,50,Classified,4,Reprimand,Unsafe release from pit lane,27 Apr 2025,Doc 70 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,ALEXANDER ALBON,Williams,DNF,15,40,Not Classified,6,Reprimand,Track limits infringement,27 Apr 2025,Doc 52 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,Oscar Piastri,McLaren,2,7,50,Classified,1,5 second time penalty,Track limits infringement,27 Apr 2025,Doc 67 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,GABRIEL BORTOLETO,Kick Sauber,10,4,50,Classified,8,,,27 Apr 2025,Doc 60 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,LIAM LAWSON,Red Bull Racing,18,10,50,Classified,25,,,27 Apr 2025,Doc 62 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,Oliver Bearman,Haas F1 Team,18,19,50,Classified,10,Reprimand,Track limits infringement,27 Apr 2025,Doc 31 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,JACK DOOHAN,Alpine,20,10,50,Classified,25,,,27 Apr 2025,Doc 60 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,Lance Stroll,Aston Martin,19,2,50,Classified,25,,,27 Apr 2025,Doc 64 - Classification
+FIA-2025-05-5051,Azerbaijan Grand Prix,2025,LEWIS HAMILTON,Ferrari,4,16,50,Classified,0,,,27 Apr 2025,Doc 64 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,LANCE STROLL,Aston Martin,16,17,61,Classified,2,,,18 May 2025,Doc 66 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,OSCAR PIASTRI,McLaren,6,11,61,Classified,8,5 second time penalty,Impeding another driver in Qualifying,18 May 2025,Doc 45 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,Max Verstappen,Red Bull Racing,8,14,61,Classified,0,Reprimand,Ignoring blue flags,18 May 2025,Doc 51 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,Esteban Ocon,Alpine,8,9,61,Classified,1,5 second time penalty,Impeding another driver in Qualifying,18 May 2025,Doc 62 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,JACK DOOHAN,Alpine,19,8,61,Classified,6,5 second time penalty,Impeding another driver in Qualifying,18 May 2025,Doc 53 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,Charles Leclerc,Ferrari,2,17,61,Classified,18,,,18 May 2025,Doc 45 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,NICO HULKENBERG,Kick Sauber,4,15,61,Classified,0,,,18 May 2025,Doc 38 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,LEWIS HAMILTON,Ferrari,13,17,61,Classified,4,5 second time penalty,Unsafe release from pit lane,18 May 2025,Doc 44 - Classification
+FIA-2025-06-5052,Singapore Grand Prix,2025,Kevin Magnussen,Haas F1 Team,9,15,61,Classified,0,,,18 May 2025,Doc 62 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,LANDO NORRIS,McLaren,2,15,70,Classified,18,,,01 Jun 2025,Doc 32 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,Lance Stroll,Aston Martin,18,5,70,Classified,0,,,01 Jun 2025,Doc 60 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,ANDREA KIMI ANTONELLI,Mercedes,DNF,13,46,Not Classified,12,,,01 Jun 2025,Doc 60 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,LEWIS HAMILTON,Ferrari,20,10,70,Classified,0,Reprimand,Speeding under Safety Car,01 Jun 2025,Doc 63 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,GEORGE RUSSELL,Mercedes,4,1,70,Classified,18,Reprimand,Impeding another driver in Qualifying,01 Jun 2025,Doc 32 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,YUKI TSUNODA,Racing Bulls,4,2,70,Classified,18,Reprimand,Impeding another driver in Qualifying,01 Jun 2025,Doc 42 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,Liam Lawson,Red Bull Racing,DNF,16,40,Not Classified,18,,,01 Jun 2025,Doc 62 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,Gabriel Bortoleto,Kick Sauber,7,18,70,Classified,0,5 second time penalty,Unsafe release from pit lane,01 Jun 2025,Doc 40 - Classification
+FIA-2025-07-5053,Mexico Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,DNF,10,56,Not Classified,6,5 second time penalty,Ignoring blue flags,01 Jun 2025,Doc 64 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,Kevin Magnussen,Haas F1 Team,19,5,70,Classified,2,,,22 Jun 2025,Doc 71 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,LANDO NORRIS,McLaren,20,5,70,Classified,2,,,22 Jun 2025,Doc 46 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,YUKI TSUNODA,Racing Bulls,6,4,70,Classified,25,Reprimand,Speeding under Safety Car,22 Jun 2025,Doc 40 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,GEORGE RUSSELL,Mercedes,19,14,70,Classified,25,,,22 Jun 2025,Doc 53 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,Oliver Bearman,Haas F1 Team,16,8,70,Classified,1,Reprimand,Speeding under Safety Car,22 Jun 2025,Doc 63 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,ISACK HADJAR,Racing Bulls,20,11,70,Classified,8,,,22 Jun 2025,Doc 69 - Classification
+FIA-2025-08-5054,Brazil Grand Prix,2025,ALEXANDER ALBON,Williams,10,8,70,Classified,0,5 second time penalty,Speeding under Safety Car,22 Jun 2025,Doc 51 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,Oscar Piastri,McLaren,11,1,55,Classified,15,5 second time penalty,Causing a collision,06 Jul 2025,Doc 72 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,Lewis Hamilton,Ferrari,7,11,55,Classified,0,5 second time penalty,Causing a collision,06 Jul 2025,Doc 66 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,NICO HULKENBERG,Kick Sauber,6,9,55,Classified,12,5 second time penalty,Speeding under Safety Car,06 Jul 2025,Doc 71 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,ESTEBAN OCON,Alpine,20,13,55,Classified,2,5 second time penalty,Impeding another driver in Qualifying,06 Jul 2025,Doc 50 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,Kevin Magnussen,Haas F1 Team,13,13,55,Classified,18,Reprimand,Impeding another driver in Qualifying,06 Jul 2025,Doc 61 - Classification
+FIA-2025-09-5055,China Grand Prix,2025,ALEXANDER ALBON,Williams,1,18,55,Classified,15,5 second time penalty,Unsafe release from pit lane,06 Jul 2025,Doc 40 - Classification
+FIA-2025-10-5056,Italy Grand Prix,2025,Lewis Hamilton,Ferrari,5,18,52,Classified,0,Reprimand,Impeding another driver in Qualifying,20 Jul 2025,Doc 34 - Classification
+FIA-2025-10-5056,Italy Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,7,17,52,Classified,10,5 second time penalty,Speeding under Safety Car,20 Jul 2025,Doc 69 - Classification
+FIA-2025-10-5056,Italy Grand Prix,2025,NICO HULKENBERG,Kick Sauber,18,11,52,Classified,12,,,20 Jul 2025,Doc 51 - Classification
+FIA-2025-10-5056,Italy Grand Prix,2025,Isack Hadjar,Racing Bulls,1,12,52,Classified,12,,,20 Jul 2025,Doc 43 - Classification
+FIA-2025-11-5057,Italy Grand Prix,2025,FRANCO COLAPINTO,Williams,15,16,62,Classified,4,Reprimand,Ignoring blue flags,03 Aug 2025,Doc 47 - Classification
+FIA-2025-11-5057,Italy Grand Prix,2025,MAX VERSTAPPEN,Red Bull Racing,15,13,62,Classified,8,,,03 Aug 2025,Doc 67 - Classification
+FIA-2025-11-5057,Italy Grand Prix,2025,YUKI TSUNODA,Racing Bulls,6,16,62,Classified,12,Reprimand,Track limits infringement,03 Aug 2025,Doc 70 - Classification
+FIA-2025-11-5057,Italy Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,5,6,62,Classified,0,Reprimand,Speeding under Safety Car,03 Aug 2025,Doc 61 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,3,2,69,Classified,4,5 second time penalty,Speeding under Safety Car,17 Aug 2025,Doc 39 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,FERNANDO ALONSO,Aston Martin,5,14,69,Classified,0,Reprimand,Causing a collision,17 Aug 2025,Doc 69 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,ANDREA KIMI ANTONELLI,Mercedes,15,9,69,Classified,25,,,17 Aug 2025,Doc 31 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,NICO HULKENBERG,Kick Sauber,10,18,69,Classified,8,5 second time penalty,Ignoring blue flags,17 Aug 2025,Doc 61 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,JACK DOOHAN,Alpine,11,7,69,Classified,25,,,17 Aug 2025,Doc 51 - Classification
+FIA-2025-12-5058,Canada Grand Prix,2025,YUKI TSUNODA,Racing Bulls,13,19,69,Classified,0,5 second time penalty,Track limits infringement,17 Aug 2025,Doc 56 - Classification
+FIA-2025-13-5059,Saudi Arabia Grand Prix,2025,Liam Lawson,Red Bull Racing,16,7,49,Classified,10,5 second time penalty,Speeding under Safety Car,31 Aug 2025,Doc 40 - Classification
+FIA-2025-13-5059,Saudi Arabia Grand Prix,2025,Jack Doohan,Alpine,18,20,49,Classified,6,Reprimand,Causing a collision,31 Aug 2025,Doc 63 - Classification
+FIA-2025-13-5059,Saudi Arabia Grand Prix,2025,FRANCO COLAPINTO,Williams,3,5,49,Classified,15,,,31 Aug 2025,Doc 46 - Classification
+FIA-2025-13-5059,Saudi Arabia Grand Prix,2025,Isack Hadjar,Racing Bulls,20,18,49,Classified,25,,,31 Aug 2025,Doc 36 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,ISACK HADJAR,Racing Bulls,6,15,78,Classified,0,Reprimand,Ignoring blue flags,14 Sep 2025,Doc 32 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,FERNANDO ALONSO,Aston Martin,7,18,78,Classified,2,Reprimand,Unsafe release from pit lane,14 Sep 2025,Doc 43 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,GEORGE RUSSELL,Mercedes,10,19,78,Classified,18,,,14 Sep 2025,Doc 69 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,DNF,20,11,Not Classified,25,,,14 Sep 2025,Doc 36 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,Esteban Ocon,Alpine,5,6,78,Classified,1,5 second time penalty,Unsafe release from pit lane,14 Sep 2025,Doc 60 - Classification
+FIA-2025-14-5060,Monaco Grand Prix,2025,Jack Doohan,Alpine,11,20,78,Classified,25,,,14 Sep 2025,Doc 55 - Classification
+FIA-2025-15-5061,Hungary Grand Prix,2025,LIAM LAWSON,Red Bull Racing,7,14,69,Classified,10,5 second time penalty,Ignoring blue flags,21 Sep 2025,Doc 72 - Classification
+FIA-2025-15-5061,Hungary Grand Prix,2025,Max Verstappen,Red Bull Racing,17,4,69,Classified,15,,,21 Sep 2025,Doc 57 - Classification
+FIA-2025-15-5061,Hungary Grand Prix,2025,George Russell,Mercedes,20,20,69,Classified,8,5 second time penalty,Ignoring blue flags,21 Sep 2025,Doc 34 - Classification
+FIA-2025-15-5061,Hungary Grand Prix,2025,ESTEBAN OCON,Alpine,6,16,69,Classified,0,Reprimand,Ignoring blue flags,21 Sep 2025,Doc 34 - Classification
+FIA-2025-15-5061,Hungary Grand Prix,2025,Isack Hadjar,Racing Bulls,13,20,69,Classified,1,Reprimand,Impeding another driver in Qualifying,21 Sep 2025,Doc 54 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,Lewis Hamilton,Ferrari,4,7,70,Classified,25,,,05 Oct 2025,Doc 62 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,Alexander Albon,Williams,10,5,70,Classified,25,,,05 Oct 2025,Doc 30 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,Max Verstappen,Red Bull Racing,19,8,70,Classified,4,5 second time penalty,Unsafe release from pit lane,05 Oct 2025,Doc 48 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,FRANCO COLAPINTO,Williams,5,16,70,Classified,8,,,05 Oct 2025,Doc 69 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,Yuki Tsunoda,Racing Bulls,14,14,70,Classified,25,,,05 Oct 2025,Doc 40 - Classification
+FIA-2025-16-5062,Austria Grand Prix,2025,FERNANDO ALONSO,Aston Martin,1,6,70,Classified,1,Reprimand,Causing a collision,05 Oct 2025,Doc 36 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,LANDO NORRIS,McLaren,5,20,49,Classified,0,5 second time penalty,Track limits infringement,19 Oct 2025,Doc 33 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,Fernando Alonso,Aston Martin,7,2,49,Classified,0,,,19 Oct 2025,Doc 64 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,Max Verstappen,Red Bull Racing,4,17,49,Classified,0,5 second time penalty,Track limits infringement,19 Oct 2025,Doc 31 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,ALEXANDER ALBON,Williams,1,3,49,Classified,0,Reprimand,Causing a collision,19 Oct 2025,Doc 62 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,ESTEBAN OCON,Alpine,9,7,49,Classified,0,,,19 Oct 2025,Doc 71 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,FRANCO COLAPINTO,Williams,17,3,49,Classified,0,,,19 Oct 2025,Doc 44 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,Nico Hulkenberg,Kick Sauber,2,16,49,Classified,6,,,19 Oct 2025,Doc 55 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,GABRIEL BORTOLETO,Kick Sauber,13,12,49,Classified,4,,,19 Oct 2025,Doc 39 - Classification
+FIA-2025-17-5063,Las Vegas Grand Prix,2025,ANDREA KIMI ANTONELLI,Mercedes,9,19,49,Classified,0,Reprimand,Impeding another driver in Qualifying,19 Oct 2025,Doc 41 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,Gabriel Bortoleto,Kick Sauber,14,12,71,Classified,2,5 second time penalty,Unsafe release from pit lane,02 Nov 2025,Doc 65 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,LANCE STROLL,Aston Martin,14,13,71,Classified,4,Reprimand,Track limits infringement,02 Nov 2025,Doc 44 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,12,20,71,Classified,10,5 second time penalty,Track limits infringement,02 Nov 2025,Doc 51 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,ISACK HADJAR,Racing Bulls,20,19,71,Classified,1,,,02 Nov 2025,Doc 64 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,JACK DOOHAN,Alpine,20,7,71,Classified,2,Reprimand,Ignoring blue flags,02 Nov 2025,Doc 54 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,NICO HULKENBERG,Kick Sauber,10,2,71,Classified,18,,,02 Nov 2025,Doc 51 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,YUKI TSUNODA,Racing Bulls,10,20,71,Classified,0,Reprimand,Speeding under Safety Car,02 Nov 2025,Doc 57 - Classification
+FIA-2025-18-5064,Netherlands Grand Prix,2025,George Russell,Mercedes,16,6,71,Classified,10,,,02 Nov 2025,Doc 50 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,Alexander Albon,Williams,5,4,52,Classified,15,,,23 Nov 2025,Doc 47 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,ESTEBAN OCON,Alpine,5,7,52,Classified,6,Reprimand,Causing a collision,23 Nov 2025,Doc 65 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,KEVIN MAGNUSSEN,Haas F1 Team,19,2,52,Classified,15,5 second time penalty,Track limits infringement,23 Nov 2025,Doc 60 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,Lando Norris,McLaren,13,20,52,Classified,4,5 second time penalty,Unsafe release from pit lane,23 Nov 2025,Doc 31 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,YUKI TSUNODA,Racing Bulls,13,10,52,Classified,12,Reprimand,Impeding another driver in Qualifying,23 Nov 2025,Doc 49 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,ANDREA KIMI ANTONELLI,Mercedes,DNF,5,7,Not Classified,0,Reprimand,Ignoring blue flags,23 Nov 2025,Doc 58 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,GEORGE RUSSELL,Mercedes,12,9,52,Classified,2,Reprimand,Impeding another driver in Qualifying,23 Nov 2025,Doc 51 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,JACK DOOHAN,Alpine,3,12,52,Classified,8,5 second time penalty,Causing a collision,23 Nov 2025,Doc 69 - Classification
+FIA-2025-19-5065,Japan Grand Prix,2025,CHARLES LECLERC,Ferrari,7,16,52,Classified,10,5 second time penalty,Ignoring blue flags,23 Nov 2025,Doc 53 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,CHARLES LECLERC,Ferrari,20,16,57,Classified,2,,,14 Dec 2025,Doc 49 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,Esteban Ocon,Alpine,14,3,57,Classified,8,,,14 Dec 2025,Doc 45 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,Kevin Magnussen,Haas F1 Team,2,19,57,Classified,0,5 second time penalty,Track limits infringement,14 Dec 2025,Doc 57 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,LANCE STROLL,Aston Martin,10,12,57,Classified,15,5 second time penalty,Causing a collision,14 Dec 2025,Doc 37 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,GEORGE RUSSELL,Mercedes,16,20,57,Classified,2,,,14 Dec 2025,Doc 54 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,Oscar Piastri,McLaren,16,19,57,Classified,2,Reprimand,Speeding under Safety Car,14 Dec 2025,Doc 34 - Classification
+FIA-2025-20-5066,UAE Grand Prix,2025,Max Verstappen,Red Bull Racing,14,13,57,Classified,1,5 second time penalty,Causing a collision,14 Dec 2025,Doc 42 - Classification
+FIA-2025-21-5067,Spain Grand Prix,2025,GABRIEL BORTOLETO,Kick Sauber,10,11,65,Classified,0,5 second time penalty,Causing a collision,28 Dec 2025,Doc 42 - Classification
+FIA-2025-21-5067,Spain Grand Prix,2025,GEORGE RUSSELL,Mercedes,18,17,65,Classified,6,Reprimand,Ignoring blue flags,28 Dec 2025,Doc 45 - Classification
+FIA-2025-21-5067,Spain Grand Prix,2025,Liam Lawson,Red Bull Racing,16,8,65,Classified,2,5 second time penalty,Causing a collision,28 Dec 2025,Doc 44 - Classification
+FIA-2025-21-5067,Spain Grand Prix,2025,LANCE STROLL,Aston Martin,DNF,14,9,Not Classified,6,5 second time penalty,Speeding under Safety Car,28 Dec 2025,Doc 46 - Classification
+FIA-2025-21-5067,Spain Grand Prix,2025,YUKI TSUNODA,Racing Bulls,11,6,65,Classified,1,5 second time penalty,Ignoring blue flags,28 Dec 2025,Doc 58 - Classification
+FIA-2025-22-5068,United Kingdom Grand Prix,2025,George Russell,Mercedes,13,9,51,Classified,1,5 second time penalty,Impeding another driver in Qualifying,11 Jan 2026,Doc 31 - Classification
+FIA-2025-22-5068,United Kingdom Grand Prix,2025,FERNANDO ALONSO,Aston Martin,20,7,51,Classified,10,,,11 Jan 2026,Doc 62 - Classification
+FIA-2025-22-5068,United Kingdom Grand Prix,2025,Alexander Albon,Williams,8,9,51,Classified,2,Reprimand,Track limits infringement,11 Jan 2026,Doc 37 - Classification
+FIA-2025-22-5068,United Kingdom Grand Prix,2025,JACK DOOHAN,Alpine,4,20,51,Classified,6,,,11 Jan 2026,Doc 71 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,Gabriel Bortoleto,Kick Sauber,12,7,55,Classified,15,,,25 Jan 2026,Doc 54 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,JACK DOOHAN,Alpine,DNF,17,35,Not Classified,0,,,25 Jan 2026,Doc 39 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,Nico Hulkenberg,Kick Sauber,6,2,55,Classified,4,Reprimand,Track limits infringement,25 Jan 2026,Doc 32 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,OLIVER BEARMAN,Haas F1 Team,15,2,55,Classified,6,Reprimand,Impeding another driver in Qualifying,25 Jan 2026,Doc 55 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,MAX VERSTAPPEN,Red Bull Racing,20,16,55,Classified,25,5 second time penalty,Speeding under Safety Car,25 Jan 2026,Doc 72 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,Esteban Ocon,Alpine,DNF,18,28,Not Classified,25,Reprimand,Unsafe release from pit lane,25 Jan 2026,Doc 33 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,FRANCO COLAPINTO,Williams,6,11,55,Classified,0,Reprimand,Ignoring blue flags,25 Jan 2026,Doc 68 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,LANCE STROLL,Aston Martin,7,16,55,Classified,0,Reprimand,Ignoring blue flags,25 Jan 2026,Doc 45 - Classification
+FIA-2025-23-5069,Austin Grand Prix,2025,Yuki Tsunoda,Racing Bulls,7,18,55,Classified,10,5 second time penalty,Unsafe release from pit lane,25 Jan 2026,Doc 48 - Classification
+FIA-2025-24-5070,Australia Grand Prix,2025,ESTEBAN OCON,Alpine,13,6,57,Classified,8,,,01 Feb 2026,Doc 61 - Classification
+FIA-2025-24-5070,Australia Grand Prix,2025,LANCE STROLL,Aston Martin,1,13,57,Classified,12,,,01 Feb 2026,Doc 39 - Classification
+FIA-2025-24-5070,Australia Grand Prix,2025,JACK DOOHAN,Alpine,10,11,57,Classified,25,5 second time penalty,Impeding another driver in Qualifying,01 Feb 2026,Doc 54 - Classification
+FIA-2025-24-5070,Australia Grand Prix,2025,Gabriel Bortoleto,Kick Sauber,12,11,57,Classified,25,,,01 Feb 2026,Doc 56 - Classification
+FIA-2025-24-5070,Australia Grand Prix,2025,FERNANDO ALONSO,Aston Martin,DNF,18,15,Not Classified,0,5 second time penalty,Causing a collision,01 Feb 2026,Doc 54 - Classification

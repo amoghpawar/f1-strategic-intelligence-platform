@@ -1,0 +1,28 @@
+circuit_id,circuit_name,country,city,latitude,longitude,track_length_km,number_of_corners,altitude_m,season,source
+CIRC001,Bahrain International Circuit,Bahrain,Sakhir,26.0325,50.5106,5.412,15,7.0,2024,formula1_official
+CIRC002,Jeddah Corniche Circuit,Saudi Arabia,Jeddah,21.6319,39.1044,6.174,27,12.0,2024,formula1_official
+CIRC003,Albert Park Circuit,Australia,Melbourne,-37.8497,144.968,5.278,14,10.0,2024,formula1_official
+CIRC003,ALBERT PARK CIRCUIT,Australia,Melbourne,-37.8497,144.968,5278.0,14,10.0,2025,openf1
+CIRC004,Baku City Circuit,Azerbaijan,Baku,40.3725,49.8533,6.003,20,-7.0,2023,formula1_official
+CIRC005,Miami International Autodrome,USA,Miami,25.9581,-80.2389,5.412,19,,2024,formula1_official
+CIRC006,Autodromo Enzo e Dino Ferrari,Italy,Imola,44.3439,11.7167,4.909,19,37.0,2023,formula1_official
+CIRC007,Circuit de Monaco,Monaco,Monte Carlo,43.7347,7.4206,3.337,19,7.0,2025,formula1_official
+CIRC008,Circuit de Barcelona-Catalunya,Spain,Barcelona,41.57,2.2611,4.657,14,109.0,2025,formula1_official
+CIRC009,Circuit Gilles Villeneuve,Canada,Montreal,45.5,-73.5228,4.361,14,13.0,2023,formula1_official
+CIRC010,Red Bull Ring,Austria,Spielberg,47.2197,14.7647,4.318,10,678.0,2023,formula1_official
+CIRC011,Silverstone Circuit,United Kingdom,,52.0786,-1.0169,5.891,18,153.0,2024,formula1_official
+CIRC011,SILVERSTONE CIRCUIT,United Kingdom,Silverstone,52.0786,-1.0169,5891.0,18,,2023,openf1
+CIRC012,Hungaroring,Hungary,Budapest,47.5789,19.2486,4.381,14,264.0,2025,formula1_official
+CIRC013,Circuit de Spa-Francorchamps,Belgium,Spa,50.4372,5.9714,7.004,19,401.0,2025,formula1_official
+CIRC014,Circuit Zandvoort,Netherlands,Zandvoort,52.3888,4.5409,4.259,14,6.0,2024,formula1_official
+CIRC015,Autodromo Nazionale Monza,Italy,,45.6156,9.2811,5.793,11,162.0,2023,formula1_official
+CIRC016,Marina Bay Street Circuit,Singapore,Singapore,1.2914,103.864,4.94,19,15.0,2024,formula1_official
+CIRC017,Suzuka International Racing Course,Japan,Suzuka,34.8431,136.541,5.807,18,45.0,2023,formula1_official
+CIRC018,Losail International Circuit,Qatar,Lusail,25.49,51.4542,5.38,16,,2024,formula1_official
+CIRC019,Circuit of the Americas,USA,Austin,30.1328,-97.6411,5.513,20,161.0,2024,formula1_official
+CIRC020,Autodromo Hermanos Rodriguez,Mexico,Mexico City,19.4042,-99.0907,4.304,17,2227.0,2023,formula1_official
+CIRC021,Autodromo Jose Carlos Pace,Brazil,Sao Paulo,-23.7036,-46.6997,4.309,15,785.0,2023,formula1_official
+CIRC022,Las Vegas Strip Circuit,USA,Las Vegas,36.1147,-115.1728,6.201,17,610.0,2024,formula1_official
+CIRC022,LAS VEGAS STRIP CIRCUIT,USA,Las Vegas,36.1147,-115.1728,6201.0,17,610.0,2024,openf1
+CIRC023,Yas Marina Circuit,UAE,Abu Dhabi,24.4672,54.6031,5.281,16,3.0,2024,formula1_official
+CIRC024,Shanghai International Circuit,China,Shanghai,31.3389,121.22,5.451,16,4.0,2024,formula1_official

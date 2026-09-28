@@ -1,0 +1,1425 @@
+season,round,race_name,driver,driver_number,constructor,grid_position,finish_position,status,points,fastest_lap,fastest_lap_time,fastest_lap_speed,laps_completed,race_time,source
+2023,1,Bahrain Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,4.0,Finished,12.0,False,,,56,1:31:38.346,fastf1
+2023,1,Bahrain Grand Prix,Sergio Perez,11,Red Bull Racing,2.0,2.0,Finished,18.0,True,79.559,303.0,56,1:25:30.464,fastf1
+2023,1,Bahrain Grand Prix,Lewis Hamilton,44,Mercedes,12.0,12.0,Finished,0.0,False,,,56,1:33:38.220,fastf1
+2023,1,Bahrain Grand Prix,George Russell,63,Mercedes,17.0,,Gearbox,,False,,,23,,fastf1
+2023,1,Bahrain Grand Prix,Charles Leclerc,16,Ferrari,20.0,14.0,Finished,0.0,False,,,56,1:34:42.291,fastf1
+2023,1,Bahrain Grand Prix,Carlos Sainz,55,Ferrari,1.0,6.0,Finished,8.0,True,101.071,291.0,56,1:30:50.155,fastf1
+2023,1,Bahrain Grand Prix,Lando Norris,4,McLaren,7.0,18.0,Finished,0.0,False,,,56,1:32:08.016,fastf1
+2023,1,Bahrain Grand Prix,"Piastri, Oscar",81,McLaren,15.0,5.0,Finished,10.0,False,,,56,1:28:04.869,fastf1
+2023,1,Bahrain Grand Prix,Fernando Alonso,14,Aston Martin,11.0,17.0,Finished,0.0,False,,,56,1:29:05.231,fastf1
+2023,1,Bahrain Grand Prix,Lance Stroll,18,Aston Martin,3.0,1.0,Finished,25.0,False,,,56,1:27:03.554,fastf1
+2023,1,Bahrain Grand Prix,Esteban Ocon,31,Alpine,9.0,8.0,Finished,4.0,False,,,56,1:33:40.443,fastf1
+2023,1,Bahrain Grand Prix,Pierre Gasly,10,Alpine,8.0,11.0,Finished,0.0,False,,,56,1:29:57.558,fastf1
+2023,1,Bahrain Grand Prix,Valtteri Bottas,77,Alfa Romeo,13.0,15.0,Finished,0.0,False,,,56,1:32:35.582,fastf1
+2023,1,Bahrain Grand Prix,Zhou Guanyu,24,Alfa Romeo,4.0,19.0,Finished,0.0,False,,,56,1:27:42.402,fastf1
+2023,1,Bahrain Grand Prix,Kevin Magnussen,20,Haas F1 Team,18.0,7.0,Finished,6.0,False,,,56,1:25:41.743,fastf1
+2023,1,Bahrain Grand Prix,Nico Hulkenberg,27,Haas F1 Team,16.0,13.0,Finished,0.0,False,,,56,1:32:35.366,fastf1
+2023,1,Bahrain Grand Prix,Yuki Tsunoda,22,AlphaTauri,10.0,10.0,Finished,1.0,False,,,56,1:26:46.875,fastf1
+2023,1,Bahrain Grand Prix,Daniel Ricciardo,3,AlphaTauri,19.0,9.0,Finished,2.0,False,,,56,1:26:19.944,fastf1
+2023,1,Bahrain Grand Prix,Alexander Albon,23,Williams,14.0,16.0,Finished,0.0,False,,,56,1:28:50.550,fastf1
+2023,1,Bahrain Grand Prix,Logan Sargeant,2,Williams,6.0,3.0,Finished,15.0,False,,,56,1:28:01.363,fastf1
+2023,2,Qatar Grand Prix,Max Verstappen,1,Red Bull Racing,8.0,12.0,Finished,0.0,False,,,56,1:32:59.921,fastf1
+2023,2,Qatar Grand Prix,Sergio Perez,11,Red Bull Racing,5.0,16.0,Finished,0.0,False,,,56,1:31:08.895,fastf1
+2023,2,Qatar Grand Prix,Lewis Hamilton,44,Mercedes,11.0,5.0,Finished,10.0,False,,,56,1:26:40.701,fastf1
+2023,2,Qatar Grand Prix,George Russell,63,Mercedes,1.0,11.0,Finished,0.0,False,,,56,1:27:10.441,fastf1
+2023,2,Qatar Grand Prix,"Leclerc, Charles",16,Ferrari,14.0,,Accident,,False,,,17,,fastf1
+2023,2,Qatar Grand Prix,Carlos Sainz,55,Ferrari,12.0,9.0,Finished,2.0,False,,,56,1:29:36.084,fastf1
+2023,2,Qatar Grand Prix,Lando Norris,4,McLaren,17.0,10.0,Finished,1.0,False,,,56,1:30:26.621,fastf1
+2023,2,Qatar Grand Prix,Oscar Piastri,81,McLaren,18.0,1.0,Finished,25.0,False,,,56,1:33:32.462,fastf1
+2023,2,Qatar Grand Prix,"Alonso, Fernando",14,Aston Martin,13.0,15.0,Finished,0.0,False,,,56,1:27:40.513,fastf1
+2023,2,Qatar Grand Prix,"Stroll, Lance",18,Aston Martin,6.0,17.0,Finished,0.0,False,,,56,1:31:31.654,fastf1
+2023,2,Qatar Grand Prix,Esteban Ocon,31,Alpine,16.0,7.0,Finished,6.0,False,,,56,1:27:50.366,fastf1
+2023,2,Qatar Grand Prix,Pierre Gasly,10,Alpine,15.0,6.0,Finished,8.0,False,,,56,1:27:59.215,fastf1
+2023,2,Qatar Grand Prix,Valtteri Bottas,77,Alfa Romeo,3.0,18.0,Finished,0.0,False,,,56,1:28:52.090,fastf1
+2023,2,Qatar Grand Prix,Zhou Guanyu,24,Alfa Romeo,4.0,,Mechanical,,False,,,24,,fastf1
+2023,2,Qatar Grand Prix,Kevin Magnussen,20,Haas F1 Team,7.0,4.0,Finished,12.0,False,,,56,1:30:10.001,fastf1
+2023,2,Qatar Grand Prix,Nico Hulkenberg,27,Haas F1 Team,19.0,3.0,Finished,15.0,False,,,56,1:32:36.454,fastf1
+2023,2,Qatar Grand Prix,Yuki Tsunoda,22,AlphaTauri,20.0,2.0,Finished,18.0,False,,,56,1:34:07.898,fastf1
+2023,2,Qatar Grand Prix,Daniel Ricciardo,3,AlphaTauri,9.0,14.0,Finished,0.0,False,,,56,1:33:29.576,fastf1
+2023,2,Qatar Grand Prix,Alexander Albon,23,Williams,2.0,13.0,Finished,0.0,False,,,56,1:32:16.011,fastf1
+2023,2,Qatar Grand Prix,Logan Sargeant,2,Williams,10.0,8.0,Finished,4.0,False,,,56,1:28:16.328,fastf1
+2023,3,Italy Grand Prix,Max Verstappen,1,Red Bull Racing,8.0,2.0,Finished,18.0,False,,,62,1:33:59.004,fastf1
+2023,3,Italy Grand Prix,Sergio Perez,11,Red Bull Racing,9.0,16.0,Finished,0.0,False,,,62,1:33:51.761,fastf1
+2023,3,Italy Grand Prix,Lewis Hamilton,44,Mercedes,6.0,17.0,Finished,0.0,False,,,62,1:28:16.645,fastf1
+2023,3,Italy Grand Prix,George Russell,63,Mercedes,12.0,8.0,Finished,4.0,False,,,62,1:31:59.316,fastf1
+2023,3,Italy Grand Prix,Charles Leclerc,16,Ferrari,5.0,1.0,Finished,25.0,False,,,62,1:31:00.222,fastf1
+2023,3,Italy Grand Prix,Carlos Sainz,55,Ferrari,3.0,14.0,Finished,0.0,False,,,62,1:27:18.727,fastf1
+2023,3,Italy Grand Prix,Lando Norris,4,McLaren,17.0,4.0,Finished,12.0,False,,,62,1:33:16.991,fastf1
+2023,3,Italy Grand Prix,Oscar Piastri,81,McLaren,10.0,9.0,Finished,2.0,True,91.131,326.5,62,1:29:32.634,fastf1
+2023,3,Italy Grand Prix,"Alonso, Fernando",14,Aston Martin,14.0,12.0,Finished,0.0,False,,,62,1:26:23.799,fastf1
+2023,3,Italy Grand Prix,Lance Stroll,18,Aston Martin,11.0,20.0,Finished,0.0,False,,,62,1:31:39.416,fastf1
+2023,3,Italy Grand Prix,Esteban Ocon,31,Alpine,19.0,10.0,Finished,1.0,False,,,62,1:28:03.549,fastf1
+2023,3,Italy Grand Prix,Pierre Gasly,10,Alpine,4.0,5.0,Finished,10.0,False,,,62,1:33:35.334,fastf1
+2023,3,Italy Grand Prix,"Bottas, Valtteri",77,Alfa Romeo,2.0,18.0,Finished,0.0,False,,,62,1:33:02.766,fastf1
+2023,3,Italy Grand Prix,Zhou Guanyu,24,Alfa Romeo,7.0,19.0,Finished,0.0,False,,,62,1:32:58.472,fastf1
+2023,3,Italy Grand Prix,Kevin Magnussen,20,Haas F1 Team,18.0,13.0,Finished,0.0,False,,,62,1:29:00.778,fastf1
+2023,3,Italy Grand Prix,Nico Hulkenberg,27,Haas F1 Team,13.0,3.0,Finished,15.0,False,,,62,1:29:54.019,fastf1
+2023,3,Italy Grand Prix,Yuki Tsunoda,22,AlphaTauri,16.0,6.0,Finished,8.0,False,,,62,1:32:53.067,fastf1
+2023,3,Italy Grand Prix,Daniel Ricciardo,3,AlphaTauri,15.0,11.0,Finished,0.0,False,,,62,1:33:12.051,fastf1
+2023,3,Italy Grand Prix,Alexander Albon,23,Williams,1.0,15.0,Finished,0.0,False,,,62,1:30:54.275,fastf1
+2023,3,Italy Grand Prix,"Sargeant, Logan",2,Williams,20.0,7.0,Finished,6.0,False,,,62,1:33:52.593,fastf1
+2023,4,China Grand Prix,Max Verstappen,1,Red Bull Racing,9.0,8.0,Finished,4.0,False,,,55,1:33:29.943,fastf1
+2023,4,China Grand Prix,Sergio Perez,11,Red Bull Racing,10.0,5.0,Finished,10.0,True,85.812,326.9,55,1:32:01.299,fastf1
+2023,4,China Grand Prix,Lewis Hamilton,44,Mercedes,2.0,2.0,Finished,18.0,False,,,55,1:32:23.465,fastf1
+2023,4,China Grand Prix,"Russell, George",63,Mercedes,13.0,,Engine,,False,,,20,,fastf1
+2023,4,China Grand Prix,Charles Leclerc,16,Ferrari,6.0,9.0,Finished,2.0,False,,,55,1:28:39.067,fastf1
+2023,4,China Grand Prix,Carlos Sainz,55,Ferrari,5.0,13.0,Finished,0.0,False,,,55,1:33:02.507,fastf1
+2023,4,China Grand Prix,Lando Norris,4,McLaren,20.0,1.0,Finished,25.0,False,,,55,1:29:40.561,fastf1
+2023,4,China Grand Prix,Oscar Piastri,81,McLaren,8.0,15.0,Finished,0.0,False,,,55,1:26:56.858,fastf1
+2023,4,China Grand Prix,Fernando Alonso,14,Aston Martin,18.0,6.0,Finished,8.0,False,,,55,1:26:40.785,fastf1
+2023,4,China Grand Prix,Lance Stroll,18,Aston Martin,16.0,3.0,Finished,15.0,False,,,55,1:29:36.388,fastf1
+2023,4,China Grand Prix,"Ocon, Esteban",31,Alpine,4.0,18.0,Finished,0.0,False,,,55,1:28:44.113,fastf1
+2023,4,China Grand Prix,Pierre Gasly,10,Alpine,11.0,12.0,Finished,0.0,False,,,55,1:31:20.498,fastf1
+2023,4,China Grand Prix,Valtteri Bottas,77,Alfa Romeo,12.0,17.0,Finished,0.0,False,,,55,1:26:46.038,fastf1
+2023,4,China Grand Prix,Zhou Guanyu,24,Alfa Romeo,14.0,11.0,Finished,0.0,False,,,55,1:25:24.724,fastf1
+2023,4,China Grand Prix,Kevin Magnussen,20,Haas F1 Team,7.0,4.0,Finished,12.0,False,,,55,1:33:38.451,fastf1
+2023,4,China Grand Prix,Nico Hulkenberg,27,Haas F1 Team,17.0,7.0,Finished,6.0,False,,,55,1:26:47.548,fastf1
+2023,4,China Grand Prix,Yuki Tsunoda,22,AlphaTauri,3.0,10.0,Finished,1.0,False,,,55,1:28:48.621,fastf1
+2023,4,China Grand Prix,Daniel Ricciardo,3,AlphaTauri,1.0,,Mechanical,,False,,,28,,fastf1
+2023,4,China Grand Prix,Alexander Albon,23,Williams,15.0,14.0,Finished,0.0,False,,,55,1:33:58.388,fastf1
+2023,4,China Grand Prix,Logan Sargeant,2,Williams,19.0,16.0,Finished,0.0,False,,,55,1:33:34.405,fastf1
+2023,5,Saudi Arabia Grand Prix,Max Verstappen,1,Red Bull Racing,10.0,10.0,Finished,1.0,False,,,49,1:32:49.062,fastf1
+2023,5,Saudi Arabia Grand Prix,Sergio Perez,11,Red Bull Racing,17.0,12.0,Finished,0.0,True,90.233,315.7,49,1:30:05.448,fastf1
+2023,5,Saudi Arabia Grand Prix,Lewis Hamilton,44,Mercedes,15.0,9.0,Finished,2.0,False,,,49,1:25:41.982,fastf1
+2023,5,Saudi Arabia Grand Prix,George Russell,63,Mercedes,13.0,7.0,Finished,6.0,False,,,49,1:31:45.235,fastf1
+2023,5,Saudi Arabia Grand Prix,Charles Leclerc,16,Ferrari,3.0,3.0,Finished,15.0,True,94.356,313.8,49,1:27:27.946,fastf1
+2023,5,Saudi Arabia Grand Prix,Carlos Sainz,55,Ferrari,18.0,16.0,Finished,0.0,False,,,49,1:25:28.337,fastf1
+2023,5,Saudi Arabia Grand Prix,"Norris, Lando",4,McLaren,2.0,17.0,Finished,0.0,False,,,49,1:25:44.737,fastf1
+2023,5,Saudi Arabia Grand Prix,Oscar Piastri,81,McLaren,11.0,15.0,Finished,0.0,False,,,49,1:32:47.548,fastf1
+2023,5,Saudi Arabia Grand Prix,Fernando Alonso,14,Aston Martin,1.0,14.0,Finished,0.0,False,,,49,1:31:54.313,fastf1
+2023,5,Saudi Arabia Grand Prix,"Stroll, Lance",18,Aston Martin,5.0,18.0,Finished,0.0,False,,,49,1:31:02.907,fastf1
+2023,5,Saudi Arabia Grand Prix,Esteban Ocon,31,Alpine,12.0,13.0,Finished,0.0,False,,,49,1:29:23.275,fastf1
+2023,5,Saudi Arabia Grand Prix,Pierre Gasly,10,Alpine,8.0,,Collision,,False,,,14,,fastf1
+2023,5,Saudi Arabia Grand Prix,Valtteri Bottas,77,Alfa Romeo,4.0,6.0,Finished,8.0,False,,,49,1:28:02.320,fastf1
+2023,5,Saudi Arabia Grand Prix,Zhou Guanyu,24,Alfa Romeo,19.0,2.0,Finished,18.0,False,,,49,1:34:19.127,fastf1
+2023,5,Saudi Arabia Grand Prix,Kevin Magnussen,20,Haas F1 Team,16.0,1.0,Finished,25.0,False,,,49,1:30:13.922,fastf1
+2023,5,Saudi Arabia Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,14.0,4.0,Finished,12.0,False,,,49,1:27:04.982,fastf1
+2023,5,Saudi Arabia Grand Prix,"Tsunoda, Yuki",22,AlphaTauri,6.0,11.0,Finished,0.0,False,,,49,1:25:21.062,fastf1
+2023,5,Saudi Arabia Grand Prix,Daniel Ricciardo,3,AlphaTauri,9.0,5.0,Finished,10.0,False,,,49,1:33:09.618,fastf1
+2023,5,Saudi Arabia Grand Prix,Alexander Albon,23,Williams,20.0,19.0,Finished,0.0,False,,,49,1:32:07.410,fastf1
+2023,5,Saudi Arabia Grand Prix,Logan Sargeant,2,Williams,7.0,8.0,Finished,4.0,False,,,49,1:34:14.195,fastf1
+2023,6,Austin Grand Prix,Max Verstappen,1,Red Bull Racing,15.0,3.0,Finished,15.0,False,,,55,1:31:55.149,fastf1
+2023,6,Austin Grand Prix,Sergio Perez,11,Red Bull Racing,17.0,6.0,Finished,8.0,False,,,55,1:32:19.540,fastf1
+2023,6,Austin Grand Prix,Lewis Hamilton,44,Mercedes,12.0,11.0,Finished,0.0,False,,,55,1:29:21.671,fastf1
+2023,6,Austin Grand Prix,George Russell,63,Mercedes,16.0,9.0,Finished,2.0,False,,,55,1:30:47.248,fastf1
+2023,6,Austin Grand Prix,Charles Leclerc,16,Ferrari,8.0,5.0,Finished,10.0,False,,,55,1:34:10.064,fastf1
+2023,6,Austin Grand Prix,Carlos Sainz,55,Ferrari,18.0,,DNF,,False,,,47,,fastf1
+2023,6,Austin Grand Prix,Lando Norris,4,McLaren,11.0,4.0,Finished,12.0,False,,,55,1:29:37.679,fastf1
+2023,6,Austin Grand Prix,Oscar Piastri,81,McLaren,10.0,14.0,Finished,0.0,False,,,55,1:32:43.215,fastf1
+2023,6,Austin Grand Prix,Fernando Alonso,14,Aston Martin,20.0,,Collision,,False,,,14,,fastf1
+2023,6,Austin Grand Prix,Lance Stroll,18,Aston Martin,13.0,,Retired,,False,,,49,,fastf1
+2023,6,Austin Grand Prix,Esteban Ocon,31,Alpine,14.0,,DNF,,False,,,38,,fastf1
+2023,6,Austin Grand Prix,Pierre Gasly,10,Alpine,3.0,12.0,Finished,0.0,False,,,55,1:28:37.986,fastf1
+2023,6,Austin Grand Prix,Valtteri Bottas,77,Alfa Romeo,2.0,1.0,Finished,25.0,True,82.825,317.7,55,1:34:48.158,fastf1
+2023,6,Austin Grand Prix,Zhou Guanyu,24,Alfa Romeo,9.0,8.0,Finished,4.0,False,,,55,1:31:43.758,fastf1
+2023,6,Austin Grand Prix,Kevin Magnussen,20,Haas F1 Team,4.0,10.0,Finished,1.0,False,,,55,1:29:47.403,fastf1
+2023,6,Austin Grand Prix,Nico Hulkenberg,27,Haas F1 Team,19.0,7.0,Finished,6.0,False,,,55,1:25:01.260,fastf1
+2023,6,Austin Grand Prix,Yuki Tsunoda,22,AlphaTauri,6.0,15.0,Finished,0.0,True,82.827,310.8,55,1:32:09.491,fastf1
+2023,6,Austin Grand Prix,Daniel Ricciardo,3,AlphaTauri,1.0,13.0,Finished,0.0,False,,,55,1:27:50.486,fastf1
+2023,6,Austin Grand Prix,Alexander Albon,23,Williams,5.0,2.0,Finished,18.0,False,,,55,1:33:26.111,fastf1
+2023,6,Austin Grand Prix,Logan Sargeant,2,Williams,7.0,16.0,Finished,0.0,False,,,55,1:26:37.699,fastf1
+2023,7,Netherlands Grand Prix,Max Verstappen,1,Red Bull Racing,3.0,3.0,Finished,15.0,False,,,71,1:31:11.145,fastf1
+2023,7,Netherlands Grand Prix,Sergio Perez,11,Red Bull Racing,14.0,17.0,Finished,0.0,False,,,71,1:25:53.001,fastf1
+2023,7,Netherlands Grand Prix,Lewis Hamilton,44,Mercedes,17.0,9.0,Finished,2.0,False,,,71,1:27:35.614,fastf1
+2023,7,Netherlands Grand Prix,George Russell,63,Mercedes,9.0,12.0,Finished,0.0,False,,,71,1:28:14.375,fastf1
+2023,7,Netherlands Grand Prix,Charles Leclerc,16,Ferrari,8.0,6.0,Finished,8.0,True,102.343,325.4,71,1:28:39.521,fastf1
+2023,7,Netherlands Grand Prix,Carlos Sainz,55,Ferrari,15.0,10.0,Finished,1.0,False,,,71,1:26:06.287,fastf1
+2023,7,Netherlands Grand Prix,Lando Norris,4,McLaren,7.0,16.0,Finished,0.0,False,,,71,1:28:20.261,fastf1
+2023,7,Netherlands Grand Prix,"Piastri, Oscar",81,McLaren,2.0,2.0,Finished,18.0,False,,,71,1:34:15.074,fastf1
+2023,7,Netherlands Grand Prix,Fernando Alonso,14,Aston Martin,16.0,11.0,Finished,0.0,False,,,71,1:26:52.868,fastf1
+2023,7,Netherlands Grand Prix,Lance Stroll,18,Aston Martin,4.0,,Collision,,False,,,31,,fastf1
+2023,7,Netherlands Grand Prix,Esteban Ocon,31,Alpine,12.0,5.0,Finished,10.0,False,,,71,1:26:22.517,fastf1
+2023,7,Netherlands Grand Prix,Pierre Gasly,10,Alpine,5.0,1.0,Finished,25.0,False,,,71,1:33:58.559,fastf1
+2023,7,Netherlands Grand Prix,Valtteri Bottas,77,Alfa Romeo,10.0,,Engine,,True,101.635,300.3,47,,fastf1
+2023,7,Netherlands Grand Prix,Zhou Guanyu,24,Alfa Romeo,20.0,4.0,Finished,12.0,True,88.567,302.4,71,1:26:23.582,fastf1
+2023,7,Netherlands Grand Prix,Kevin Magnussen,20,Haas F1 Team,1.0,7.0,Finished,6.0,False,,,71,1:26:09.282,fastf1
+2023,7,Netherlands Grand Prix,Nico Hulkenberg,27,Haas F1 Team,19.0,13.0,Finished,0.0,False,,,71,1:31:39.323,fastf1
+2023,7,Netherlands Grand Prix,Yuki Tsunoda,22,AlphaTauri,6.0,,Accident,,False,,,17,,fastf1
+2023,7,Netherlands Grand Prix,Daniel Ricciardo,3,AlphaTauri,13.0,8.0,Finished,4.0,False,,,71,1:30:07.100,fastf1
+2023,7,Netherlands Grand Prix,Alexander Albon,23,Williams,18.0,14.0,Finished,0.0,False,,,71,1:28:07.176,fastf1
+2023,7,Netherlands Grand Prix,Logan Sargeant,2,Williams,11.0,15.0,Finished,0.0,False,,,71,1:30:14.369,fastf1
+2023,8,United Kingdom Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,14.0,Finished,0.0,False,,,51,1:27:39.393,fastf1
+2023,8,United Kingdom Grand Prix,Sergio Perez,11,Red Bull Racing,7.0,10.0,Finished,1.0,False,,,51,1:26:57.366,fastf1
+2023,8,United Kingdom Grand Prix,Lewis Hamilton,44,Mercedes,15.0,11.0,Finished,0.0,False,,,51,1:28:25.182,fastf1
+2023,8,United Kingdom Grand Prix,George Russell,63,Mercedes,6.0,,Gearbox,,False,,,28,,fastf1
+2023,8,United Kingdom Grand Prix,Charles Leclerc,16,Ferrari,14.0,15.0,Finished,0.0,False,,,51,1:33:48.685,fastf1
+2023,8,United Kingdom Grand Prix,Carlos Sainz,55,Ferrari,19.0,2.0,Finished,18.0,False,,,51,1:27:31.376,fastf1
+2023,8,United Kingdom Grand Prix,Lando Norris,4,McLaren,5.0,7.0,Finished,6.0,False,,,51,1:27:44.550,fastf1
+2023,8,United Kingdom Grand Prix,Oscar Piastri,81,McLaren,16.0,8.0,Finished,4.0,False,,,51,1:33:05.900,fastf1
+2023,8,United Kingdom Grand Prix,Fernando Alonso,14,Aston Martin,8.0,6.0,Finished,8.0,False,,,51,1:29:57.679,fastf1
+2023,8,United Kingdom Grand Prix,Lance Stroll,18,Aston Martin,2.0,9.0,Finished,2.0,False,,,51,1:28:22.606,fastf1
+2023,8,United Kingdom Grand Prix,Esteban Ocon,31,Alpine,17.0,,Accident,,False,,,33,,fastf1
+2023,8,United Kingdom Grand Prix,Pierre Gasly,10,Alpine,11.0,1.0,Finished,25.0,False,,,51,1:25:52.971,fastf1
+2023,8,United Kingdom Grand Prix,Valtteri Bottas,77,Alfa Romeo,12.0,12.0,Finished,0.0,False,,,51,1:31:43.662,fastf1
+2023,8,United Kingdom Grand Prix,Zhou Guanyu,24,Alfa Romeo,3.0,,Retired,,False,,,11,,fastf1
+2023,8,United Kingdom Grand Prix,Kevin Magnussen,20,Haas F1 Team,9.0,,Accident,,False,,,23,,fastf1
+2023,8,United Kingdom Grand Prix,Nico Hulkenberg,27,Haas F1 Team,10.0,16.0,Finished,0.0,False,,,51,1:30:23.478,fastf1
+2023,8,United Kingdom Grand Prix,Yuki Tsunoda,22,AlphaTauri,20.0,4.0,Finished,12.0,False,,,51,1:25:37.614,fastf1
+2023,8,United Kingdom Grand Prix,Daniel Ricciardo,3,AlphaTauri,,3.0,Finished,15.0,False,,,51,1:27:10.955,fastf1
+2023,8,United Kingdom Grand Prix,Alexander Albon,23,Williams,4.0,5.0,Finished,10.0,False,,,51,1:32:46.666,fastf1
+2023,8,United Kingdom Grand Prix,Logan Sargeant,2,Williams,18.0,13.0,Finished,0.0,False,,,51,1:27:49.869,fastf1
+2023,9,Miami Grand Prix,Max Verstappen,1,Red Bull Racing,2.0,12.0,Finished,0.0,False,,,56,1:29:13.941,fastf1
+2023,9,Miami Grand Prix,Sergio Perez,11,Red Bull Racing,5.0,1.0,Finished,25.0,False,,,56,1:32:26.259,fastf1
+2023,9,Miami Grand Prix,Lewis Hamilton,44,Mercedes,14.0,9.0,Finished,2.0,False,,,56,1:27:01.354,fastf1
+2023,9,Miami Grand Prix,George Russell,63,Mercedes,18.0,15.0,Finished,0.0,False,,,56,1:32:46.149,fastf1
+2023,9,Miami Grand Prix,Charles Leclerc,16,Ferrari,12.0,,Gearbox,,False,,,15,,fastf1
+2023,9,Miami Grand Prix,"Sainz, Carlos",55,Ferrari,7.0,3.0,Finished,15.0,False,,,56,1:27:44.377,fastf1
+2023,9,Miami Grand Prix,Lando Norris,4,McLaren,4.0,10.0,Finished,1.0,False,,,56,1:34:42.494,fastf1
+2023,9,Miami Grand Prix,Oscar Piastri,81,McLaren,9.0,8.0,Finished,4.0,False,,,56,1:31:30.845,fastf1
+2023,9,Miami Grand Prix,Fernando Alonso,14,Aston Martin,16.0,17.0,Finished,0.0,False,,,56,1:32:01.161,fastf1
+2023,9,Miami Grand Prix,Lance Stroll,18,Aston Martin,13.0,7.0,Finished,6.0,False,,,56,1:33:07.474,fastf1
+2023,9,Miami Grand Prix,Esteban Ocon,31,Alpine,10.0,5.0,Finished,10.0,False,,,56,1:26:19.916,fastf1
+2023,9,Miami Grand Prix,Pierre Gasly,10,Alpine,20.0,,DNF,,False,,,19,,fastf1
+2023,9,Miami Grand Prix,Valtteri Bottas,77,Alfa Romeo,17.0,14.0,Finished,0.0,False,,,56,1:28:11.526,fastf1
+2023,9,Miami Grand Prix,Zhou Guanyu,24,Alfa Romeo,15.0,11.0,Finished,0.0,False,,,56,1:25:21.322,fastf1
+2023,9,Miami Grand Prix,Kevin Magnussen,20,Haas F1 Team,1.0,2.0,Finished,18.0,False,,,56,1:33:58.685,fastf1
+2023,9,Miami Grand Prix,Nico Hulkenberg,27,Haas F1 Team,3.0,13.0,Finished,0.0,False,,,56,1:34:26.649,fastf1
+2023,9,Miami Grand Prix,Yuki Tsunoda,22,AlphaTauri,11.0,4.0,Finished,12.0,False,,,56,1:30:20.061,fastf1
+2023,9,Miami Grand Prix,"Ricciardo, Daniel",3,AlphaTauri,19.0,18.0,Finished,0.0,False,,,56,1:28:01.517,fastf1
+2023,9,Miami Grand Prix,Alexander Albon,23,Williams,6.0,16.0,Finished,0.0,False,,,56,1:34:45.055,fastf1
+2023,9,Miami Grand Prix,Logan Sargeant,2,Williams,8.0,6.0,Finished,8.0,False,,,56,1:34:37.113,fastf1
+2023,10,Hungary Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,11.0,Finished,0.0,False,,,69,1:30:57.131,fastf1
+2023,10,Hungary Grand Prix,Sergio Perez,11,Red Bull Racing,20.0,14.0,Finished,0.0,False,,,69,1:33:32.697,fastf1
+2023,10,Hungary Grand Prix,Lewis Hamilton,44,Mercedes,18.0,3.0,Finished,15.0,False,,,69,1:30:06.405,fastf1
+2023,10,Hungary Grand Prix,George Russell,63,Mercedes,10.0,7.0,Finished,6.0,False,,,69,1:30:53.329,fastf1
+2023,10,Hungary Grand Prix,Charles Leclerc,16,Ferrari,2.0,9.0,Finished,2.0,True,108.997,307.8,69,1:31:33.526,fastf1
+2023,10,Hungary Grand Prix,Carlos Sainz,55,Ferrari,17.0,,Mechanical,,False,,,18,,fastf1
+2023,10,Hungary Grand Prix,Lando Norris,4,McLaren,5.0,1.0,Finished,25.0,False,,,69,1:27:15.943,fastf1
+2023,10,Hungary Grand Prix,Oscar Piastri,81,McLaren,16.0,2.0,Finished,18.0,False,,,69,1:30:11.670,fastf1
+2023,10,Hungary Grand Prix,Fernando Alonso,14,Aston Martin,6.0,12.0,Finished,0.0,False,,,69,1:29:19.604,fastf1
+2023,10,Hungary Grand Prix,Lance Stroll,18,Aston Martin,15.0,5.0,Finished,10.0,False,,,69,1:33:09.038,fastf1
+2023,10,Hungary Grand Prix,Esteban Ocon,31,Alpine,4.0,13.0,Finished,0.0,False,,,69,1:26:31.722,fastf1
+2023,10,Hungary Grand Prix,"Gasly, Pierre",10,Alpine,12.0,4.0,Finished,12.0,True,108.442,295.8,69,1:26:04.525,fastf1
+2023,10,Hungary Grand Prix,Valtteri Bottas,77,Alfa Romeo,11.0,6.0,Finished,8.0,False,,,69,1:34:37.472,fastf1
+2023,10,Hungary Grand Prix,Zhou Guanyu,24,Alfa Romeo,3.0,,Gearbox,,False,,,25,,fastf1
+2023,10,Hungary Grand Prix,Kevin Magnussen,20,Haas F1 Team,1.0,,Collision,,False,,,52,,fastf1
+2023,10,Hungary Grand Prix,Nico Hulkenberg,27,Haas F1 Team,7.0,8.0,Finished,4.0,True,107.986,324.1,69,1:29:02.551,fastf1
+2023,10,Hungary Grand Prix,Yuki Tsunoda,22,AlphaTauri,9.0,15.0,Finished,0.0,False,,,69,1:28:35.600,fastf1
+2023,10,Hungary Grand Prix,Daniel Ricciardo,3,AlphaTauri,19.0,10.0,Finished,1.0,True,79.476,319.8,69,1:28:57.445,fastf1
+2023,10,Hungary Grand Prix,Alexander Albon,23,Williams,8.0,17.0,Finished,0.0,False,,,69,1:25:22.350,fastf1
+2023,10,Hungary Grand Prix,Logan Sargeant,2,Williams,14.0,16.0,Finished,0.0,False,,,69,1:26:01.386,fastf1
+2023,11,Brazil Grand Prix,Max Verstappen,1,Red Bull Racing,12.0,16.0,Finished,0.0,False,,,70,1:25:02.175,fastf1
+2023,11,Brazil Grand Prix,Sergio Perez,11,Red Bull Racing,15.0,14.0,Finished,0.0,False,,,70,1:32:31.879,fastf1
+2023,11,Brazil Grand Prix,Lewis Hamilton,44,Mercedes,3.0,,Collision,,False,,,16,,fastf1
+2023,11,Brazil Grand Prix,George Russell,63,Mercedes,17.0,,Mechanical,,True,92.59,295.8,45,,fastf1
+2023,11,Brazil Grand Prix,Charles Leclerc,16,Ferrari,1.0,4.0,Finished,12.0,False,,,70,1:32:00.714,fastf1
+2023,11,Brazil Grand Prix,Carlos Sainz,55,Ferrari,5.0,5.0,Finished,10.0,False,,,70,1:33:36.030,fastf1
+2023,11,Brazil Grand Prix,"Norris, Lando",4,McLaren,19.0,8.0,Finished,4.0,False,,,70,1:30:05.217,fastf1
+2023,11,Brazil Grand Prix,Oscar Piastri,81,McLaren,14.0,10.0,Finished,1.0,False,,,70,1:27:56.224,fastf1
+2023,11,Brazil Grand Prix,Fernando Alonso,14,Aston Martin,6.0,,Gearbox,,False,,,21,,fastf1
+2023,11,Brazil Grand Prix,Lance Stroll,18,Aston Martin,13.0,15.0,Finished,0.0,False,,,70,1:32:18.318,fastf1
+2023,11,Brazil Grand Prix,Esteban Ocon,31,Alpine,4.0,13.0,Finished,0.0,False,,,70,1:25:55.988,fastf1
+2023,11,Brazil Grand Prix,Pierre Gasly,10,Alpine,7.0,6.0,Finished,8.0,False,,,70,1:33:00.988,fastf1
+2023,11,Brazil Grand Prix,Valtteri Bottas,77,Alfa Romeo,10.0,2.0,Finished,18.0,False,,,70,1:25:53.490,fastf1
+2023,11,Brazil Grand Prix,Zhou Guanyu,24,Alfa Romeo,16.0,9.0,Finished,2.0,False,,,70,1:30:24.342,fastf1
+2023,11,Brazil Grand Prix,Kevin Magnussen,20,Haas F1 Team,11.0,7.0,Finished,6.0,False,,,70,1:27:17.184,fastf1
+2023,11,Brazil Grand Prix,Nico Hulkenberg,27,Haas F1 Team,20.0,11.0,Finished,0.0,False,,,70,1:28:41.529,fastf1
+2023,11,Brazil Grand Prix,Yuki Tsunoda,22,AlphaTauri,8.0,3.0,Finished,15.0,False,,,70,1:33:03.517,fastf1
+2023,11,Brazil Grand Prix,Daniel Ricciardo,3,AlphaTauri,9.0,12.0,Finished,0.0,True,100.52,292.9,70,1:27:42.158,fastf1
+2023,11,Brazil Grand Prix,Alexander Albon,23,Williams,2.0,1.0,Finished,25.0,False,,,70,1:25:01.819,fastf1
+2023,11,Brazil Grand Prix,Logan Sargeant,2,Williams,18.0,,Accident,,False,,,24,,fastf1
+2023,12,Belgium Grand Prix,Max Verstappen,1,Red Bull Racing,18.0,8.0,Finished,4.0,False,,,44,1:31:22.986,fastf1
+2023,12,Belgium Grand Prix,Sergio Perez,11,Red Bull Racing,14.0,9.0,Finished,2.0,True,85.668,302.1,44,1:28:57.572,fastf1
+2023,12,Belgium Grand Prix,Lewis Hamilton,44,Mercedes,6.0,4.0,Finished,12.0,False,,,44,1:25:16.144,fastf1
+2023,12,Belgium Grand Prix,George Russell,63,Mercedes,1.0,13.0,Finished,0.0,False,,,44,1:34:06.410,fastf1
+2023,12,Belgium Grand Prix,Charles Leclerc,16,Ferrari,16.0,19.0,Finished,0.0,False,,,44,1:34:48.378,fastf1
+2023,12,Belgium Grand Prix,Carlos Sainz,55,Ferrari,8.0,18.0,Finished,0.0,True,103.333,312.8,44,1:25:25.320,fastf1
+2023,12,Belgium Grand Prix,Lando Norris,4,McLaren,4.0,1.0,Finished,25.0,False,,,44,1:31:01.891,fastf1
+2023,12,Belgium Grand Prix,Oscar Piastri,81,McLaren,3.0,16.0,Finished,0.0,False,,,44,1:25:19.082,fastf1
+2023,12,Belgium Grand Prix,Fernando Alonso,14,Aston Martin,15.0,10.0,Finished,1.0,False,,,44,1:28:04.172,fastf1
+2023,12,Belgium Grand Prix,Lance Stroll,18,Aston Martin,20.0,15.0,Finished,0.0,False,,,44,1:34:11.826,fastf1
+2023,12,Belgium Grand Prix,Esteban Ocon,31,Alpine,9.0,3.0,Finished,15.0,False,,,44,1:34:55.976,fastf1
+2023,12,Belgium Grand Prix,Pierre Gasly,10,Alpine,11.0,11.0,Finished,0.0,False,,,44,1:25:36.807,fastf1
+2023,12,Belgium Grand Prix,Valtteri Bottas,77,Alfa Romeo,10.0,17.0,Finished,0.0,False,,,44,1:33:45.686,fastf1
+2023,12,Belgium Grand Prix,Zhou Guanyu,24,Alfa Romeo,13.0,20.0,Finished,0.0,True,92.902,301.8,44,1:32:35.309,fastf1
+2023,12,Belgium Grand Prix,Kevin Magnussen,20,Haas F1 Team,17.0,12.0,Finished,0.0,False,,,44,1:33:57.927,fastf1
+2023,12,Belgium Grand Prix,Nico Hulkenberg,27,Haas F1 Team,7.0,7.0,Finished,6.0,False,,,44,1:33:26.198,fastf1
+2023,12,Belgium Grand Prix,Yuki Tsunoda,22,AlphaTauri,5.0,5.0,Finished,10.0,False,,,44,1:30:14.790,fastf1
+2023,12,Belgium Grand Prix,Daniel Ricciardo,3,AlphaTauri,12.0,14.0,Finished,0.0,False,,,44,1:34:30.567,fastf1
+2023,12,Belgium Grand Prix,Alexander Albon,23,Williams,19.0,2.0,Finished,18.0,False,,,44,1:33:45.645,fastf1
+2023,12,Belgium Grand Prix,Logan Sargeant,2,Williams,2.0,6.0,Finished,8.0,False,,,44,1:25:26.141,fastf1
+2023,13,Azerbaijan Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,8.0,Finished,4.0,False,,,50,1:33:27.801,fastf1
+2023,13,Azerbaijan Grand Prix,Sergio Perez,11,Red Bull Racing,13.0,3.0,Finished,15.0,False,,,50,1:34:03.693,fastf1
+2023,13,Azerbaijan Grand Prix,Lewis Hamilton,44,Mercedes,1.0,6.0,Finished,8.0,False,,,50,1:25:16.710,fastf1
+2023,13,Azerbaijan Grand Prix,George Russell,63,Mercedes,16.0,1.0,Finished,25.0,False,,,50,1:33:56.786,fastf1
+2023,13,Azerbaijan Grand Prix,Charles Leclerc,16,Ferrari,3.0,14.0,Finished,0.0,False,,,50,1:29:19.003,fastf1
+2023,13,Azerbaijan Grand Prix,Carlos Sainz,55,Ferrari,8.0,2.0,Finished,18.0,False,,,50,1:32:30.986,fastf1
+2023,13,Azerbaijan Grand Prix,Lando Norris,4,McLaren,7.0,10.0,Finished,1.0,False,,,50,1:25:25.083,fastf1
+2023,13,Azerbaijan Grand Prix,Oscar Piastri,81,McLaren,18.0,13.0,Finished,0.0,False,,,50,1:27:13.399,fastf1
+2023,13,Azerbaijan Grand Prix,Fernando Alonso,14,Aston Martin,19.0,11.0,Finished,0.0,False,,,50,1:29:46.963,fastf1
+2023,13,Azerbaijan Grand Prix,Lance Stroll,18,Aston Martin,10.0,18.0,Finished,0.0,False,,,50,1:34:10.921,fastf1
+2023,13,Azerbaijan Grand Prix,Esteban Ocon,31,Alpine,12.0,17.0,Finished,0.0,False,,,50,1:31:41.262,fastf1
+2023,13,Azerbaijan Grand Prix,Pierre Gasly,10,Alpine,,7.0,Finished,6.0,False,,,50,1:31:48.067,fastf1
+2023,13,Azerbaijan Grand Prix,"Bottas, Valtteri",77,Alfa Romeo,6.0,9.0,Finished,2.0,False,,,50,1:33:52.490,fastf1
+2023,13,Azerbaijan Grand Prix,Zhou Guanyu,24,Alfa Romeo,14.0,16.0,Finished,0.0,False,,,50,1:34:47.291,fastf1
+2023,13,Azerbaijan Grand Prix,Kevin Magnussen,20,Haas F1 Team,9.0,12.0,Finished,0.0,False,,,50,1:30:49.698,fastf1
+2023,13,Azerbaijan Grand Prix,Nico Hulkenberg,27,Haas F1 Team,4.0,15.0,Finished,0.0,False,,,50,1:33:22.211,fastf1
+2023,13,Azerbaijan Grand Prix,Yuki Tsunoda,22,AlphaTauri,15.0,5.0,Finished,10.0,False,,,50,1:34:03.046,fastf1
+2023,13,Azerbaijan Grand Prix,Daniel Ricciardo,3,AlphaTauri,2.0,19.0,Finished,0.0,False,,,50,1:26:27.327,fastf1
+2023,13,Azerbaijan Grand Prix,Alexander Albon,23,Williams,11.0,4.0,Finished,12.0,False,,,50,1:32:24.519,fastf1
+2023,13,Azerbaijan Grand Prix,Logan Sargeant,2,Williams,20.0,,Retired,,False,,,10,,fastf1
+2023,14,Las Vegas Grand Prix,Max Verstappen,1,Red Bull Racing,17.0,1.0,Finished,25.0,False,,,49,1:31:24.245,fastf1
+2023,14,Las Vegas Grand Prix,Sergio Perez,11,Red Bull Racing,19.0,,Accident,,False,,,29,,fastf1
+2023,14,Las Vegas Grand Prix,Lewis Hamilton,44,Mercedes,10.0,17.0,Finished,0.0,True,92.445,293.9,49,1:33:49.531,fastf1
+2023,14,Las Vegas Grand Prix,George Russell,63,Mercedes,5.0,2.0,Finished,18.0,False,,,49,1:33:47.895,fastf1
+2023,14,Las Vegas Grand Prix,"Leclerc, Charles",16,Ferrari,13.0,18.0,Finished,0.0,False,,,49,1:28:47.474,fastf1
+2023,14,Las Vegas Grand Prix,Carlos Sainz,55,Ferrari,15.0,9.0,Finished,2.0,False,,,49,1:25:27.199,fastf1
+2023,14,Las Vegas Grand Prix,Lando Norris,4,McLaren,9.0,10.0,Finished,1.0,False,,,49,1:25:21.983,fastf1
+2023,14,Las Vegas Grand Prix,Oscar Piastri,81,McLaren,20.0,13.0,Finished,0.0,False,,,49,1:29:15.224,fastf1
+2023,14,Las Vegas Grand Prix,"Alonso, Fernando",14,Aston Martin,11.0,12.0,Finished,0.0,False,,,49,1:33:06.219,fastf1
+2023,14,Las Vegas Grand Prix,Lance Stroll,18,Aston Martin,1.0,7.0,Finished,6.0,False,,,49,1:31:09.815,fastf1
+2023,14,Las Vegas Grand Prix,Esteban Ocon,31,Alpine,2.0,8.0,Finished,4.0,False,,,49,1:31:55.405,fastf1
+2023,14,Las Vegas Grand Prix,Pierre Gasly,10,Alpine,12.0,11.0,Finished,0.0,False,,,49,1:28:26.633,fastf1
+2023,14,Las Vegas Grand Prix,Valtteri Bottas,77,Alfa Romeo,14.0,3.0,Finished,15.0,False,,,49,1:32:32.125,fastf1
+2023,14,Las Vegas Grand Prix,Zhou Guanyu,24,Alfa Romeo,4.0,4.0,Finished,12.0,False,,,49,1:30:42.219,fastf1
+2023,14,Las Vegas Grand Prix,Kevin Magnussen,20,Haas F1 Team,6.0,15.0,Finished,0.0,True,83.853,314.2,49,1:27:55.922,fastf1
+2023,14,Las Vegas Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,16.0,16.0,Finished,0.0,False,,,49,1:28:02.769,fastf1
+2023,14,Las Vegas Grand Prix,Yuki Tsunoda,22,AlphaTauri,8.0,14.0,Finished,0.0,False,,,49,1:33:37.256,fastf1
+2023,14,Las Vegas Grand Prix,Daniel Ricciardo,3,AlphaTauri,3.0,,Mechanical,,False,,,17,,fastf1
+2023,14,Las Vegas Grand Prix,Alexander Albon,23,Williams,18.0,6.0,Finished,8.0,False,,,49,1:28:18.581,fastf1
+2023,14,Las Vegas Grand Prix,"Sargeant, Logan",2,Williams,7.0,5.0,Finished,10.0,True,99.709,302.2,49,1:32:03.744,fastf1
+2023,15,Singapore Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,,Accident,,False,,,45,,fastf1
+2023,15,Singapore Grand Prix,Sergio Perez,11,Red Bull Racing,9.0,18.0,Finished,0.0,False,,,61,1:25:41.108,fastf1
+2023,15,Singapore Grand Prix,Lewis Hamilton,44,Mercedes,14.0,4.0,Finished,12.0,False,,,61,1:25:02.981,fastf1
+2023,15,Singapore Grand Prix,George Russell,63,Mercedes,15.0,7.0,Finished,6.0,False,,,61,1:29:32.339,fastf1
+2023,15,Singapore Grand Prix,Charles Leclerc,16,Ferrari,7.0,16.0,Finished,0.0,False,,,61,1:34:21.259,fastf1
+2023,15,Singapore Grand Prix,Carlos Sainz,55,Ferrari,11.0,11.0,Finished,0.0,False,,,61,1:33:10.079,fastf1
+2023,15,Singapore Grand Prix,Lando Norris,4,McLaren,3.0,14.0,Finished,0.0,False,,,61,1:30:18.873,fastf1
+2023,15,Singapore Grand Prix,Oscar Piastri,81,McLaren,5.0,2.0,Finished,18.0,False,,,61,1:32:57.364,fastf1
+2023,15,Singapore Grand Prix,"Alonso, Fernando",14,Aston Martin,12.0,9.0,Finished,2.0,False,,,61,1:31:33.333,fastf1
+2023,15,Singapore Grand Prix,Lance Stroll,18,Aston Martin,16.0,1.0,Finished,25.0,False,,,61,1:30:04.310,fastf1
+2023,15,Singapore Grand Prix,Esteban Ocon,31,Alpine,17.0,12.0,Finished,0.0,False,,,61,1:28:38.125,fastf1
+2023,15,Singapore Grand Prix,Pierre Gasly,10,Alpine,10.0,3.0,Finished,15.0,False,,,61,1:28:21.613,fastf1
+2023,15,Singapore Grand Prix,Valtteri Bottas,77,Alfa Romeo,19.0,8.0,Finished,4.0,False,,,61,1:27:55.519,fastf1
+2023,15,Singapore Grand Prix,Zhou Guanyu,24,Alfa Romeo,20.0,5.0,Finished,10.0,False,,,61,1:30:51.121,fastf1
+2023,15,Singapore Grand Prix,Kevin Magnussen,20,Haas F1 Team,1.0,10.0,Finished,1.0,False,,,61,1:29:55.005,fastf1
+2023,15,Singapore Grand Prix,Nico Hulkenberg,27,Haas F1 Team,18.0,17.0,Finished,0.0,False,,,61,1:27:37.485,fastf1
+2023,15,Singapore Grand Prix,Yuki Tsunoda,22,AlphaTauri,6.0,6.0,Finished,8.0,False,,,61,1:28:29.788,fastf1
+2023,15,Singapore Grand Prix,Daniel Ricciardo,3,AlphaTauri,2.0,15.0,Finished,0.0,False,,,61,1:32:40.705,fastf1
+2023,15,Singapore Grand Prix,"Albon, Alexander",23,Williams,8.0,,Retired,,False,,,46,,fastf1
+2023,15,Singapore Grand Prix,Logan Sargeant,2,Williams,4.0,13.0,Finished,0.0,False,,,61,1:27:25.765,fastf1
+2023,16,Monaco Grand Prix,Max Verstappen,1,Red Bull Racing,17.0,6.0,Finished,8.0,False,,,78,1:32:30.166,fastf1
+2023,16,Monaco Grand Prix,Sergio Perez,11,Red Bull Racing,16.0,2.0,Finished,18.0,False,,,78,1:32:39.603,fastf1
+2023,16,Monaco Grand Prix,Lewis Hamilton,44,Mercedes,5.0,14.0,Finished,0.0,False,,,78,1:25:09.483,fastf1
+2023,16,Monaco Grand Prix,George Russell,63,Mercedes,8.0,9.0,Finished,2.0,False,,,78,1:28:17.505,fastf1
+2023,16,Monaco Grand Prix,Charles Leclerc,16,Ferrari,18.0,,Engine,,False,,,51,,fastf1
+2023,16,Monaco Grand Prix,Carlos Sainz,55,Ferrari,11.0,3.0,Finished,15.0,False,,,78,1:30:08.653,fastf1
+2023,16,Monaco Grand Prix,Lando Norris,4,McLaren,14.0,8.0,Finished,4.0,False,,,78,1:25:12.923,fastf1
+2023,16,Monaco Grand Prix,Oscar Piastri,81,McLaren,6.0,13.0,Finished,0.0,False,,,78,1:31:45.377,fastf1
+2023,16,Monaco Grand Prix,Fernando Alonso,14,Aston Martin,10.0,5.0,Finished,10.0,False,,,78,1:31:13.033,fastf1
+2023,16,Monaco Grand Prix,Lance Stroll,18,Aston Martin,3.0,,Accident,,False,,,67,,fastf1
+2023,16,Monaco Grand Prix,Esteban Ocon,31,Alpine,2.0,17.0,Finished,0.0,False,,,78,1:28:03.643,fastf1
+2023,16,Monaco Grand Prix,Pierre Gasly,10,Alpine,4.0,4.0,Finished,12.0,True,90.275,323.5,78,1:28:19.979,fastf1
+2023,16,Monaco Grand Prix,Valtteri Bottas,77,Alfa Romeo,13.0,,Retired,,False,,,63,,fastf1
+2023,16,Monaco Grand Prix,Zhou Guanyu,24,Alfa Romeo,15.0,1.0,Finished,25.0,False,,,78,1:31:02.004,fastf1
+2023,16,Monaco Grand Prix,Kevin Magnussen,20,Haas F1 Team,12.0,7.0,Finished,6.0,False,,,78,1:31:18.859,fastf1
+2023,16,Monaco Grand Prix,Nico Hulkenberg,27,Haas F1 Team,19.0,12.0,Finished,0.0,False,,,78,1:26:32.159,fastf1
+2023,16,Monaco Grand Prix,Yuki Tsunoda,22,AlphaTauri,20.0,15.0,Finished,0.0,False,,,78,1:29:49.524,fastf1
+2023,16,Monaco Grand Prix,Daniel Ricciardo,3,AlphaTauri,7.0,10.0,Finished,1.0,False,,,78,1:29:33.021,fastf1
+2023,16,Monaco Grand Prix,Alexander Albon,23,Williams,1.0,16.0,Finished,0.0,False,,,78,1:25:18.549,fastf1
+2023,16,Monaco Grand Prix,Logan Sargeant,2,Williams,9.0,11.0,Finished,0.0,False,,,78,1:28:23.876,fastf1
+2023,17,Canada Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,16.0,Finished,0.0,False,,,69,1:25:00.625,fastf1
+2023,17,Canada Grand Prix,Sergio Perez,11,Red Bull Racing,11.0,14.0,Finished,0.0,False,,,69,1:27:15.232,fastf1
+2023,17,Canada Grand Prix,Lewis Hamilton,44,Mercedes,17.0,6.0,Finished,8.0,False,,,69,1:34:27.822,fastf1
+2023,17,Canada Grand Prix,George Russell,63,Mercedes,7.0,1.0,Finished,25.0,False,,,69,1:34:37.075,fastf1
+2023,17,Canada Grand Prix,Charles Leclerc,16,Ferrari,3.0,2.0,Finished,18.0,False,,,69,1:34:20.545,fastf1
+2023,17,Canada Grand Prix,Carlos Sainz,55,Ferrari,15.0,13.0,Finished,0.0,False,,,69,1:27:47.822,fastf1
+2023,17,Canada Grand Prix,Lando Norris,4,McLaren,4.0,8.0,Finished,4.0,False,,,69,1:25:31.884,fastf1
+2023,17,Canada Grand Prix,Oscar Piastri,81,McLaren,1.0,11.0,Finished,0.0,False,,,69,1:25:49.560,fastf1
+2023,17,Canada Grand Prix,Fernando Alonso,14,Aston Martin,9.0,17.0,Finished,0.0,False,,,69,1:26:40.597,fastf1
+2023,17,Canada Grand Prix,Lance Stroll,18,Aston Martin,10.0,12.0,Finished,0.0,False,,,69,1:29:15.131,fastf1
+2023,17,Canada Grand Prix,Esteban Ocon,31,Alpine,8.0,18.0,Finished,0.0,False,,,69,1:31:03.071,fastf1
+2023,17,Canada Grand Prix,Pierre Gasly,10,Alpine,14.0,19.0,Finished,0.0,False,,,69,1:28:17.624,fastf1
+2023,17,Canada Grand Prix,Valtteri Bottas,77,Alfa Romeo,13.0,10.0,Finished,1.0,False,,,69,1:33:58.426,fastf1
+2023,17,Canada Grand Prix,Zhou Guanyu,24,Alfa Romeo,12.0,5.0,Finished,10.0,False,,,69,1:34:29.413,fastf1
+2023,17,Canada Grand Prix,Kevin Magnussen,20,Haas F1 Team,19.0,,Gearbox,,False,,,25,,fastf1
+2023,17,Canada Grand Prix,Nico Hulkenberg,27,Haas F1 Team,18.0,9.0,Finished,2.0,False,,,69,1:26:14.424,fastf1
+2023,17,Canada Grand Prix,Yuki Tsunoda,22,AlphaTauri,6.0,4.0,Finished,12.0,False,,,69,1:26:12.959,fastf1
+2023,17,Canada Grand Prix,Daniel Ricciardo,3,AlphaTauri,2.0,3.0,Finished,15.0,False,,,69,1:29:12.404,fastf1
+2023,17,Canada Grand Prix,Alexander Albon,23,Williams,20.0,15.0,Finished,0.0,False,,,69,1:25:54.697,fastf1
+2023,17,Canada Grand Prix,"Sargeant, Logan",2,Williams,16.0,7.0,Finished,6.0,False,,,69,1:28:40.668,fastf1
+2023,18,Austria Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,16.0,Finished,0.0,False,,,70,1:26:25.078,fastf1
+2023,18,Austria Grand Prix,Sergio Perez,11,Red Bull Racing,14.0,18.0,Finished,0.0,False,,,70,1:34:57.190,fastf1
+2023,18,Austria Grand Prix,Lewis Hamilton,44,Mercedes,9.0,13.0,Finished,0.0,False,,,70,1:30:16.906,fastf1
+2023,18,Austria Grand Prix,George Russell,63,Mercedes,17.0,7.0,Finished,6.0,False,,,70,1:33:45.757,fastf1
+2023,18,Austria Grand Prix,Charles Leclerc,16,Ferrari,15.0,3.0,Finished,15.0,False,,,70,1:34:06.916,fastf1
+2023,18,Austria Grand Prix,"Sainz, Carlos",55,Ferrari,18.0,17.0,Finished,0.0,False,,,70,1:34:03.347,fastf1
+2023,18,Austria Grand Prix,Lando Norris,4,McLaren,16.0,1.0,Finished,25.0,False,,,70,1:27:16.070,fastf1
+2023,18,Austria Grand Prix,Oscar Piastri,81,McLaren,4.0,9.0,Finished,2.0,True,100.502,310.5,70,1:26:09.927,fastf1
+2023,18,Austria Grand Prix,Fernando Alonso,14,Aston Martin,7.0,10.0,Finished,1.0,False,,,70,1:31:16.797,fastf1
+2023,18,Austria Grand Prix,Lance Stroll,18,Aston Martin,8.0,11.0,Finished,0.0,True,100.952,298.6,70,1:34:38.187,fastf1
+2023,18,Austria Grand Prix,Esteban Ocon,31,Alpine,3.0,19.0,Finished,0.0,False,,,70,1:33:56.344,fastf1
+2023,18,Austria Grand Prix,Pierre Gasly,10,Alpine,19.0,,Collision,,False,,,52,,fastf1
+2023,18,Austria Grand Prix,Valtteri Bottas,77,Alfa Romeo,6.0,15.0,Finished,0.0,False,,,70,1:28:18.580,fastf1
+2023,18,Austria Grand Prix,Zhou Guanyu,24,Alfa Romeo,20.0,8.0,Finished,4.0,False,,,70,1:30:16.300,fastf1
+2023,18,Austria Grand Prix,Kevin Magnussen,20,Haas F1 Team,12.0,2.0,Finished,18.0,False,,,70,1:34:26.469,fastf1
+2023,18,Austria Grand Prix,Nico Hulkenberg,27,Haas F1 Team,2.0,4.0,Finished,12.0,False,,,70,1:30:43.515,fastf1
+2023,18,Austria Grand Prix,"Tsunoda, Yuki",22,AlphaTauri,11.0,12.0,Finished,0.0,False,,,70,1:29:24.163,fastf1
+2023,18,Austria Grand Prix,Daniel Ricciardo,3,AlphaTauri,13.0,14.0,Finished,0.0,False,,,70,1:26:02.106,fastf1
+2023,18,Austria Grand Prix,Alexander Albon,23,Williams,10.0,5.0,Finished,10.0,False,,,70,1:34:47.353,fastf1
+2023,18,Austria Grand Prix,Logan Sargeant,2,Williams,1.0,6.0,Finished,8.0,False,,,70,1:33:39.588,fastf1
+2023,19,Spain Grand Prix,"Verstappen, Max",1,Red Bull Racing,2.0,10.0,Finished,1.0,False,,,65,1:32:42.334,fastf1
+2023,19,Spain Grand Prix,Sergio Perez,11,Red Bull Racing,7.0,6.0,Finished,8.0,False,,,65,1:25:20.799,fastf1
+2023,19,Spain Grand Prix,Lewis Hamilton,44,Mercedes,19.0,13.0,Finished,0.0,False,,,65,1:30:17.227,fastf1
+2023,19,Spain Grand Prix,George Russell,63,Mercedes,6.0,11.0,Finished,0.0,False,,,65,1:29:36.953,fastf1
+2023,19,Spain Grand Prix,Charles Leclerc,16,Ferrari,16.0,3.0,Finished,15.0,False,,,65,1:28:43.151,fastf1
+2023,19,Spain Grand Prix,Carlos Sainz,55,Ferrari,18.0,14.0,Finished,0.0,False,,,65,1:33:51.211,fastf1
+2023,19,Spain Grand Prix,Lando Norris,4,McLaren,4.0,17.0,Finished,0.0,False,,,65,1:27:34.449,fastf1
+2023,19,Spain Grand Prix,Oscar Piastri,81,McLaren,14.0,18.0,Finished,0.0,False,,,65,1:27:43.405,fastf1
+2023,19,Spain Grand Prix,Fernando Alonso,14,Aston Martin,20.0,1.0,Finished,25.0,False,,,65,1:31:58.247,fastf1
+2023,19,Spain Grand Prix,Lance Stroll,18,Aston Martin,17.0,15.0,Finished,0.0,False,,,65,1:30:10.498,fastf1
+2023,19,Spain Grand Prix,Esteban Ocon,31,Alpine,9.0,7.0,Finished,6.0,False,,,65,1:33:48.423,fastf1
+2023,19,Spain Grand Prix,Pierre Gasly,10,Alpine,15.0,8.0,Finished,4.0,False,,,65,1:28:47.755,fastf1
+2023,19,Spain Grand Prix,Valtteri Bottas,77,Alfa Romeo,1.0,9.0,Finished,2.0,False,,,65,1:27:59.801,fastf1
+2023,19,Spain Grand Prix,Zhou Guanyu,24,Alfa Romeo,10.0,2.0,Finished,18.0,False,,,65,1:30:24.772,fastf1
+2023,19,Spain Grand Prix,Kevin Magnussen,20,Haas F1 Team,5.0,12.0,Finished,0.0,False,,,65,1:34:10.843,fastf1
+2023,19,Spain Grand Prix,Nico Hulkenberg,27,Haas F1 Team,12.0,5.0,Finished,10.0,False,,,65,1:32:32.704,fastf1
+2023,19,Spain Grand Prix,Yuki Tsunoda,22,AlphaTauri,8.0,16.0,Finished,0.0,False,,,65,1:34:37.965,fastf1
+2023,19,Spain Grand Prix,Daniel Ricciardo,3,AlphaTauri,13.0,4.0,Finished,12.0,False,,,65,1:27:55.972,fastf1
+2023,19,Spain Grand Prix,"Albon, Alexander",23,Williams,11.0,,Accident,,False,,,19,,fastf1
+2023,19,Spain Grand Prix,Logan Sargeant,2,Williams,3.0,,Accident,,False,,,44,,fastf1
+2023,20,UAE Grand Prix,Max Verstappen,1,Red Bull Racing,19.0,2.0,Finished,18.0,False,,,57,1:26:12.918,fastf1
+2023,20,UAE Grand Prix,Sergio Perez,11,Red Bull Racing,1.0,11.0,Finished,0.0,False,,,57,1:30:39.140,fastf1
+2023,20,UAE Grand Prix,Lewis Hamilton,44,Mercedes,5.0,14.0,Finished,0.0,False,,,57,1:34:11.007,fastf1
+2023,20,UAE Grand Prix,George Russell,63,Mercedes,11.0,7.0,Finished,6.0,False,,,57,1:29:03.914,fastf1
+2023,20,UAE Grand Prix,Charles Leclerc,16,Ferrari,9.0,,Accident,,False,,,36,,fastf1
+2023,20,UAE Grand Prix,Carlos Sainz,55,Ferrari,15.0,12.0,Finished,0.0,False,,,57,1:33:52.252,fastf1
+2023,20,UAE Grand Prix,Lando Norris,4,McLaren,10.0,13.0,Finished,0.0,False,,,57,1:34:43.524,fastf1
+2023,20,UAE Grand Prix,Oscar Piastri,81,McLaren,17.0,15.0,Finished,0.0,True,109.777,327.9,57,1:31:54.204,fastf1
+2023,20,UAE Grand Prix,Fernando Alonso,14,Aston Martin,13.0,1.0,Finished,25.0,False,,,57,1:29:10.989,fastf1
+2023,20,UAE Grand Prix,"Stroll, Lance",18,Aston Martin,3.0,6.0,Finished,8.0,False,,,57,1:32:29.768,fastf1
+2023,20,UAE Grand Prix,Esteban Ocon,31,Alpine,6.0,,Gearbox,,False,,,17,,fastf1
+2023,20,UAE Grand Prix,Pierre Gasly,10,Alpine,7.0,3.0,Finished,15.0,False,,,57,1:32:22.480,fastf1
+2023,20,UAE Grand Prix,Valtteri Bottas,77,Alfa Romeo,16.0,9.0,Finished,2.0,False,,,57,1:26:52.538,fastf1
+2023,20,UAE Grand Prix,Zhou Guanyu,24,Alfa Romeo,,8.0,Finished,4.0,False,,,57,1:25:41.555,fastf1
+2023,20,UAE Grand Prix,Kevin Magnussen,20,Haas F1 Team,14.0,,Engine,,False,,,12,,fastf1
+2023,20,UAE Grand Prix,Nico Hulkenberg,27,Haas F1 Team,4.0,,Gearbox,,True,83.103,323.2,49,,fastf1
+2023,20,UAE Grand Prix,Yuki Tsunoda,22,AlphaTauri,2.0,10.0,Finished,1.0,False,,,57,1:32:45.255,fastf1
+2023,20,UAE Grand Prix,Daniel Ricciardo,3,AlphaTauri,12.0,4.0,Finished,12.0,False,,,57,1:34:54.847,fastf1
+2023,20,UAE Grand Prix,Alexander Albon,23,Williams,18.0,16.0,Finished,0.0,False,,,57,1:27:01.866,fastf1
+2023,20,UAE Grand Prix,Logan Sargeant,2,Williams,20.0,5.0,Finished,10.0,False,,,57,1:33:26.698,fastf1
+2023,21,Australia Grand Prix,Max Verstappen,1,Red Bull Racing,4.0,11.0,Finished,0.0,False,,,57,1:32:24.457,fastf1
+2023,21,Australia Grand Prix,"Perez, Sergio",11,Red Bull Racing,12.0,20.0,Finished,0.0,False,,,57,1:27:15.189,fastf1
+2023,21,Australia Grand Prix,Lewis Hamilton,44,Mercedes,3.0,1.0,Finished,25.0,False,,,57,1:32:44.962,fastf1
+2023,21,Australia Grand Prix,George Russell,63,Mercedes,10.0,6.0,Finished,8.0,False,,,57,1:33:50.830,fastf1
+2023,21,Australia Grand Prix,Charles Leclerc,16,Ferrari,7.0,19.0,Finished,0.0,False,,,57,1:31:33.107,fastf1
+2023,21,Australia Grand Prix,Carlos Sainz,55,Ferrari,6.0,14.0,Finished,0.0,False,,,57,1:26:03.008,fastf1
+2023,21,Australia Grand Prix,Lando Norris,4,McLaren,18.0,4.0,Finished,12.0,True,102.257,310.4,57,1:31:10.836,fastf1
+2023,21,Australia Grand Prix,Oscar Piastri,81,McLaren,15.0,10.0,Finished,1.0,False,,,57,1:30:59.729,fastf1
+2023,21,Australia Grand Prix,Fernando Alonso,14,Aston Martin,1.0,8.0,Finished,4.0,False,,,57,1:30:44.298,fastf1
+2023,21,Australia Grand Prix,Lance Stroll,18,Aston Martin,16.0,13.0,Finished,0.0,False,,,57,1:26:24.548,fastf1
+2023,21,Australia Grand Prix,Esteban Ocon,31,Alpine,2.0,5.0,Finished,10.0,False,,,57,1:27:38.419,fastf1
+2023,21,Australia Grand Prix,Pierre Gasly,10,Alpine,8.0,3.0,Finished,15.0,False,,,57,1:30:18.723,fastf1
+2023,21,Australia Grand Prix,Valtteri Bottas,77,Alfa Romeo,11.0,2.0,Finished,18.0,False,,,57,1:29:43.873,fastf1
+2023,21,Australia Grand Prix,Zhou Guanyu,24,Alfa Romeo,5.0,12.0,Finished,0.0,False,,,57,1:28:36.042,fastf1
+2023,21,Australia Grand Prix,Kevin Magnussen,20,Haas F1 Team,13.0,15.0,Finished,0.0,False,,,57,1:31:46.443,fastf1
+2023,21,Australia Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,9.0,16.0,Finished,0.0,False,,,57,1:29:22.213,fastf1
+2023,21,Australia Grand Prix,Yuki Tsunoda,22,AlphaTauri,20.0,7.0,Finished,6.0,False,,,57,1:34:05.746,fastf1
+2023,21,Australia Grand Prix,"Ricciardo, Daniel",3,AlphaTauri,14.0,9.0,Finished,2.0,False,,,57,1:30:37.222,fastf1
+2023,21,Australia Grand Prix,Alexander Albon,23,Williams,17.0,18.0,Finished,0.0,False,,,57,1:32:52.724,fastf1
+2023,21,Australia Grand Prix,Logan Sargeant,2,Williams,19.0,17.0,Finished,0.0,False,,,57,1:31:15.391,fastf1
+2023,22,Japan Grand Prix,Max Verstappen,1,Red Bull Racing,4.0,6.0,Finished,8.0,False,,,52,1:33:07.034,fastf1
+2023,22,Japan Grand Prix,"Perez, Sergio",11,Red Bull Racing,2.0,1.0,Finished,25.0,False,,,52,1:27:22.390,fastf1
+2023,22,Japan Grand Prix,Lewis Hamilton,44,Mercedes,20.0,13.0,Finished,0.0,False,,,52,1:25:54.148,fastf1
+2023,22,Japan Grand Prix,George Russell,63,Mercedes,12.0,17.0,Finished,0.0,False,,,52,1:26:01.486,fastf1
+2023,22,Japan Grand Prix,Charles Leclerc,16,Ferrari,10.0,12.0,Finished,0.0,False,,,52,1:31:44.879,fastf1
+2023,22,Japan Grand Prix,Carlos Sainz,55,Ferrari,18.0,14.0,Finished,0.0,False,,,52,1:25:33.443,fastf1
+2023,22,Japan Grand Prix,Lando Norris,4,McLaren,19.0,10.0,Finished,1.0,False,,,52,1:31:00.070,fastf1
+2023,22,Japan Grand Prix,Oscar Piastri,81,McLaren,7.0,,Retired,,False,,,25,,fastf1
+2023,22,Japan Grand Prix,Fernando Alonso,14,Aston Martin,16.0,18.0,Finished,0.0,False,,,52,1:27:24.328,fastf1
+2023,22,Japan Grand Prix,Lance Stroll,18,Aston Martin,5.0,3.0,Finished,15.0,False,,,52,1:34:41.073,fastf1
+2023,22,Japan Grand Prix,Esteban Ocon,31,Alpine,9.0,11.0,Finished,0.0,False,,,52,1:33:08.188,fastf1
+2023,22,Japan Grand Prix,Pierre Gasly,10,Alpine,11.0,7.0,Finished,6.0,False,,,52,1:32:48.889,fastf1
+2023,22,Japan Grand Prix,Valtteri Bottas,77,Alfa Romeo,8.0,9.0,Finished,2.0,False,,,52,1:28:39.288,fastf1
+2023,22,Japan Grand Prix,"Zhou, Guanyu",24,Alfa Romeo,3.0,4.0,Finished,12.0,False,,,52,1:31:06.114,fastf1
+2023,22,Japan Grand Prix,Kevin Magnussen,20,Haas F1 Team,15.0,15.0,Finished,0.0,True,105.792,330.6,52,1:32:50.256,fastf1
+2023,22,Japan Grand Prix,Nico Hulkenberg,27,Haas F1 Team,6.0,8.0,Finished,4.0,False,,,52,1:28:59.543,fastf1
+2023,22,Japan Grand Prix,"Tsunoda, Yuki",22,AlphaTauri,13.0,5.0,Finished,10.0,True,84.505,300.6,52,1:27:54.457,fastf1
+2023,22,Japan Grand Prix,"Ricciardo, Daniel",3,AlphaTauri,14.0,16.0,Finished,0.0,False,,,52,1:28:00.234,fastf1
+2023,22,Japan Grand Prix,Alexander Albon,23,Williams,1.0,,Engine,,False,,,22,,fastf1
+2023,22,Japan Grand Prix,Logan Sargeant,2,Williams,,2.0,Finished,18.0,False,,,52,1:29:50.698,fastf1
+2024,1,Bahrain Grand Prix,Max Verstappen,1,Red Bull Racing,3.0,9.0,Finished,2.0,False,,,56,1:28:20.465,fastf1
+2024,1,Bahrain Grand Prix,Sergio Perez,11,Red Bull Racing,18.0,5.0,Finished,10.0,False,,,56,1:28:49.847,fastf1
+2024,1,Bahrain Grand Prix,Lewis Hamilton,44,Mercedes,21.0,15.0,Finished,0.0,False,,,56,1:31:12.417,fastf1
+2024,1,Bahrain Grand Prix,George Russell,63,Mercedes,13.0,14.0,Finished,0.0,False,,,56,1:29:20.137,fastf1
+2024,1,Bahrain Grand Prix,Charles Leclerc,16,Ferrari,9.0,1.0,Finished,25.0,False,,,56,1:31:37.055,fastf1
+2024,1,Bahrain Grand Prix,Carlos Sainz,55,Ferrari,17.0,12.0,Finished,0.0,False,,,56,1:29:18.221,fastf1
+2024,1,Bahrain Grand Prix,Lando Norris,4,McLaren,15.0,17.0,Finished,0.0,False,,,56,1:25:58.508,fastf1
+2024,1,Bahrain Grand Prix,Oscar Piastri,81,McLaren,19.0,10.0,Finished,1.0,False,,,56,1:27:02.046,fastf1
+2024,1,Bahrain Grand Prix,Fernando Alonso,14,Aston Martin,12.0,11.0,Finished,0.0,False,,,56,1:34:37.688,fastf1
+2024,1,Bahrain Grand Prix,Lance Stroll,18,Aston Martin,2.0,,Mechanical,,False,,,50,,fastf1
+2024,1,Bahrain Grand Prix,Esteban Ocon,31,Alpine,20.0,2.0,Finished,18.0,False,,,56,1:28:31.767,fastf1
+2024,1,Bahrain Grand Prix,Pierre Gasly,10,Alpine,8.0,6.0,Finished,8.0,False,,,56,1:27:51.977,fastf1
+2024,1,Bahrain Grand Prix,Valtteri Bottas,77,Kick Sauber,10.0,7.0,Finished,6.0,False,,,56,1:31:18.898,fastf1
+2024,1,Bahrain Grand Prix,Zhou Guanyu,24,Kick Sauber,4.0,18.0,Finished,0.0,False,,,56,1:33:11.437,fastf1
+2024,1,Bahrain Grand Prix,Kevin Magnussen,20,Haas F1 Team,11.0,8.0,Finished,4.0,False,,,56,1:28:37.819,fastf1
+2024,1,Bahrain Grand Prix,Nico Hulkenberg,27,Haas F1 Team,14.0,19.0,Finished,0.0,False,,,56,1:33:15.796,fastf1
+2024,1,Bahrain Grand Prix,Yuki Tsunoda,22,RB,5.0,4.0,Finished,12.0,True,103.419,334.8,56,1:29:55.505,fastf1
+2024,1,Bahrain Grand Prix,Liam Lawson,30,RB,16.0,3.0,Finished,15.0,True,107.38,294.0,56,1:29:45.241,fastf1
+2024,1,Bahrain Grand Prix,Alexander Albon,23,Williams,7.0,,DNF,,False,,,30,,fastf1
+2024,1,Bahrain Grand Prix,"Colapinto, Franco",43,Williams,1.0,16.0,Finished,0.0,False,,,56,1:26:43.191,fastf1
+2024,1,Bahrain Grand Prix,Oliver Bearman,87,Haas F1 Team,6.0,13.0,Finished,0.0,False,,,56,1:29:09.871,fastf1
+2024,2,Australia Grand Prix,Max Verstappen,1,Red Bull Racing,8.0,10.0,Finished,1.0,True,84.0,323.0,57,1:34:45.248,fastf1
+2024,2,Australia Grand Prix,Sergio Perez,11,Red Bull Racing,19.0,,Collision,,False,,,47,,fastf1
+2024,2,Australia Grand Prix,Lewis Hamilton,44,Mercedes,7.0,14.0,Finished,0.0,False,,,57,1:25:10.553,fastf1
+2024,2,Australia Grand Prix,George Russell,63,Mercedes,12.0,2.0,Finished,18.0,True,86.08,305.8,57,1:25:28.631,fastf1
+2024,2,Australia Grand Prix,Charles Leclerc,16,Ferrari,21.0,,DNF,,False,,,9,,fastf1
+2024,2,Australia Grand Prix,Carlos Sainz,55,Ferrari,10.0,9.0,Finished,2.0,False,,,57,1:32:27.311,fastf1
+2024,2,Australia Grand Prix,Lando Norris,4,McLaren,2.0,17.0,Finished,0.0,True,109.156,323.3,57,1:27:45.037,fastf1
+2024,2,Australia Grand Prix,Oscar Piastri,81,McLaren,18.0,5.0,Finished,10.0,False,,,57,1:34:13.318,fastf1
+2024,2,Australia Grand Prix,Fernando Alonso,14,Aston Martin,13.0,8.0,Finished,4.0,False,,,57,1:30:52.637,fastf1
+2024,2,Australia Grand Prix,Lance Stroll,18,Aston Martin,15.0,6.0,Finished,8.0,False,,,57,1:33:11.772,fastf1
+2024,2,Australia Grand Prix,Esteban Ocon,31,Alpine,16.0,12.0,Finished,0.0,False,,,57,1:28:11.932,fastf1
+2024,2,Australia Grand Prix,Pierre Gasly,10,Alpine,20.0,13.0,Finished,0.0,False,,,57,1:32:54.206,fastf1
+2024,2,Australia Grand Prix,Valtteri Bottas,77,Kick Sauber,6.0,,Engine,,False,,,35,,fastf1
+2024,2,Australia Grand Prix,Zhou Guanyu,24,Kick Sauber,4.0,1.0,Finished,25.0,False,,,57,1:33:47.364,fastf1
+2024,2,Australia Grand Prix,Kevin Magnussen,20,Haas F1 Team,14.0,11.0,Finished,0.0,False,,,57,1:31:26.859,fastf1
+2024,2,Australia Grand Prix,Nico Hulkenberg,27,Haas F1 Team,5.0,7.0,Finished,6.0,False,,,57,1:26:45.922,fastf1
+2024,2,Australia Grand Prix,Yuki Tsunoda,22,RB,3.0,,Retired,,False,,,33,,fastf1
+2024,2,Australia Grand Prix,Liam Lawson,30,RB,17.0,16.0,Finished,0.0,True,106.997,300.5,57,1:31:12.823,fastf1
+2024,2,Australia Grand Prix,Alexander Albon,23,Williams,1.0,15.0,Finished,0.0,False,,,57,1:30:31.121,fastf1
+2024,2,Australia Grand Prix,"Colapinto, Franco",43,Williams,9.0,3.0,Finished,15.0,True,94.865,298.6,57,1:33:21.468,fastf1
+2024,2,Australia Grand Prix,Oliver Bearman,87,Haas F1 Team,11.0,4.0,Finished,12.0,False,,,57,1:32:10.586,fastf1
+2024,3,Italy Grand Prix,Max Verstappen,1,Red Bull Racing,19.0,11.0,Finished,0.0,False,,,52,1:28:26.013,fastf1
+2024,3,Italy Grand Prix,"Perez, Sergio",11,Red Bull Racing,3.0,2.0,Finished,18.0,False,,,52,1:26:23.723,fastf1
+2024,3,Italy Grand Prix,Lewis Hamilton,44,Mercedes,2.0,10.0,Finished,1.0,False,,,52,1:27:46.752,fastf1
+2024,3,Italy Grand Prix,George Russell,63,Mercedes,14.0,3.0,Finished,15.0,False,,,52,1:34:24.652,fastf1
+2024,3,Italy Grand Prix,Charles Leclerc,16,Ferrari,18.0,8.0,Finished,4.0,False,,,52,1:30:54.904,fastf1
+2024,3,Italy Grand Prix,Carlos Sainz,55,Ferrari,16.0,13.0,Finished,0.0,False,,,52,1:31:14.313,fastf1
+2024,3,Italy Grand Prix,Lando Norris,4,McLaren,,7.0,Finished,6.0,False,,,52,1:30:39.357,fastf1
+2024,3,Italy Grand Prix,Oscar Piastri,81,McLaren,17.0,16.0,Finished,0.0,False,,,52,1:34:21.842,fastf1
+2024,3,Italy Grand Prix,"Alonso, Fernando",14,Aston Martin,5.0,4.0,Finished,12.0,False,,,52,1:29:09.188,fastf1
+2024,3,Italy Grand Prix,Lance Stroll,18,Aston Martin,13.0,5.0,Finished,10.0,False,,,52,1:29:57.336,fastf1
+2024,3,Italy Grand Prix,"Ocon, Esteban",31,Alpine,7.0,9.0,Finished,2.0,False,,,52,1:29:55.454,fastf1
+2024,3,Italy Grand Prix,Pierre Gasly,10,Alpine,4.0,,Mechanical,,False,,,39,,fastf1
+2024,3,Italy Grand Prix,Valtteri Bottas,77,Kick Sauber,15.0,,Retired,,False,,,17,,fastf1
+2024,3,Italy Grand Prix,Zhou Guanyu,24,Kick Sauber,8.0,6.0,Finished,8.0,False,,,52,1:32:13.263,fastf1
+2024,3,Italy Grand Prix,Kevin Magnussen,20,Haas F1 Team,11.0,15.0,Finished,0.0,False,,,52,1:28:40.480,fastf1
+2024,3,Italy Grand Prix,Nico Hulkenberg,27,Haas F1 Team,6.0,,Collision,,False,,,37,,fastf1
+2024,3,Italy Grand Prix,Yuki Tsunoda,22,RB,12.0,12.0,Finished,0.0,False,,,52,1:34:18.891,fastf1
+2024,3,Italy Grand Prix,Liam Lawson,30,RB,10.0,1.0,Finished,25.0,False,,,52,1:34:51.596,fastf1
+2024,3,Italy Grand Prix,"Albon, Alexander",23,Williams,20.0,,Accident,,True,90.414,329.5,44,,fastf1
+2024,3,Italy Grand Prix,Franco Colapinto,43,Williams,21.0,14.0,Finished,0.0,False,,,52,1:33:19.254,fastf1
+2024,3,Italy Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,17.0,Finished,0.0,False,,,52,1:30:31.428,fastf1
+2024,4,China Grand Prix,Max Verstappen,1,Red Bull Racing,7.0,10.0,Finished,1.0,False,,,55,1:30:17.619,fastf1
+2024,4,China Grand Prix,Sergio Perez,11,Red Bull Racing,19.0,9.0,Finished,2.0,False,,,55,1:30:30.168,fastf1
+2024,4,China Grand Prix,Lewis Hamilton,44,Mercedes,3.0,15.0,Finished,0.0,True,86.805,321.7,55,1:31:17.770,fastf1
+2024,4,China Grand Prix,George Russell,63,Mercedes,14.0,14.0,Finished,0.0,False,,,55,1:31:32.939,fastf1
+2024,4,China Grand Prix,Charles Leclerc,16,Ferrari,21.0,11.0,Finished,0.0,False,,,55,1:31:13.193,fastf1
+2024,4,China Grand Prix,"Sainz, Carlos",55,Ferrari,9.0,4.0,Finished,12.0,False,,,55,1:25:32.414,fastf1
+2024,4,China Grand Prix,Lando Norris,4,McLaren,4.0,5.0,Finished,10.0,False,,,55,1:32:54.171,fastf1
+2024,4,China Grand Prix,Oscar Piastri,81,McLaren,6.0,3.0,Finished,15.0,False,,,55,1:30:03.201,fastf1
+2024,4,China Grand Prix,Fernando Alonso,14,Aston Martin,12.0,2.0,Finished,18.0,False,,,55,1:30:35.719,fastf1
+2024,4,China Grand Prix,Lance Stroll,18,Aston Martin,2.0,,Retired,,False,,,13,,fastf1
+2024,4,China Grand Prix,Esteban Ocon,31,Alpine,17.0,,Gearbox,,False,,,19,,fastf1
+2024,4,China Grand Prix,Pierre Gasly,10,Alpine,1.0,12.0,Finished,0.0,False,,,55,1:26:25.565,fastf1
+2024,4,China Grand Prix,Valtteri Bottas,77,Kick Sauber,18.0,1.0,Finished,25.0,False,,,55,1:27:30.825,fastf1
+2024,4,China Grand Prix,Zhou Guanyu,24,Kick Sauber,5.0,8.0,Finished,4.0,False,,,55,1:27:50.187,fastf1
+2024,4,China Grand Prix,Kevin Magnussen,20,Haas F1 Team,10.0,,Collision,,False,,,16,,fastf1
+2024,4,China Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,20.0,,Gearbox,,False,,,16,,fastf1
+2024,4,China Grand Prix,Yuki Tsunoda,22,RB,13.0,6.0,Finished,8.0,False,,,55,1:27:08.058,fastf1
+2024,4,China Grand Prix,Liam Lawson,30,RB,11.0,17.0,Finished,0.0,False,,,55,1:25:21.357,fastf1
+2024,4,China Grand Prix,Alexander Albon,23,Williams,15.0,7.0,Finished,6.0,False,,,55,1:25:32.647,fastf1
+2024,4,China Grand Prix,Franco Colapinto,43,Williams,16.0,16.0,Finished,0.0,False,,,55,1:26:10.593,fastf1
+2024,4,China Grand Prix,Oliver Bearman,87,Haas F1 Team,8.0,13.0,Finished,0.0,False,,,55,1:34:52.600,fastf1
+2024,5,Monaco Grand Prix,Max Verstappen,1,Red Bull Racing,21.0,9.0,Finished,2.0,False,,,78,1:34:17.130,fastf1
+2024,5,Monaco Grand Prix,Sergio Perez,11,Red Bull Racing,1.0,3.0,Finished,15.0,False,,,78,1:32:15.842,fastf1
+2024,5,Monaco Grand Prix,Lewis Hamilton,44,Mercedes,16.0,5.0,Finished,10.0,False,,,78,1:25:51.627,fastf1
+2024,5,Monaco Grand Prix,George Russell,63,Mercedes,11.0,4.0,Finished,12.0,False,,,78,1:34:44.895,fastf1
+2024,5,Monaco Grand Prix,Charles Leclerc,16,Ferrari,13.0,13.0,Finished,0.0,False,,,78,1:34:02.890,fastf1
+2024,5,Monaco Grand Prix,Carlos Sainz,55,Ferrari,17.0,7.0,Finished,6.0,True,109.518,298.9,78,1:29:18.242,fastf1
+2024,5,Monaco Grand Prix,Lando Norris,4,McLaren,10.0,15.0,Finished,0.0,False,,,78,1:31:30.735,fastf1
+2024,5,Monaco Grand Prix,Oscar Piastri,81,McLaren,20.0,,DNF,,True,86.237,302.5,57,,fastf1
+2024,5,Monaco Grand Prix,Fernando Alonso,14,Aston Martin,5.0,14.0,Finished,0.0,False,,,78,1:33:36.210,fastf1
+2024,5,Monaco Grand Prix,Lance Stroll,18,Aston Martin,14.0,1.0,Finished,25.0,False,,,78,1:27:32.434,fastf1
+2024,5,Monaco Grand Prix,Esteban Ocon,31,Alpine,8.0,,Mechanical,,False,,,29,,fastf1
+2024,5,Monaco Grand Prix,Pierre Gasly,10,Alpine,,,Accident,,False,,,45,,fastf1
+2024,5,Monaco Grand Prix,Valtteri Bottas,77,Kick Sauber,3.0,,Accident,,False,,,69,,fastf1
+2024,5,Monaco Grand Prix,Zhou Guanyu,24,Kick Sauber,6.0,10.0,Finished,1.0,False,,,78,1:28:53.929,fastf1
+2024,5,Monaco Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,19.0,11.0,Finished,0.0,False,,,78,1:26:28.319,fastf1
+2024,5,Monaco Grand Prix,Nico Hulkenberg,27,Haas F1 Team,7.0,17.0,Finished,0.0,False,,,78,1:27:31.748,fastf1
+2024,5,Monaco Grand Prix,Yuki Tsunoda,22,RB,12.0,8.0,Finished,4.0,False,,,78,1:28:04.470,fastf1
+2024,5,Monaco Grand Prix,"Lawson, Liam",30,RB,4.0,2.0,Finished,18.0,False,,,78,1:32:04.838,fastf1
+2024,5,Monaco Grand Prix,Alexander Albon,23,Williams,18.0,6.0,Finished,8.0,False,,,78,1:32:53.190,fastf1
+2024,5,Monaco Grand Prix,"Colapinto, Franco",43,Williams,15.0,12.0,Finished,0.0,False,,,78,1:27:37.848,fastf1
+2024,5,Monaco Grand Prix,Oliver Bearman,87,Haas F1 Team,9.0,16.0,Finished,0.0,False,,,78,1:34:30.228,fastf1
+2024,6,Belgium Grand Prix,Max Verstappen,1,Red Bull Racing,10.0,11.0,Finished,0.0,False,,,44,1:25:38.750,fastf1
+2024,6,Belgium Grand Prix,Sergio Perez,11,Red Bull Racing,14.0,4.0,Finished,12.0,False,,,44,1:34:47.095,fastf1
+2024,6,Belgium Grand Prix,Lewis Hamilton,44,Mercedes,3.0,13.0,Finished,0.0,False,,,44,1:31:19.483,fastf1
+2024,6,Belgium Grand Prix,George Russell,63,Mercedes,12.0,17.0,Finished,0.0,False,,,44,1:33:55.696,fastf1
+2024,6,Belgium Grand Prix,Charles Leclerc,16,Ferrari,7.0,10.0,Finished,1.0,False,,,44,1:29:42.792,fastf1
+2024,6,Belgium Grand Prix,Carlos Sainz,55,Ferrari,21.0,15.0,Finished,0.0,False,,,44,1:27:33.568,fastf1
+2024,6,Belgium Grand Prix,Lando Norris,4,McLaren,19.0,14.0,Finished,0.0,False,,,44,1:33:24.614,fastf1
+2024,6,Belgium Grand Prix,Oscar Piastri,81,McLaren,1.0,,Retired,,False,,,11,,fastf1
+2024,6,Belgium Grand Prix,"Alonso, Fernando",14,Aston Martin,8.0,2.0,Finished,18.0,False,,,44,1:26:28.357,fastf1
+2024,6,Belgium Grand Prix,Lance Stroll,18,Aston Martin,16.0,8.0,Finished,4.0,False,,,44,1:31:55.209,fastf1
+2024,6,Belgium Grand Prix,Esteban Ocon,31,Alpine,6.0,6.0,Finished,8.0,False,,,44,1:29:23.852,fastf1
+2024,6,Belgium Grand Prix,Pierre Gasly,10,Alpine,17.0,16.0,Finished,0.0,False,,,44,1:30:09.057,fastf1
+2024,6,Belgium Grand Prix,Valtteri Bottas,77,Kick Sauber,4.0,9.0,Finished,2.0,False,,,44,1:32:13.334,fastf1
+2024,6,Belgium Grand Prix,"Zhou, Guanyu",24,Kick Sauber,11.0,1.0,Finished,25.0,False,,,44,1:27:27.196,fastf1
+2024,6,Belgium Grand Prix,Kevin Magnussen,20,Haas F1 Team,2.0,7.0,Finished,6.0,False,,,44,1:31:06.254,fastf1
+2024,6,Belgium Grand Prix,Nico Hulkenberg,27,Haas F1 Team,,19.0,Finished,0.0,False,,,44,1:26:37.355,fastf1
+2024,6,Belgium Grand Prix,Yuki Tsunoda,22,RB,9.0,5.0,Finished,10.0,False,,,44,1:27:19.521,fastf1
+2024,6,Belgium Grand Prix,Liam Lawson,30,RB,18.0,20.0,Finished,0.0,False,,,44,1:27:21.891,fastf1
+2024,6,Belgium Grand Prix,Alexander Albon,23,Williams,20.0,3.0,Finished,15.0,False,,,44,1:34:44.148,fastf1
+2024,6,Belgium Grand Prix,Franco Colapinto,43,Williams,5.0,12.0,Finished,0.0,True,99.076,332.7,44,1:34:50.158,fastf1
+2024,6,Belgium Grand Prix,"Bearman, Oliver",87,Haas F1 Team,13.0,18.0,Finished,0.0,False,,,44,1:26:00.123,fastf1
+2024,7,Singapore Grand Prix,Max Verstappen,1,Red Bull Racing,,6.0,Finished,8.0,False,,,61,1:33:31.753,fastf1
+2024,7,Singapore Grand Prix,Sergio Perez,11,Red Bull Racing,10.0,3.0,Finished,15.0,False,,,61,1:31:40.737,fastf1
+2024,7,Singapore Grand Prix,Lewis Hamilton,44,Mercedes,17.0,9.0,Finished,2.0,False,,,61,1:32:47.772,fastf1
+2024,7,Singapore Grand Prix,George Russell,63,Mercedes,16.0,7.0,Finished,6.0,False,,,61,1:25:07.191,fastf1
+2024,7,Singapore Grand Prix,Charles Leclerc,16,Ferrari,14.0,,DNF,,False,,,28,,fastf1
+2024,7,Singapore Grand Prix,Carlos Sainz,55,Ferrari,19.0,,Accident,,False,,,51,,fastf1
+2024,7,Singapore Grand Prix,Lando Norris,4,McLaren,5.0,5.0,Finished,10.0,False,,,61,1:32:15.334,fastf1
+2024,7,Singapore Grand Prix,Oscar Piastri,81,McLaren,8.0,,Mechanical,,False,,,44,,fastf1
+2024,7,Singapore Grand Prix,"Alonso, Fernando",14,Aston Martin,6.0,12.0,Finished,0.0,False,,,61,1:28:03.759,fastf1
+2024,7,Singapore Grand Prix,Lance Stroll,18,Aston Martin,11.0,15.0,Finished,0.0,False,,,61,1:27:41.758,fastf1
+2024,7,Singapore Grand Prix,Esteban Ocon,31,Alpine,20.0,11.0,Finished,0.0,False,,,61,1:29:16.987,fastf1
+2024,7,Singapore Grand Prix,"Gasly, Pierre",10,Alpine,3.0,8.0,Finished,4.0,False,,,61,1:32:35.079,fastf1
+2024,7,Singapore Grand Prix,Valtteri Bottas,77,Kick Sauber,9.0,18.0,Finished,0.0,False,,,61,1:28:54.961,fastf1
+2024,7,Singapore Grand Prix,Zhou Guanyu,24,Kick Sauber,21.0,1.0,Finished,25.0,False,,,61,1:25:06.737,fastf1
+2024,7,Singapore Grand Prix,Kevin Magnussen,20,Haas F1 Team,13.0,14.0,Finished,0.0,False,,,61,1:26:30.604,fastf1
+2024,7,Singapore Grand Prix,Nico Hulkenberg,27,Haas F1 Team,1.0,10.0,Finished,1.0,False,,,61,1:26:03.154,fastf1
+2024,7,Singapore Grand Prix,Yuki Tsunoda,22,RB,18.0,2.0,Finished,18.0,False,,,61,1:25:53.770,fastf1
+2024,7,Singapore Grand Prix,Liam Lawson,30,RB,7.0,4.0,Finished,12.0,False,,,61,1:34:44.169,fastf1
+2024,7,Singapore Grand Prix,Alexander Albon,23,Williams,15.0,17.0,Finished,0.0,False,,,61,1:34:51.624,fastf1
+2024,7,Singapore Grand Prix,Franco Colapinto,43,Williams,2.0,13.0,Finished,0.0,False,,,61,1:32:25.444,fastf1
+2024,7,Singapore Grand Prix,Oliver Bearman,87,Haas F1 Team,12.0,16.0,Finished,0.0,False,,,61,1:30:05.831,fastf1
+2024,8,Netherlands Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,9.0,Finished,2.0,False,,,71,1:26:09.257,fastf1
+2024,8,Netherlands Grand Prix,Sergio Perez,11,Red Bull Racing,17.0,10.0,Finished,1.0,False,,,71,1:28:21.804,fastf1
+2024,8,Netherlands Grand Prix,Lewis Hamilton,44,Mercedes,8.0,12.0,Finished,0.0,False,,,71,1:31:57.630,fastf1
+2024,8,Netherlands Grand Prix,"Russell, George",63,Mercedes,12.0,14.0,Finished,0.0,False,,,71,1:27:01.396,fastf1
+2024,8,Netherlands Grand Prix,Charles Leclerc,16,Ferrari,16.0,8.0,Finished,4.0,False,,,71,1:27:14.981,fastf1
+2024,8,Netherlands Grand Prix,"Sainz, Carlos",55,Ferrari,18.0,13.0,Finished,0.0,False,,,71,1:28:05.476,fastf1
+2024,8,Netherlands Grand Prix,Lando Norris,4,McLaren,3.0,,Gearbox,,False,,,40,,fastf1
+2024,8,Netherlands Grand Prix,Oscar Piastri,81,McLaren,11.0,7.0,Finished,6.0,False,,,71,1:30:51.036,fastf1
+2024,8,Netherlands Grand Prix,Fernando Alonso,14,Aston Martin,21.0,15.0,Finished,0.0,False,,,71,1:25:07.522,fastf1
+2024,8,Netherlands Grand Prix,Lance Stroll,18,Aston Martin,1.0,6.0,Finished,8.0,False,,,71,1:30:46.888,fastf1
+2024,8,Netherlands Grand Prix,Esteban Ocon,31,Alpine,6.0,16.0,Finished,0.0,False,,,71,1:26:11.724,fastf1
+2024,8,Netherlands Grand Prix,Pierre Gasly,10,Alpine,7.0,,Engine,,False,,,38,,fastf1
+2024,8,Netherlands Grand Prix,Valtteri Bottas,77,Kick Sauber,4.0,3.0,Finished,15.0,False,,,71,1:28:10.225,fastf1
+2024,8,Netherlands Grand Prix,Zhou Guanyu,24,Kick Sauber,9.0,17.0,Finished,0.0,False,,,71,1:31:35.365,fastf1
+2024,8,Netherlands Grand Prix,Kevin Magnussen,20,Haas F1 Team,10.0,1.0,Finished,25.0,False,,,71,1:26:56.574,fastf1
+2024,8,Netherlands Grand Prix,Nico Hulkenberg,27,Haas F1 Team,20.0,18.0,Finished,0.0,False,,,71,1:30:29.445,fastf1
+2024,8,Netherlands Grand Prix,Yuki Tsunoda,22,RB,2.0,11.0,Finished,0.0,False,,,71,1:34:44.705,fastf1
+2024,8,Netherlands Grand Prix,Liam Lawson,30,RB,19.0,2.0,Finished,18.0,False,,,71,1:33:12.267,fastf1
+2024,8,Netherlands Grand Prix,Alexander Albon,23,Williams,15.0,5.0,Finished,10.0,False,,,71,1:30:26.823,fastf1
+2024,8,Netherlands Grand Prix,Franco Colapinto,43,Williams,13.0,,Collision,,False,,,33,,fastf1
+2024,8,Netherlands Grand Prix,Oliver Bearman,87,Haas F1 Team,14.0,4.0,Finished,12.0,False,,,71,1:30:19.423,fastf1
+2024,9,Azerbaijan Grand Prix,Max Verstappen,1,Red Bull Racing,4.0,,Engine,,True,108.462,310.6,16,,fastf1
+2024,9,Azerbaijan Grand Prix,Sergio Perez,11,Red Bull Racing,16.0,6.0,Finished,8.0,False,,,50,1:33:57.206,fastf1
+2024,9,Azerbaijan Grand Prix,Lewis Hamilton,44,Mercedes,5.0,9.0,Finished,2.0,False,,,50,1:27:28.505,fastf1
+2024,9,Azerbaijan Grand Prix,George Russell,63,Mercedes,21.0,17.0,Finished,0.0,False,,,50,1:34:59.456,fastf1
+2024,9,Azerbaijan Grand Prix,Charles Leclerc,16,Ferrari,15.0,10.0,Finished,1.0,False,,,50,1:26:29.660,fastf1
+2024,9,Azerbaijan Grand Prix,Carlos Sainz,55,Ferrari,13.0,19.0,Finished,0.0,False,,,50,1:25:41.822,fastf1
+2024,9,Azerbaijan Grand Prix,Lando Norris,4,McLaren,20.0,5.0,Finished,10.0,False,,,50,1:27:08.913,fastf1
+2024,9,Azerbaijan Grand Prix,Oscar Piastri,81,McLaren,9.0,15.0,Finished,0.0,False,,,50,1:28:06.309,fastf1
+2024,9,Azerbaijan Grand Prix,Fernando Alonso,14,Aston Martin,11.0,16.0,Finished,0.0,False,,,50,1:32:07.138,fastf1
+2024,9,Azerbaijan Grand Prix,Lance Stroll,18,Aston Martin,10.0,18.0,Finished,0.0,False,,,50,1:28:24.661,fastf1
+2024,9,Azerbaijan Grand Prix,"Ocon, Esteban",31,Alpine,1.0,20.0,Finished,0.0,False,,,50,1:26:38.955,fastf1
+2024,9,Azerbaijan Grand Prix,Pierre Gasly,10,Alpine,7.0,8.0,Finished,4.0,False,,,50,1:25:55.133,fastf1
+2024,9,Azerbaijan Grand Prix,Valtteri Bottas,77,Kick Sauber,18.0,3.0,Finished,15.0,False,,,50,1:25:24.490,fastf1
+2024,9,Azerbaijan Grand Prix,Zhou Guanyu,24,Kick Sauber,2.0,7.0,Finished,6.0,False,,,50,1:30:01.817,fastf1
+2024,9,Azerbaijan Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,12.0,11.0,Finished,0.0,False,,,50,1:30:40.336,fastf1
+2024,9,Azerbaijan Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,3.0,1.0,Finished,25.0,False,,,50,1:33:45.373,fastf1
+2024,9,Azerbaijan Grand Prix,Yuki Tsunoda,22,RB,17.0,13.0,Finished,0.0,False,,,50,1:28:00.489,fastf1
+2024,9,Azerbaijan Grand Prix,Liam Lawson,30,RB,6.0,14.0,Finished,0.0,False,,,50,1:32:26.093,fastf1
+2024,9,Azerbaijan Grand Prix,Alexander Albon,23,Williams,19.0,2.0,Finished,18.0,False,,,50,1:30:56.157,fastf1
+2024,9,Azerbaijan Grand Prix,Franco Colapinto,43,Williams,8.0,4.0,Finished,12.0,False,,,50,1:25:41.349,fastf1
+2024,9,Azerbaijan Grand Prix,Oliver Bearman,87,Haas F1 Team,14.0,12.0,Finished,0.0,False,,,50,1:33:33.734,fastf1
+2024,10,Austin Grand Prix,Max Verstappen,1,Red Bull Racing,2.0,1.0,Finished,25.0,False,,,55,1:34:27.778,fastf1
+2024,10,Austin Grand Prix,"Perez, Sergio",11,Red Bull Racing,10.0,7.0,Finished,6.0,False,,,55,1:30:54.771,fastf1
+2024,10,Austin Grand Prix,Lewis Hamilton,44,Mercedes,15.0,13.0,Finished,0.0,False,,,55,1:28:18.877,fastf1
+2024,10,Austin Grand Prix,George Russell,63,Mercedes,13.0,3.0,Finished,15.0,False,,,55,1:25:21.175,fastf1
+2024,10,Austin Grand Prix,Charles Leclerc,16,Ferrari,3.0,19.0,Finished,0.0,False,,,55,1:30:58.537,fastf1
+2024,10,Austin Grand Prix,Carlos Sainz,55,Ferrari,20.0,17.0,Finished,0.0,False,,,55,1:26:57.297,fastf1
+2024,10,Austin Grand Prix,Lando Norris,4,McLaren,14.0,16.0,Finished,0.0,False,,,55,1:25:10.626,fastf1
+2024,10,Austin Grand Prix,Oscar Piastri,81,McLaren,21.0,10.0,Finished,1.0,False,,,55,1:33:57.133,fastf1
+2024,10,Austin Grand Prix,Fernando Alonso,14,Aston Martin,19.0,9.0,Finished,2.0,False,,,55,1:34:35.878,fastf1
+2024,10,Austin Grand Prix,Lance Stroll,18,Aston Martin,12.0,14.0,Finished,0.0,False,,,55,1:30:21.635,fastf1
+2024,10,Austin Grand Prix,Esteban Ocon,31,Alpine,4.0,8.0,Finished,4.0,False,,,55,1:25:12.056,fastf1
+2024,10,Austin Grand Prix,Pierre Gasly,10,Alpine,11.0,18.0,Finished,0.0,False,,,55,1:29:36.242,fastf1
+2024,10,Austin Grand Prix,Valtteri Bottas,77,Kick Sauber,6.0,4.0,Finished,12.0,False,,,55,1:28:32.002,fastf1
+2024,10,Austin Grand Prix,Zhou Guanyu,24,Kick Sauber,8.0,12.0,Finished,0.0,False,,,55,1:25:45.245,fastf1
+2024,10,Austin Grand Prix,Kevin Magnussen,20,Haas F1 Team,16.0,15.0,Finished,0.0,False,,,55,1:26:22.809,fastf1
+2024,10,Austin Grand Prix,Nico Hulkenberg,27,Haas F1 Team,9.0,11.0,Finished,0.0,False,,,55,1:27:56.912,fastf1
+2024,10,Austin Grand Prix,"Tsunoda, Yuki",22,RB,17.0,2.0,Finished,18.0,False,,,55,1:27:12.140,fastf1
+2024,10,Austin Grand Prix,Liam Lawson,30,RB,18.0,21.0,Finished,0.0,False,,,55,1:27:15.268,fastf1
+2024,10,Austin Grand Prix,Alexander Albon,23,Williams,5.0,5.0,Finished,10.0,False,,,55,1:28:51.924,fastf1
+2024,10,Austin Grand Prix,Franco Colapinto,43,Williams,7.0,6.0,Finished,8.0,False,,,55,1:26:11.138,fastf1
+2024,10,Austin Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,20.0,Finished,0.0,True,80.627,317.8,55,1:29:14.492,fastf1
+2024,11,Brazil Grand Prix,Max Verstappen,1,Red Bull Racing,,9.0,Finished,2.0,False,,,70,1:29:54.260,fastf1
+2024,11,Brazil Grand Prix,Sergio Perez,11,Red Bull Racing,21.0,12.0,Finished,0.0,False,,,70,1:30:47.202,fastf1
+2024,11,Brazil Grand Prix,Lewis Hamilton,44,Mercedes,1.0,,Engine,,False,,,47,,fastf1
+2024,11,Brazil Grand Prix,George Russell,63,Mercedes,11.0,3.0,Finished,15.0,False,,,70,1:29:11.813,fastf1
+2024,11,Brazil Grand Prix,Charles Leclerc,16,Ferrari,4.0,11.0,Finished,0.0,False,,,70,1:29:17.535,fastf1
+2024,11,Brazil Grand Prix,Carlos Sainz,55,Ferrari,16.0,,Engine,,False,,,58,,fastf1
+2024,11,Brazil Grand Prix,Lando Norris,4,McLaren,8.0,5.0,Finished,10.0,False,,,70,1:27:24.544,fastf1
+2024,11,Brazil Grand Prix,Oscar Piastri,81,McLaren,13.0,7.0,Finished,6.0,False,,,70,1:26:04.302,fastf1
+2024,11,Brazil Grand Prix,Fernando Alonso,14,Aston Martin,7.0,17.0,Finished,0.0,False,,,70,1:32:55.551,fastf1
+2024,11,Brazil Grand Prix,Lance Stroll,18,Aston Martin,6.0,8.0,Finished,4.0,False,,,70,1:30:40.147,fastf1
+2024,11,Brazil Grand Prix,Esteban Ocon,31,Alpine,15.0,16.0,Finished,0.0,False,,,70,1:25:27.354,fastf1
+2024,11,Brazil Grand Prix,Pierre Gasly,10,Alpine,14.0,,Collision,,False,,,31,,fastf1
+2024,11,Brazil Grand Prix,Valtteri Bottas,77,Kick Sauber,17.0,15.0,Finished,0.0,False,,,70,1:31:20.933,fastf1
+2024,11,Brazil Grand Prix,Zhou Guanyu,24,Kick Sauber,19.0,6.0,Finished,8.0,False,,,70,1:25:45.294,fastf1
+2024,11,Brazil Grand Prix,Kevin Magnussen,20,Haas F1 Team,5.0,10.0,Finished,1.0,False,,,70,1:26:38.095,fastf1
+2024,11,Brazil Grand Prix,Nico Hulkenberg,27,Haas F1 Team,3.0,,DNF,,True,109.403,320.6,58,,fastf1
+2024,11,Brazil Grand Prix,Yuki Tsunoda,22,RB,12.0,2.0,Finished,18.0,False,,,70,1:34:56.360,fastf1
+2024,11,Brazil Grand Prix,Liam Lawson,30,RB,2.0,4.0,Finished,12.0,False,,,70,1:33:19.903,fastf1
+2024,11,Brazil Grand Prix,Alexander Albon,23,Williams,9.0,14.0,Finished,0.0,False,,,70,1:26:39.747,fastf1
+2024,11,Brazil Grand Prix,Franco Colapinto,43,Williams,20.0,1.0,Finished,25.0,False,,,70,1:34:17.120,fastf1
+2024,11,Brazil Grand Prix,Oliver Bearman,87,Haas F1 Team,10.0,13.0,Finished,0.0,False,,,70,1:26:31.155,fastf1
+2024,12,Austria Grand Prix,Max Verstappen,1,Red Bull Racing,18.0,14.0,Finished,0.0,False,,,70,1:32:01.947,fastf1
+2024,12,Austria Grand Prix,Sergio Perez,11,Red Bull Racing,16.0,11.0,Finished,0.0,False,,,70,1:30:38.332,fastf1
+2024,12,Austria Grand Prix,Lewis Hamilton,44,Mercedes,15.0,2.0,Finished,18.0,False,,,70,1:27:20.140,fastf1
+2024,12,Austria Grand Prix,George Russell,63,Mercedes,11.0,12.0,Finished,0.0,False,,,70,1:29:04.124,fastf1
+2024,12,Austria Grand Prix,Charles Leclerc,16,Ferrari,9.0,,Collision,,False,,,60,,fastf1
+2024,12,Austria Grand Prix,"Sainz, Carlos",55,Ferrari,21.0,10.0,Finished,1.0,False,,,70,1:29:57.445,fastf1
+2024,12,Austria Grand Prix,Lando Norris,4,McLaren,2.0,13.0,Finished,0.0,True,86.253,299.3,70,1:31:00.787,fastf1
+2024,12,Austria Grand Prix,Oscar Piastri,81,McLaren,3.0,6.0,Finished,8.0,False,,,70,1:34:17.907,fastf1
+2024,12,Austria Grand Prix,Fernando Alonso,14,Aston Martin,20.0,4.0,Finished,12.0,False,,,70,1:27:46.165,fastf1
+2024,12,Austria Grand Prix,Lance Stroll,18,Aston Martin,17.0,9.0,Finished,2.0,False,,,70,1:34:56.721,fastf1
+2024,12,Austria Grand Prix,Esteban Ocon,31,Alpine,4.0,7.0,Finished,6.0,False,,,70,1:28:31.363,fastf1
+2024,12,Austria Grand Prix,Pierre Gasly,10,Alpine,12.0,16.0,Finished,0.0,False,,,70,1:34:00.736,fastf1
+2024,12,Austria Grand Prix,Valtteri Bottas,77,Kick Sauber,14.0,,DNF,,False,,,44,,fastf1
+2024,12,Austria Grand Prix,Zhou Guanyu,24,Kick Sauber,5.0,15.0,Finished,0.0,False,,,70,1:31:18.049,fastf1
+2024,12,Austria Grand Prix,Kevin Magnussen,20,Haas F1 Team,7.0,,Mechanical,,False,,,20,,fastf1
+2024,12,Austria Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,19.0,17.0,Finished,0.0,False,,,70,1:29:46.109,fastf1
+2024,12,Austria Grand Prix,Yuki Tsunoda,22,RB,10.0,3.0,Finished,15.0,False,,,70,1:25:01.880,fastf1
+2024,12,Austria Grand Prix,Liam Lawson,30,RB,13.0,5.0,Finished,10.0,False,,,70,1:28:44.029,fastf1
+2024,12,Austria Grand Prix,Alexander Albon,23,Williams,1.0,,Mechanical,,False,,,52,,fastf1
+2024,12,Austria Grand Prix,Franco Colapinto,43,Williams,8.0,1.0,Finished,25.0,False,,,70,1:25:06.528,fastf1
+2024,12,Austria Grand Prix,Oliver Bearman,87,Haas F1 Team,6.0,8.0,Finished,4.0,False,,,70,1:25:22.033,fastf1
+2024,13,Saudi Arabia Grand Prix,Max Verstappen,1,Red Bull Racing,21.0,,Accident,,False,,,15,,fastf1
+2024,13,Saudi Arabia Grand Prix,Sergio Perez,11,Red Bull Racing,17.0,5.0,Finished,10.0,False,,,49,1:25:41.761,fastf1
+2024,13,Saudi Arabia Grand Prix,"Hamilton, Lewis",44,Mercedes,1.0,1.0,Finished,25.0,False,,,49,1:26:16.945,fastf1
+2024,13,Saudi Arabia Grand Prix,George Russell,63,Mercedes,3.0,10.0,Finished,1.0,False,,,49,1:33:32.818,fastf1
+2024,13,Saudi Arabia Grand Prix,Charles Leclerc,16,Ferrari,6.0,16.0,Finished,0.0,False,,,49,1:32:23.554,fastf1
+2024,13,Saudi Arabia Grand Prix,Carlos Sainz,55,Ferrari,2.0,,Collision,,False,,,15,,fastf1
+2024,13,Saudi Arabia Grand Prix,"Norris, Lando",4,McLaren,13.0,14.0,Finished,0.0,True,81.183,301.9,49,1:28:14.995,fastf1
+2024,13,Saudi Arabia Grand Prix,Oscar Piastri,81,McLaren,15.0,7.0,Finished,6.0,False,,,49,1:30:42.907,fastf1
+2024,13,Saudi Arabia Grand Prix,Fernando Alonso,14,Aston Martin,11.0,,Retired,,False,,,21,,fastf1
+2024,13,Saudi Arabia Grand Prix,Lance Stroll,18,Aston Martin,18.0,17.0,Finished,0.0,False,,,49,1:29:27.355,fastf1
+2024,13,Saudi Arabia Grand Prix,Esteban Ocon,31,Alpine,8.0,9.0,Finished,2.0,False,,,49,1:34:03.350,fastf1
+2024,13,Saudi Arabia Grand Prix,Pierre Gasly,10,Alpine,10.0,2.0,Finished,18.0,False,,,49,1:33:57.581,fastf1
+2024,13,Saudi Arabia Grand Prix,Valtteri Bottas,77,Kick Sauber,12.0,8.0,Finished,4.0,False,,,49,1:33:23.928,fastf1
+2024,13,Saudi Arabia Grand Prix,Zhou Guanyu,24,Kick Sauber,4.0,4.0,Finished,12.0,False,,,49,1:28:58.620,fastf1
+2024,13,Saudi Arabia Grand Prix,Kevin Magnussen,20,Haas F1 Team,7.0,3.0,Finished,15.0,False,,,49,1:30:48.339,fastf1
+2024,13,Saudi Arabia Grand Prix,Nico Hulkenberg,27,Haas F1 Team,5.0,6.0,Finished,8.0,False,,,49,1:28:24.545,fastf1
+2024,13,Saudi Arabia Grand Prix,Yuki Tsunoda,22,RB,,12.0,Finished,0.0,False,,,49,1:30:37.385,fastf1
+2024,13,Saudi Arabia Grand Prix,Liam Lawson,30,RB,19.0,11.0,Finished,0.0,False,,,49,1:29:44.483,fastf1
+2024,13,Saudi Arabia Grand Prix,Alexander Albon,23,Williams,20.0,18.0,Finished,0.0,False,,,49,1:29:41.546,fastf1
+2024,13,Saudi Arabia Grand Prix,Franco Colapinto,43,Williams,16.0,13.0,Finished,0.0,False,,,49,1:25:36.267,fastf1
+2024,13,Saudi Arabia Grand Prix,Oliver Bearman,87,Haas F1 Team,9.0,15.0,Finished,0.0,True,107.68,308.4,49,1:28:43.420,fastf1
+2024,14,UAE Grand Prix,Max Verstappen,1,Red Bull Racing,8.0,,Retired,,False,,,27,,fastf1
+2024,14,UAE Grand Prix,Sergio Perez,11,Red Bull Racing,5.0,,Retired,,False,,,47,,fastf1
+2024,14,UAE Grand Prix,Lewis Hamilton,44,Mercedes,15.0,5.0,Finished,10.0,False,,,57,1:29:42.342,fastf1
+2024,14,UAE Grand Prix,George Russell,63,Mercedes,6.0,9.0,Finished,2.0,False,,,57,1:27:49.148,fastf1
+2024,14,UAE Grand Prix,Charles Leclerc,16,Ferrari,21.0,3.0,Finished,15.0,False,,,57,1:34:20.403,fastf1
+2024,14,UAE Grand Prix,Carlos Sainz,55,Ferrari,17.0,10.0,Finished,1.0,False,,,57,1:26:52.868,fastf1
+2024,14,UAE Grand Prix,Lando Norris,4,McLaren,18.0,13.0,Finished,0.0,False,,,57,1:25:27.171,fastf1
+2024,14,UAE Grand Prix,Oscar Piastri,81,McLaren,4.0,4.0,Finished,12.0,False,,,57,1:27:08.281,fastf1
+2024,14,UAE Grand Prix,Fernando Alonso,14,Aston Martin,7.0,2.0,Finished,18.0,False,,,57,1:28:17.676,fastf1
+2024,14,UAE Grand Prix,"Stroll, Lance",18,Aston Martin,13.0,15.0,Finished,0.0,False,,,57,1:27:40.009,fastf1
+2024,14,UAE Grand Prix,Esteban Ocon,31,Alpine,14.0,7.0,Finished,6.0,False,,,57,1:29:31.049,fastf1
+2024,14,UAE Grand Prix,Pierre Gasly,10,Alpine,16.0,8.0,Finished,4.0,False,,,57,1:27:14.631,fastf1
+2024,14,UAE Grand Prix,Valtteri Bottas,77,Kick Sauber,9.0,,Accident,,False,,,28,,fastf1
+2024,14,UAE Grand Prix,"Zhou, Guanyu",24,Kick Sauber,12.0,11.0,Finished,0.0,False,,,57,1:30:33.762,fastf1
+2024,14,UAE Grand Prix,Kevin Magnussen,20,Haas F1 Team,19.0,16.0,Finished,0.0,False,,,57,1:26:59.417,fastf1
+2024,14,UAE Grand Prix,Nico Hulkenberg,27,Haas F1 Team,3.0,17.0,Finished,0.0,False,,,57,1:27:19.885,fastf1
+2024,14,UAE Grand Prix,Yuki Tsunoda,22,RB,11.0,12.0,Finished,0.0,False,,,57,1:28:34.197,fastf1
+2024,14,UAE Grand Prix,"Lawson, Liam",30,RB,10.0,18.0,Finished,0.0,True,94.063,300.2,57,1:27:06.603,fastf1
+2024,14,UAE Grand Prix,Alexander Albon,23,Williams,2.0,1.0,Finished,25.0,False,,,57,1:32:25.464,fastf1
+2024,14,UAE Grand Prix,Franco Colapinto,43,Williams,20.0,6.0,Finished,8.0,False,,,57,1:27:23.459,fastf1
+2024,14,UAE Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,14.0,Finished,0.0,False,,,57,1:34:57.703,fastf1
+2024,15,Canada Grand Prix,Max Verstappen,1,Red Bull Racing,11.0,7.0,Finished,6.0,False,,,69,1:33:18.031,fastf1
+2024,15,Canada Grand Prix,Sergio Perez,11,Red Bull Racing,15.0,9.0,Finished,2.0,True,100.144,322.7,69,1:28:39.963,fastf1
+2024,15,Canada Grand Prix,"Hamilton, Lewis",44,Mercedes,9.0,13.0,Finished,0.0,False,,,69,1:29:45.921,fastf1
+2024,15,Canada Grand Prix,George Russell,63,Mercedes,17.0,6.0,Finished,8.0,True,82.873,313.1,69,1:29:55.572,fastf1
+2024,15,Canada Grand Prix,Charles Leclerc,16,Ferrari,4.0,8.0,Finished,4.0,False,,,69,1:27:44.431,fastf1
+2024,15,Canada Grand Prix,Carlos Sainz,55,Ferrari,2.0,2.0,Finished,18.0,False,,,69,1:29:08.338,fastf1
+2024,15,Canada Grand Prix,Lando Norris,4,McLaren,14.0,,Engine,,False,,,12,,fastf1
+2024,15,Canada Grand Prix,Oscar Piastri,81,McLaren,16.0,16.0,Finished,0.0,False,,,69,1:31:28.477,fastf1
+2024,15,Canada Grand Prix,Fernando Alonso,14,Aston Martin,7.0,1.0,Finished,25.0,False,,,69,1:29:42.640,fastf1
+2024,15,Canada Grand Prix,Lance Stroll,18,Aston Martin,13.0,3.0,Finished,15.0,False,,,69,1:34:20.127,fastf1
+2024,15,Canada Grand Prix,Esteban Ocon,31,Alpine,6.0,4.0,Finished,12.0,False,,,69,1:26:10.436,fastf1
+2024,15,Canada Grand Prix,Pierre Gasly,10,Alpine,3.0,17.0,Finished,0.0,False,,,69,1:33:50.671,fastf1
+2024,15,Canada Grand Prix,Valtteri Bottas,77,Kick Sauber,8.0,,Accident,,False,,,23,,fastf1
+2024,15,Canada Grand Prix,Zhou Guanyu,24,Kick Sauber,19.0,,Engine,,False,,,28,,fastf1
+2024,15,Canada Grand Prix,Kevin Magnussen,20,Haas F1 Team,5.0,5.0,Finished,10.0,False,,,69,1:25:55.674,fastf1
+2024,15,Canada Grand Prix,"Hulkenberg, Nico",27,Haas F1 Team,20.0,10.0,Finished,1.0,True,79.415,312.5,69,1:30:34.374,fastf1
+2024,15,Canada Grand Prix,Yuki Tsunoda,22,RB,18.0,14.0,Finished,0.0,False,,,69,1:34:55.765,fastf1
+2024,15,Canada Grand Prix,Liam Lawson,30,RB,21.0,15.0,Finished,0.0,False,,,69,1:25:52.181,fastf1
+2024,15,Canada Grand Prix,Alexander Albon,23,Williams,1.0,11.0,Finished,0.0,False,,,69,1:27:44.677,fastf1
+2024,15,Canada Grand Prix,Franco Colapinto,43,Williams,10.0,,Retired,,False,,,40,,fastf1
+2024,15,Canada Grand Prix,Oliver Bearman,87,Haas F1 Team,12.0,12.0,Finished,0.0,False,,,69,1:34:41.900,fastf1
+2024,16,Hungary Grand Prix,Max Verstappen,1,Red Bull Racing,14.0,,Mechanical,,False,,,21,,fastf1
+2024,16,Hungary Grand Prix,Sergio Perez,11,Red Bull Racing,8.0,4.0,Finished,12.0,True,106.227,306.4,69,1:28:00.495,fastf1
+2024,16,Hungary Grand Prix,Lewis Hamilton,44,Mercedes,7.0,13.0,Finished,0.0,False,,,69,1:29:42.557,fastf1
+2024,16,Hungary Grand Prix,George Russell,63,Mercedes,21.0,,Collision,,False,,,51,,fastf1
+2024,16,Hungary Grand Prix,Charles Leclerc,16,Ferrari,12.0,8.0,Finished,4.0,False,,,69,1:32:05.541,fastf1
+2024,16,Hungary Grand Prix,Carlos Sainz,55,Ferrari,20.0,17.0,Finished,0.0,False,,,69,1:27:40.518,fastf1
+2024,16,Hungary Grand Prix,Lando Norris,4,McLaren,13.0,3.0,Finished,15.0,False,,,69,1:25:57.479,fastf1
+2024,16,Hungary Grand Prix,Oscar Piastri,81,McLaren,15.0,1.0,Finished,25.0,False,,,69,1:27:38.026,fastf1
+2024,16,Hungary Grand Prix,Fernando Alonso,14,Aston Martin,5.0,16.0,Finished,0.0,False,,,69,1:29:33.377,fastf1
+2024,16,Hungary Grand Prix,Lance Stroll,18,Aston Martin,9.0,15.0,Finished,0.0,True,94.142,326.8,69,1:27:37.747,fastf1
+2024,16,Hungary Grand Prix,Esteban Ocon,31,Alpine,1.0,5.0,Finished,10.0,False,,,69,1:32:59.848,fastf1
+2024,16,Hungary Grand Prix,Pierre Gasly,10,Alpine,6.0,12.0,Finished,0.0,True,84.649,307.4,69,1:26:40.949,fastf1
+2024,16,Hungary Grand Prix,Valtteri Bottas,77,Kick Sauber,11.0,,Engine,,False,,,61,,fastf1
+2024,16,Hungary Grand Prix,Zhou Guanyu,24,Kick Sauber,19.0,7.0,Finished,6.0,False,,,69,1:31:46.558,fastf1
+2024,16,Hungary Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,18.0,9.0,Finished,2.0,False,,,69,1:33:43.814,fastf1
+2024,16,Hungary Grand Prix,Nico Hulkenberg,27,Haas F1 Team,10.0,2.0,Finished,18.0,False,,,69,1:30:03.483,fastf1
+2024,16,Hungary Grand Prix,Yuki Tsunoda,22,RB,3.0,14.0,Finished,0.0,False,,,69,1:29:19.607,fastf1
+2024,16,Hungary Grand Prix,Liam Lawson,30,RB,,11.0,Finished,0.0,False,,,69,1:28:10.622,fastf1
+2024,16,Hungary Grand Prix,Alexander Albon,23,Williams,16.0,6.0,Finished,8.0,False,,,69,1:29:17.458,fastf1
+2024,16,Hungary Grand Prix,Franco Colapinto,43,Williams,2.0,10.0,Finished,1.0,False,,,69,1:28:30.315,fastf1
+2024,16,Hungary Grand Prix,Oliver Bearman,87,Haas F1 Team,4.0,,Accident,,False,,,27,,fastf1
+2024,17,Mexico Grand Prix,Max Verstappen,1,Red Bull Racing,7.0,5.0,Finished,10.0,False,,,70,1:33:03.475,fastf1
+2024,17,Mexico Grand Prix,Sergio Perez,11,Red Bull Racing,6.0,13.0,Finished,0.0,False,,,70,1:33:51.725,fastf1
+2024,17,Mexico Grand Prix,Lewis Hamilton,44,Mercedes,12.0,4.0,Finished,12.0,False,,,70,1:30:40.289,fastf1
+2024,17,Mexico Grand Prix,George Russell,63,Mercedes,14.0,,Retired,,False,,,30,,fastf1
+2024,17,Mexico Grand Prix,Charles Leclerc,16,Ferrari,19.0,16.0,Finished,0.0,False,,,70,1:32:43.486,fastf1
+2024,17,Mexico Grand Prix,Carlos Sainz,55,Ferrari,3.0,8.0,Finished,4.0,False,,,70,1:31:06.579,fastf1
+2024,17,Mexico Grand Prix,Lando Norris,4,McLaren,21.0,11.0,Finished,0.0,False,,,70,1:29:39.947,fastf1
+2024,17,Mexico Grand Prix,Oscar Piastri,81,McLaren,16.0,14.0,Finished,0.0,False,,,70,1:31:54.731,fastf1
+2024,17,Mexico Grand Prix,Fernando Alonso,14,Aston Martin,18.0,,Accident,,False,,,12,,fastf1
+2024,17,Mexico Grand Prix,"Stroll, Lance",18,Aston Martin,10.0,2.0,Finished,18.0,False,,,70,1:27:29.414,fastf1
+2024,17,Mexico Grand Prix,Esteban Ocon,31,Alpine,17.0,3.0,Finished,15.0,False,,,70,1:28:30.826,fastf1
+2024,17,Mexico Grand Prix,Pierre Gasly,10,Alpine,13.0,7.0,Finished,6.0,False,,,70,1:29:56.168,fastf1
+2024,17,Mexico Grand Prix,Valtteri Bottas,77,Kick Sauber,8.0,9.0,Finished,2.0,False,,,70,1:25:44.127,fastf1
+2024,17,Mexico Grand Prix,Zhou Guanyu,24,Kick Sauber,5.0,10.0,Finished,1.0,False,,,70,1:30:05.904,fastf1
+2024,17,Mexico Grand Prix,Kevin Magnussen,20,Haas F1 Team,11.0,17.0,Finished,0.0,False,,,70,1:28:55.297,fastf1
+2024,17,Mexico Grand Prix,Nico Hulkenberg,27,Haas F1 Team,15.0,12.0,Finished,0.0,False,,,70,1:31:17.844,fastf1
+2024,17,Mexico Grand Prix,Yuki Tsunoda,22,RB,2.0,6.0,Finished,8.0,False,,,70,1:27:01.540,fastf1
+2024,17,Mexico Grand Prix,Liam Lawson,30,RB,1.0,18.0,Finished,0.0,False,,,70,1:28:59.009,fastf1
+2024,17,Mexico Grand Prix,Alexander Albon,23,Williams,20.0,,Collision,,False,,,32,,fastf1
+2024,17,Mexico Grand Prix,Franco Colapinto,43,Williams,9.0,15.0,Finished,0.0,False,,,70,1:34:45.479,fastf1
+2024,17,Mexico Grand Prix,Oliver Bearman,87,Haas F1 Team,4.0,1.0,Finished,25.0,True,100.517,295.2,70,1:34:36.080,fastf1
+2024,18,Qatar Grand Prix,Max Verstappen,1,Red Bull Racing,10.0,,Accident,,False,,,32,,fastf1
+2024,18,Qatar Grand Prix,Sergio Perez,11,Red Bull Racing,16.0,8.0,Finished,4.0,False,,,56,1:30:48.030,fastf1
+2024,18,Qatar Grand Prix,Lewis Hamilton,44,Mercedes,18.0,1.0,Finished,25.0,False,,,56,1:29:35.896,fastf1
+2024,18,Qatar Grand Prix,George Russell,63,Mercedes,13.0,,DNF,,False,,,31,,fastf1
+2024,18,Qatar Grand Prix,Charles Leclerc,16,Ferrari,5.0,16.0,Finished,0.0,False,,,56,1:25:08.882,fastf1
+2024,18,Qatar Grand Prix,Carlos Sainz,55,Ferrari,14.0,10.0,Finished,1.0,False,,,56,1:27:23.593,fastf1
+2024,18,Qatar Grand Prix,Lando Norris,4,McLaren,19.0,,Collision,,False,,,8,,fastf1
+2024,18,Qatar Grand Prix,Oscar Piastri,81,McLaren,9.0,13.0,Finished,0.0,False,,,56,1:26:54.786,fastf1
+2024,18,Qatar Grand Prix,"Alonso, Fernando",14,Aston Martin,8.0,7.0,Finished,6.0,False,,,56,1:25:18.549,fastf1
+2024,18,Qatar Grand Prix,Lance Stroll,18,Aston Martin,6.0,,Collision,,False,,,45,,fastf1
+2024,18,Qatar Grand Prix,Esteban Ocon,31,Alpine,12.0,3.0,Finished,15.0,False,,,56,1:26:49.748,fastf1
+2024,18,Qatar Grand Prix,Pierre Gasly,10,Alpine,11.0,4.0,Finished,12.0,False,,,56,1:31:42.666,fastf1
+2024,18,Qatar Grand Prix,Valtteri Bottas,77,Kick Sauber,15.0,11.0,Finished,0.0,False,,,56,1:27:39.082,fastf1
+2024,18,Qatar Grand Prix,Zhou Guanyu,24,Kick Sauber,3.0,15.0,Finished,0.0,False,,,56,1:34:08.106,fastf1
+2024,18,Qatar Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,21.0,9.0,Finished,2.0,False,,,56,1:28:44.135,fastf1
+2024,18,Qatar Grand Prix,Nico Hulkenberg,27,Haas F1 Team,2.0,5.0,Finished,10.0,False,,,56,1:28:59.697,fastf1
+2024,18,Qatar Grand Prix,"Tsunoda, Yuki",22,RB,1.0,6.0,Finished,8.0,False,,,56,1:31:45.572,fastf1
+2024,18,Qatar Grand Prix,Liam Lawson,30,RB,17.0,14.0,Finished,0.0,False,,,56,1:29:07.232,fastf1
+2024,18,Qatar Grand Prix,Alexander Albon,23,Williams,20.0,17.0,Finished,0.0,False,,,56,1:26:06.189,fastf1
+2024,18,Qatar Grand Prix,Franco Colapinto,43,Williams,4.0,12.0,Finished,0.0,False,,,56,1:29:28.321,fastf1
+2024,18,Qatar Grand Prix,Oliver Bearman,87,Haas F1 Team,7.0,2.0,Finished,18.0,False,,,56,1:27:13.934,fastf1
+2024,19,Spain Grand Prix,"Verstappen, Max",1,Red Bull Racing,20.0,21.0,Finished,0.0,False,,,65,1:31:56.988,fastf1
+2024,19,Spain Grand Prix,Sergio Perez,11,Red Bull Racing,19.0,3.0,Finished,15.0,True,106.079,301.6,65,1:30:22.343,fastf1
+2024,19,Spain Grand Prix,Lewis Hamilton,44,Mercedes,5.0,5.0,Finished,10.0,False,,,65,1:27:18.980,fastf1
+2024,19,Spain Grand Prix,George Russell,63,Mercedes,7.0,18.0,Finished,0.0,False,,,65,1:34:40.967,fastf1
+2024,19,Spain Grand Prix,Charles Leclerc,16,Ferrari,21.0,17.0,Finished,0.0,True,97.871,334.4,65,1:29:04.253,fastf1
+2024,19,Spain Grand Prix,Carlos Sainz,55,Ferrari,10.0,1.0,Finished,25.0,False,,,65,1:28:25.752,fastf1
+2024,19,Spain Grand Prix,Lando Norris,4,McLaren,16.0,14.0,Finished,0.0,True,106.931,306.4,65,1:26:46.730,fastf1
+2024,19,Spain Grand Prix,Oscar Piastri,81,McLaren,4.0,10.0,Finished,1.0,False,,,65,1:28:53.730,fastf1
+2024,19,Spain Grand Prix,Fernando Alonso,14,Aston Martin,13.0,8.0,Finished,4.0,False,,,65,1:32:48.613,fastf1
+2024,19,Spain Grand Prix,Lance Stroll,18,Aston Martin,18.0,16.0,Finished,0.0,False,,,65,1:25:37.081,fastf1
+2024,19,Spain Grand Prix,Esteban Ocon,31,Alpine,14.0,6.0,Finished,8.0,False,,,65,1:26:39.256,fastf1
+2024,19,Spain Grand Prix,Pierre Gasly,10,Alpine,1.0,7.0,Finished,6.0,False,,,65,1:32:39.074,fastf1
+2024,19,Spain Grand Prix,Valtteri Bottas,77,Kick Sauber,2.0,12.0,Finished,0.0,False,,,65,1:34:29.277,fastf1
+2024,19,Spain Grand Prix,Zhou Guanyu,24,Kick Sauber,6.0,11.0,Finished,0.0,False,,,65,1:29:38.175,fastf1
+2024,19,Spain Grand Prix,Kevin Magnussen,20,Haas F1 Team,8.0,15.0,Finished,0.0,False,,,65,1:26:02.065,fastf1
+2024,19,Spain Grand Prix,Nico Hulkenberg,27,Haas F1 Team,15.0,2.0,Finished,18.0,False,,,65,1:33:45.027,fastf1
+2024,19,Spain Grand Prix,Yuki Tsunoda,22,RB,9.0,4.0,Finished,12.0,False,,,65,1:30:41.292,fastf1
+2024,19,Spain Grand Prix,Liam Lawson,30,RB,11.0,19.0,Finished,0.0,False,,,65,1:28:39.884,fastf1
+2024,19,Spain Grand Prix,Alexander Albon,23,Williams,17.0,13.0,Finished,0.0,False,,,65,1:26:51.386,fastf1
+2024,19,Spain Grand Prix,Franco Colapinto,43,Williams,3.0,9.0,Finished,2.0,False,,,65,1:33:40.860,fastf1
+2024,19,Spain Grand Prix,Oliver Bearman,87,Haas F1 Team,12.0,20.0,Finished,0.0,False,,,65,1:29:25.002,fastf1
+2024,20,Japan Grand Prix,Max Verstappen,1,Red Bull Racing,11.0,6.0,Finished,8.0,False,,,52,1:32:43.788,fastf1
+2024,20,Japan Grand Prix,"Perez, Sergio",11,Red Bull Racing,5.0,9.0,Finished,2.0,False,,,52,1:25:10.367,fastf1
+2024,20,Japan Grand Prix,Lewis Hamilton,44,Mercedes,17.0,15.0,Finished,0.0,False,,,52,1:32:11.093,fastf1
+2024,20,Japan Grand Prix,George Russell,63,Mercedes,10.0,12.0,Finished,0.0,False,,,52,1:27:35.797,fastf1
+2024,20,Japan Grand Prix,Charles Leclerc,16,Ferrari,14.0,7.0,Finished,6.0,False,,,52,1:32:01.823,fastf1
+2024,20,Japan Grand Prix,Carlos Sainz,55,Ferrari,20.0,1.0,Finished,25.0,False,,,52,1:27:16.972,fastf1
+2024,20,Japan Grand Prix,Lando Norris,4,McLaren,4.0,17.0,Finished,0.0,False,,,52,1:33:46.960,fastf1
+2024,20,Japan Grand Prix,Oscar Piastri,81,McLaren,16.0,4.0,Finished,12.0,False,,,52,1:29:32.626,fastf1
+2024,20,Japan Grand Prix,Fernando Alonso,14,Aston Martin,6.0,10.0,Finished,1.0,False,,,52,1:28:57.435,fastf1
+2024,20,Japan Grand Prix,Lance Stroll,18,Aston Martin,19.0,13.0,Finished,0.0,False,,,52,1:25:06.591,fastf1
+2024,20,Japan Grand Prix,Esteban Ocon,31,Alpine,18.0,18.0,Finished,0.0,False,,,52,1:28:11.773,fastf1
+2024,20,Japan Grand Prix,Pierre Gasly,10,Alpine,2.0,5.0,Finished,10.0,False,,,52,1:33:53.115,fastf1
+2024,20,Japan Grand Prix,Valtteri Bottas,77,Kick Sauber,1.0,3.0,Finished,15.0,False,,,52,1:29:21.480,fastf1
+2024,20,Japan Grand Prix,Zhou Guanyu,24,Kick Sauber,8.0,20.0,Finished,0.0,False,,,52,1:34:51.872,fastf1
+2024,20,Japan Grand Prix,Kevin Magnussen,20,Haas F1 Team,3.0,2.0,Finished,18.0,False,,,52,1:28:19.005,fastf1
+2024,20,Japan Grand Prix,Nico Hulkenberg,27,Haas F1 Team,21.0,11.0,Finished,0.0,True,94.882,331.6,52,1:27:52.678,fastf1
+2024,20,Japan Grand Prix,Yuki Tsunoda,22,RB,13.0,14.0,Finished,0.0,False,,,52,1:26:31.499,fastf1
+2024,20,Japan Grand Prix,Liam Lawson,30,RB,12.0,,Collision,,False,,,16,,fastf1
+2024,20,Japan Grand Prix,Alexander Albon,23,Williams,9.0,16.0,Finished,0.0,False,,,52,1:33:55.262,fastf1
+2024,20,Japan Grand Prix,Franco Colapinto,43,Williams,7.0,8.0,Finished,4.0,False,,,52,1:27:01.960,fastf1
+2024,20,Japan Grand Prix,Oliver Bearman,87,Haas F1 Team,15.0,19.0,Finished,0.0,False,,,52,1:28:19.859,fastf1
+2024,21,United Kingdom Grand Prix,Max Verstappen,1,Red Bull Racing,11.0,10.0,Finished,1.0,False,,,51,1:31:26.142,fastf1
+2024,21,United Kingdom Grand Prix,Sergio Perez,11,Red Bull Racing,2.0,,Collision,,False,,,7,,fastf1
+2024,21,United Kingdom Grand Prix,Lewis Hamilton,44,Mercedes,14.0,6.0,Finished,8.0,False,,,51,1:33:09.995,fastf1
+2024,21,United Kingdom Grand Prix,George Russell,63,Mercedes,9.0,4.0,Finished,12.0,True,106.634,297.7,51,1:28:22.600,fastf1
+2024,21,United Kingdom Grand Prix,"Leclerc, Charles",16,Ferrari,20.0,11.0,Finished,0.0,False,,,51,1:30:21.151,fastf1
+2024,21,United Kingdom Grand Prix,Carlos Sainz,55,Ferrari,19.0,12.0,Finished,0.0,False,,,51,1:28:40.322,fastf1
+2024,21,United Kingdom Grand Prix,Lando Norris,4,McLaren,4.0,5.0,Finished,10.0,False,,,51,1:29:33.814,fastf1
+2024,21,United Kingdom Grand Prix,"Piastri, Oscar",81,McLaren,10.0,3.0,Finished,15.0,False,,,51,1:25:01.572,fastf1
+2024,21,United Kingdom Grand Prix,Fernando Alonso,14,Aston Martin,3.0,13.0,Finished,0.0,False,,,51,1:25:03.763,fastf1
+2024,21,United Kingdom Grand Prix,Lance Stroll,18,Aston Martin,1.0,,Gearbox,,False,,,17,,fastf1
+2024,21,United Kingdom Grand Prix,Esteban Ocon,31,Alpine,17.0,17.0,Finished,0.0,False,,,51,1:29:37.029,fastf1
+2024,21,United Kingdom Grand Prix,Pierre Gasly,10,Alpine,18.0,7.0,Finished,6.0,False,,,51,1:25:08.893,fastf1
+2024,21,United Kingdom Grand Prix,Valtteri Bottas,77,Kick Sauber,6.0,18.0,Finished,0.0,False,,,51,1:32:17.866,fastf1
+2024,21,United Kingdom Grand Prix,Zhou Guanyu,24,Kick Sauber,21.0,16.0,Finished,0.0,False,,,51,1:34:13.600,fastf1
+2024,21,United Kingdom Grand Prix,Kevin Magnussen,20,Haas F1 Team,5.0,8.0,Finished,4.0,False,,,51,1:32:55.163,fastf1
+2024,21,United Kingdom Grand Prix,Nico Hulkenberg,27,Haas F1 Team,16.0,,DNF,,False,,,19,,fastf1
+2024,21,United Kingdom Grand Prix,"Tsunoda, Yuki",22,RB,13.0,9.0,Finished,2.0,False,,,51,1:29:21.381,fastf1
+2024,21,United Kingdom Grand Prix,Liam Lawson,30,RB,15.0,2.0,Finished,18.0,False,,,51,1:30:40.068,fastf1
+2024,21,United Kingdom Grand Prix,Alexander Albon,23,Williams,12.0,1.0,Finished,25.0,False,,,51,1:27:09.355,fastf1
+2024,21,United Kingdom Grand Prix,Franco Colapinto,43,Williams,,15.0,Finished,0.0,False,,,51,1:34:12.470,fastf1
+2024,21,United Kingdom Grand Prix,Oliver Bearman,87,Haas F1 Team,7.0,14.0,Finished,0.0,False,,,51,1:31:28.007,fastf1
+2024,22,Miami Grand Prix,Max Verstappen,1,Red Bull Racing,15.0,16.0,Finished,0.0,False,,,56,1:30:51.665,fastf1
+2024,22,Miami Grand Prix,Sergio Perez,11,Red Bull Racing,7.0,6.0,Finished,8.0,False,,,56,1:27:30.666,fastf1
+2024,22,Miami Grand Prix,Lewis Hamilton,44,Mercedes,8.0,1.0,Finished,25.0,False,,,56,1:25:42.671,fastf1
+2024,22,Miami Grand Prix,George Russell,63,Mercedes,5.0,12.0,Finished,0.0,False,,,56,1:25:55.647,fastf1
+2024,22,Miami Grand Prix,"Leclerc, Charles",16,Ferrari,10.0,8.0,Finished,4.0,False,,,56,1:28:06.560,fastf1
+2024,22,Miami Grand Prix,Carlos Sainz,55,Ferrari,9.0,,Gearbox,,False,,,23,,fastf1
+2024,22,Miami Grand Prix,Lando Norris,4,McLaren,2.0,18.0,Finished,0.0,False,,,56,1:33:51.864,fastf1
+2024,22,Miami Grand Prix,Oscar Piastri,81,McLaren,4.0,7.0,Finished,6.0,False,,,56,1:28:27.119,fastf1
+2024,22,Miami Grand Prix,Fernando Alonso,14,Aston Martin,17.0,4.0,Finished,12.0,False,,,56,1:32:42.516,fastf1
+2024,22,Miami Grand Prix,Lance Stroll,18,Aston Martin,18.0,2.0,Finished,18.0,False,,,56,1:34:01.979,fastf1
+2024,22,Miami Grand Prix,"Ocon, Esteban",31,Alpine,11.0,14.0,Finished,0.0,False,,,56,1:28:57.782,fastf1
+2024,22,Miami Grand Prix,Pierre Gasly,10,Alpine,20.0,5.0,Finished,10.0,False,,,56,1:26:37.423,fastf1
+2024,22,Miami Grand Prix,Valtteri Bottas,77,Kick Sauber,16.0,11.0,Finished,0.0,False,,,56,1:33:11.622,fastf1
+2024,22,Miami Grand Prix,Zhou Guanyu,24,Kick Sauber,3.0,,Retired,,False,,,43,,fastf1
+2024,22,Miami Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,1.0,17.0,Finished,0.0,False,,,56,1:32:55.062,fastf1
+2024,22,Miami Grand Prix,Nico Hulkenberg,27,Haas F1 Team,14.0,,DNF,,False,,,30,,fastf1
+2024,22,Miami Grand Prix,Yuki Tsunoda,22,RB,21.0,15.0,Finished,0.0,False,,,56,1:30:42.657,fastf1
+2024,22,Miami Grand Prix,"Lawson, Liam",30,RB,13.0,3.0,Finished,15.0,False,,,56,1:32:00.959,fastf1
+2024,22,Miami Grand Prix,Alexander Albon,23,Williams,19.0,9.0,Finished,2.0,False,,,56,1:25:02.818,fastf1
+2024,22,Miami Grand Prix,Franco Colapinto,43,Williams,6.0,13.0,Finished,0.0,True,99.052,313.1,56,1:34:33.674,fastf1
+2024,22,Miami Grand Prix,Oliver Bearman,87,Haas F1 Team,12.0,10.0,Finished,1.0,False,,,56,1:31:00.579,fastf1
+2024,23,Las Vegas Grand Prix,Max Verstappen,1,Red Bull Racing,20.0,12.0,Finished,0.0,False,,,49,1:33:21.149,fastf1
+2024,23,Las Vegas Grand Prix,Sergio Perez,11,Red Bull Racing,14.0,10.0,Finished,1.0,False,,,49,1:25:09.108,fastf1
+2024,23,Las Vegas Grand Prix,Lewis Hamilton,44,Mercedes,6.0,11.0,Finished,0.0,False,,,49,1:33:55.412,fastf1
+2024,23,Las Vegas Grand Prix,George Russell,63,Mercedes,18.0,4.0,Finished,12.0,False,,,49,1:32:18.348,fastf1
+2024,23,Las Vegas Grand Prix,Charles Leclerc,16,Ferrari,3.0,3.0,Finished,15.0,False,,,49,1:32:04.757,fastf1
+2024,23,Las Vegas Grand Prix,Carlos Sainz,55,Ferrari,8.0,20.0,Finished,0.0,False,,,49,1:28:39.711,fastf1
+2024,23,Las Vegas Grand Prix,Lando Norris,4,McLaren,10.0,7.0,Finished,6.0,False,,,49,1:30:33.071,fastf1
+2024,23,Las Vegas Grand Prix,Oscar Piastri,81,McLaren,21.0,2.0,Finished,18.0,False,,,49,1:27:08.949,fastf1
+2024,23,Las Vegas Grand Prix,Fernando Alonso,14,Aston Martin,5.0,9.0,Finished,2.0,False,,,49,1:30:26.991,fastf1
+2024,23,Las Vegas Grand Prix,Lance Stroll,18,Aston Martin,17.0,8.0,Finished,4.0,True,80.32,327.3,49,1:31:50.369,fastf1
+2024,23,Las Vegas Grand Prix,Esteban Ocon,31,Alpine,11.0,5.0,Finished,10.0,False,,,49,1:27:47.692,fastf1
+2024,23,Las Vegas Grand Prix,Pierre Gasly,10,Alpine,12.0,13.0,Finished,0.0,True,90.902,333.3,49,1:27:35.395,fastf1
+2024,23,Las Vegas Grand Prix,Valtteri Bottas,77,Kick Sauber,4.0,16.0,Finished,0.0,False,,,49,1:32:53.317,fastf1
+2024,23,Las Vegas Grand Prix,Zhou Guanyu,24,Kick Sauber,7.0,18.0,Finished,0.0,False,,,49,1:33:21.481,fastf1
+2024,23,Las Vegas Grand Prix,Kevin Magnussen,20,Haas F1 Team,2.0,21.0,Finished,0.0,False,,,49,1:34:48.232,fastf1
+2024,23,Las Vegas Grand Prix,Nico Hulkenberg,27,Haas F1 Team,9.0,15.0,Finished,0.0,False,,,49,1:26:14.406,fastf1
+2024,23,Las Vegas Grand Prix,Yuki Tsunoda,22,RB,16.0,17.0,Finished,0.0,True,91.177,322.5,49,1:33:33.592,fastf1
+2024,23,Las Vegas Grand Prix,Liam Lawson,30,RB,13.0,19.0,Finished,0.0,True,84.723,309.9,49,1:31:06.808,fastf1
+2024,23,Las Vegas Grand Prix,Alexander Albon,23,Williams,15.0,1.0,Finished,25.0,False,,,49,1:30:55.618,fastf1
+2024,23,Las Vegas Grand Prix,Franco Colapinto,43,Williams,19.0,6.0,Finished,8.0,False,,,49,1:32:16.290,fastf1
+2024,23,Las Vegas Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,14.0,Finished,0.0,False,,,49,1:27:11.902,fastf1
+2024,24,Italy Grand Prix,Max Verstappen,1,Red Bull Racing,4.0,,Engine,,False,,,20,,fastf1
+2024,24,Italy Grand Prix,Sergio Perez,11,Red Bull Racing,15.0,14.0,Finished,0.0,False,,,62,1:25:02.815,fastf1
+2024,24,Italy Grand Prix,Lewis Hamilton,44,Mercedes,1.0,17.0,Finished,0.0,False,,,62,1:30:40.345,fastf1
+2024,24,Italy Grand Prix,"Russell, George",63,Mercedes,12.0,6.0,Finished,8.0,False,,,62,1:27:23.473,fastf1
+2024,24,Italy Grand Prix,Charles Leclerc,16,Ferrari,18.0,16.0,Finished,0.0,False,,,62,1:33:42.753,fastf1
+2024,24,Italy Grand Prix,Carlos Sainz,55,Ferrari,2.0,13.0,Finished,0.0,False,,,62,1:30:44.278,fastf1
+2024,24,Italy Grand Prix,Lando Norris,4,McLaren,5.0,15.0,Finished,0.0,True,99.721,310.4,62,1:26:29.632,fastf1
+2024,24,Italy Grand Prix,Oscar Piastri,81,McLaren,20.0,7.0,Finished,6.0,False,,,62,1:25:03.380,fastf1
+2024,24,Italy Grand Prix,Fernando Alonso,14,Aston Martin,9.0,9.0,Finished,2.0,False,,,62,1:30:57.796,fastf1
+2024,24,Italy Grand Prix,Lance Stroll,18,Aston Martin,19.0,12.0,Finished,0.0,False,,,62,1:33:04.550,fastf1
+2024,24,Italy Grand Prix,Esteban Ocon,31,Alpine,17.0,11.0,Finished,0.0,False,,,62,1:26:27.939,fastf1
+2024,24,Italy Grand Prix,Pierre Gasly,10,Alpine,14.0,10.0,Finished,1.0,False,,,62,1:27:34.731,fastf1
+2024,24,Italy Grand Prix,Valtteri Bottas,77,Kick Sauber,6.0,3.0,Finished,15.0,False,,,62,1:31:35.274,fastf1
+2024,24,Italy Grand Prix,Zhou Guanyu,24,Kick Sauber,,4.0,Finished,12.0,False,,,62,1:33:36.594,fastf1
+2024,24,Italy Grand Prix,Kevin Magnussen,20,Haas F1 Team,8.0,,Mechanical,,False,,,41,,fastf1
+2024,24,Italy Grand Prix,Nico Hulkenberg,27,Haas F1 Team,11.0,,Mechanical,,False,,,43,,fastf1
+2024,24,Italy Grand Prix,Yuki Tsunoda,22,RB,10.0,1.0,Finished,25.0,False,,,62,1:31:26.821,fastf1
+2024,24,Italy Grand Prix,Liam Lawson,30,RB,13.0,,DNF,,False,,,45,,fastf1
+2024,24,Italy Grand Prix,Alexander Albon,23,Williams,3.0,2.0,Finished,18.0,False,,,62,1:33:16.441,fastf1
+2024,24,Italy Grand Prix,Franco Colapinto,43,Williams,21.0,8.0,Finished,4.0,False,,,62,1:34:49.877,fastf1
+2024,24,Italy Grand Prix,Oliver Bearman,87,Haas F1 Team,16.0,5.0,Finished,10.0,False,,,62,1:26:24.242,fastf1
+2025,1,Bahrain Grand Prix,Max Verstappen,1,Red Bull Racing,7.0,8.0,Finished,4.0,False,,,56,1:33:00.662,fastf1
+2025,1,Bahrain Grand Prix,Liam Lawson,30,Red Bull Racing,17.0,19.0,Finished,0.0,False,,,56,1:26:00.678,fastf1
+2025,1,Bahrain Grand Prix,George Russell,63,Mercedes,19.0,6.0,Finished,8.0,False,,,56,1:32:22.385,fastf1
+2025,1,Bahrain Grand Prix,Andrea Kimi Antonelli,12,Mercedes,16.0,14.0,Finished,0.0,False,,,56,1:28:55.287,fastf1
+2025,1,Bahrain Grand Prix,Charles Leclerc,16,Ferrari,2.0,13.0,Finished,0.0,True,90.536,333.7,56,1:28:22.911,fastf1
+2025,1,Bahrain Grand Prix,Lewis Hamilton,44,Ferrari,15.0,11.0,Finished,0.0,False,,,56,1:33:53.365,fastf1
+2025,1,Bahrain Grand Prix,Lando Norris,4,McLaren,6.0,7.0,Finished,6.0,False,,,56,1:33:03.047,fastf1
+2025,1,Bahrain Grand Prix,"Piastri, Oscar",81,McLaren,12.0,17.0,Finished,0.0,False,,,56,1:29:18.933,fastf1
+2025,1,Bahrain Grand Prix,Fernando Alonso,14,Aston Martin,8.0,10.0,Finished,1.0,False,,,56,1:33:24.143,fastf1
+2025,1,Bahrain Grand Prix,Lance Stroll,18,Aston Martin,5.0,1.0,Finished,25.0,False,,,56,1:32:04.381,fastf1
+2025,1,Bahrain Grand Prix,"Ocon, Esteban",31,Alpine,3.0,18.0,Finished,0.0,False,,,56,1:34:50.220,fastf1
+2025,1,Bahrain Grand Prix,Jack Doohan,7,Alpine,20.0,2.0,Finished,18.0,False,,,56,1:33:12.104,fastf1
+2025,1,Bahrain Grand Prix,Gabriel Bortoleto,5,Kick Sauber,13.0,5.0,Finished,10.0,False,,,56,1:25:03.742,fastf1
+2025,1,Bahrain Grand Prix,"Hulkenberg, Nico",27,Kick Sauber,1.0,16.0,Finished,0.0,False,,,56,1:27:03.725,fastf1
+2025,1,Bahrain Grand Prix,Kevin Magnussen,20,Haas F1 Team,9.0,9.0,Finished,2.0,False,,,56,1:28:49.233,fastf1
+2025,1,Bahrain Grand Prix,Oliver Bearman,87,Haas F1 Team,11.0,20.0,Finished,0.0,False,,,56,1:30:03.379,fastf1
+2025,1,Bahrain Grand Prix,Isack Hadjar,6,Racing Bulls,4.0,12.0,Finished,0.0,False,,,56,1:29:19.476,fastf1
+2025,1,Bahrain Grand Prix,Yuki Tsunoda,22,Racing Bulls,10.0,4.0,Finished,12.0,False,,,56,1:31:09.216,fastf1
+2025,1,Bahrain Grand Prix,Alexander Albon,23,Williams,18.0,15.0,Finished,0.0,False,,,56,1:32:17.935,fastf1
+2025,1,Bahrain Grand Prix,Franco Colapinto,43,Williams,14.0,3.0,Finished,15.0,False,,,56,1:31:28.338,fastf1
+2025,2,Qatar Grand Prix,Max Verstappen,1,Red Bull Racing,17.0,4.0,Finished,12.0,False,,,56,1:33:57.224,fastf1
+2025,2,Qatar Grand Prix,Liam Lawson,30,Red Bull Racing,14.0,2.0,Finished,18.0,False,,,56,1:25:24.939,fastf1
+2025,2,Qatar Grand Prix,George Russell,63,Mercedes,,3.0,Finished,15.0,False,,,56,1:30:03.489,fastf1
+2025,2,Qatar Grand Prix,Andrea Kimi Antonelli,12,Mercedes,11.0,10.0,Finished,1.0,False,,,56,1:27:10.970,fastf1
+2025,2,Qatar Grand Prix,Charles Leclerc,16,Ferrari,5.0,,Retired,,False,,,19,,fastf1
+2025,2,Qatar Grand Prix,Lewis Hamilton,44,Ferrari,10.0,13.0,Finished,0.0,False,,,56,1:33:16.169,fastf1
+2025,2,Qatar Grand Prix,Lando Norris,4,McLaren,20.0,5.0,Finished,10.0,False,,,56,1:32:24.190,fastf1
+2025,2,Qatar Grand Prix,Oscar Piastri,81,McLaren,12.0,8.0,Finished,4.0,False,,,56,1:29:01.017,fastf1
+2025,2,Qatar Grand Prix,Fernando Alonso,14,Aston Martin,9.0,1.0,Finished,25.0,False,,,56,1:25:37.675,fastf1
+2025,2,Qatar Grand Prix,Lance Stroll,18,Aston Martin,16.0,14.0,Finished,0.0,False,,,56,1:26:31.874,fastf1
+2025,2,Qatar Grand Prix,Esteban Ocon,31,Alpine,13.0,6.0,Finished,8.0,False,,,56,1:33:22.918,fastf1
+2025,2,Qatar Grand Prix,Jack Doohan,7,Alpine,4.0,12.0,Finished,0.0,False,,,56,1:32:06.782,fastf1
+2025,2,Qatar Grand Prix,Gabriel Bortoleto,5,Kick Sauber,2.0,11.0,Finished,0.0,False,,,56,1:27:02.072,fastf1
+2025,2,Qatar Grand Prix,"Hulkenberg, Nico",27,Kick Sauber,15.0,15.0,Finished,0.0,False,,,56,1:33:56.031,fastf1
+2025,2,Qatar Grand Prix,Kevin Magnussen,20,Haas F1 Team,6.0,17.0,Finished,0.0,False,,,56,1:33:07.009,fastf1
+2025,2,Qatar Grand Prix,Oliver Bearman,87,Haas F1 Team,3.0,9.0,Finished,2.0,True,79.438,312.8,56,1:33:07.130,fastf1
+2025,2,Qatar Grand Prix,Isack Hadjar,6,Racing Bulls,1.0,,Gearbox,,False,,,38,,fastf1
+2025,2,Qatar Grand Prix,Yuki Tsunoda,22,Racing Bulls,8.0,16.0,Finished,0.0,False,,,56,1:30:19.232,fastf1
+2025,2,Qatar Grand Prix,Alexander Albon,23,Williams,18.0,,DNF,,False,,,42,,fastf1
+2025,2,Qatar Grand Prix,Franco Colapinto,43,Williams,7.0,7.0,Finished,6.0,False,,,56,1:25:17.471,fastf1
+2025,3,Miami Grand Prix,Max Verstappen,1,Red Bull Racing,9.0,10.0,Finished,1.0,False,,,56,1:34:22.333,fastf1
+2025,3,Miami Grand Prix,Liam Lawson,30,Red Bull Racing,16.0,8.0,Finished,4.0,False,,,56,1:34:47.509,fastf1
+2025,3,Miami Grand Prix,George Russell,63,Mercedes,4.0,13.0,Finished,0.0,False,,,56,1:33:24.258,fastf1
+2025,3,Miami Grand Prix,Andrea Kimi Antonelli,12,Mercedes,11.0,18.0,Finished,0.0,False,,,56,1:29:00.783,fastf1
+2025,3,Miami Grand Prix,Charles Leclerc,16,Ferrari,10.0,1.0,Finished,25.0,False,,,56,1:26:50.573,fastf1
+2025,3,Miami Grand Prix,Lewis Hamilton,44,Ferrari,14.0,14.0,Finished,0.0,False,,,56,1:26:15.640,fastf1
+2025,3,Miami Grand Prix,Lando Norris,4,McLaren,19.0,15.0,Finished,0.0,False,,,56,1:28:46.695,fastf1
+2025,3,Miami Grand Prix,Oscar Piastri,81,McLaren,18.0,9.0,Finished,2.0,False,,,56,1:30:18.673,fastf1
+2025,3,Miami Grand Prix,Fernando Alonso,14,Aston Martin,13.0,19.0,Finished,0.0,False,,,56,1:28:43.807,fastf1
+2025,3,Miami Grand Prix,Lance Stroll,18,Aston Martin,6.0,3.0,Finished,15.0,False,,,56,1:33:56.469,fastf1
+2025,3,Miami Grand Prix,Esteban Ocon,31,Alpine,1.0,17.0,Finished,0.0,False,,,56,1:25:58.790,fastf1
+2025,3,Miami Grand Prix,Jack Doohan,7,Alpine,7.0,16.0,Finished,0.0,False,,,56,1:32:15.176,fastf1
+2025,3,Miami Grand Prix,Gabriel Bortoleto,5,Kick Sauber,15.0,12.0,Finished,0.0,False,,,56,1:30:57.819,fastf1
+2025,3,Miami Grand Prix,Nico Hulkenberg,27,Kick Sauber,17.0,6.0,Finished,8.0,False,,,56,1:29:56.218,fastf1
+2025,3,Miami Grand Prix,Kevin Magnussen,20,Haas F1 Team,8.0,7.0,Finished,6.0,False,,,56,1:29:24.626,fastf1
+2025,3,Miami Grand Prix,Oliver Bearman,87,Haas F1 Team,2.0,2.0,Finished,18.0,False,,,56,1:26:33.828,fastf1
+2025,3,Miami Grand Prix,Isack Hadjar,6,Racing Bulls,20.0,4.0,Finished,12.0,True,95.402,324.9,56,1:26:07.704,fastf1
+2025,3,Miami Grand Prix,Yuki Tsunoda,22,Racing Bulls,5.0,11.0,Finished,0.0,False,,,56,1:26:44.387,fastf1
+2025,3,Miami Grand Prix,Alexander Albon,23,Williams,3.0,,DNF,,False,,,9,,fastf1
+2025,3,Miami Grand Prix,Franco Colapinto,43,Williams,12.0,5.0,Finished,10.0,False,,,56,1:28:48.763,fastf1
+2025,4,Belgium Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,1.0,Finished,25.0,False,,,44,1:33:06.540,fastf1
+2025,4,Belgium Grand Prix,Liam Lawson,30,Red Bull Racing,2.0,8.0,Finished,4.0,False,,,44,1:26:42.059,fastf1
+2025,4,Belgium Grand Prix,George Russell,63,Mercedes,18.0,6.0,Finished,8.0,False,,,44,1:29:05.860,fastf1
+2025,4,Belgium Grand Prix,Andrea Kimi Antonelli,12,Mercedes,14.0,2.0,Finished,18.0,False,,,44,1:29:43.276,fastf1
+2025,4,Belgium Grand Prix,Charles Leclerc,16,Ferrari,6.0,11.0,Finished,0.0,False,,,44,1:34:09.398,fastf1
+2025,4,Belgium Grand Prix,Lewis Hamilton,44,Ferrari,10.0,7.0,Finished,6.0,False,,,44,1:32:47.361,fastf1
+2025,4,Belgium Grand Prix,Lando Norris,4,McLaren,8.0,14.0,Finished,0.0,False,,,44,1:30:11.930,fastf1
+2025,4,Belgium Grand Prix,Oscar Piastri,81,McLaren,1.0,12.0,Finished,0.0,False,,,44,1:25:28.201,fastf1
+2025,4,Belgium Grand Prix,Fernando Alonso,14,Aston Martin,16.0,3.0,Finished,15.0,False,,,44,1:34:19.959,fastf1
+2025,4,Belgium Grand Prix,Lance Stroll,18,Aston Martin,4.0,15.0,Finished,0.0,False,,,44,1:33:39.794,fastf1
+2025,4,Belgium Grand Prix,Esteban Ocon,31,Alpine,3.0,17.0,Finished,0.0,False,,,44,1:28:53.718,fastf1
+2025,4,Belgium Grand Prix,Jack Doohan,7,Alpine,12.0,9.0,Finished,2.0,False,,,44,1:29:41.124,fastf1
+2025,4,Belgium Grand Prix,Gabriel Bortoleto,5,Kick Sauber,20.0,4.0,Finished,12.0,False,,,44,1:30:27.826,fastf1
+2025,4,Belgium Grand Prix,Nico Hulkenberg,27,Kick Sauber,,16.0,Finished,0.0,False,,,44,1:26:26.213,fastf1
+2025,4,Belgium Grand Prix,Kevin Magnussen,20,Haas F1 Team,7.0,,Retired,,False,,,12,,fastf1
+2025,4,Belgium Grand Prix,Oliver Bearman,87,Haas F1 Team,19.0,,Retired,,False,,,39,,fastf1
+2025,4,Belgium Grand Prix,Isack Hadjar,6,Racing Bulls,17.0,10.0,Finished,1.0,False,,,44,1:25:24.246,fastf1
+2025,4,Belgium Grand Prix,Yuki Tsunoda,22,Racing Bulls,15.0,13.0,Finished,0.0,False,,,44,1:31:59.017,fastf1
+2025,4,Belgium Grand Prix,Alexander Albon,23,Williams,9.0,,DNF,,False,,,20,,fastf1
+2025,4,Belgium Grand Prix,Franco Colapinto,43,Williams,5.0,5.0,Finished,10.0,False,,,44,1:26:36.639,fastf1
+2025,5,Azerbaijan Grand Prix,Max Verstappen,1,Red Bull Racing,6.0,6.0,Finished,8.0,False,,,50,1:29:33.093,fastf1
+2025,5,Azerbaijan Grand Prix,Liam Lawson,30,Red Bull Racing,7.0,11.0,Finished,0.0,False,,,50,1:30:07.376,fastf1
+2025,5,Azerbaijan Grand Prix,George Russell,63,Mercedes,2.0,18.0,Finished,0.0,False,,,50,1:33:29.262,fastf1
+2025,5,Azerbaijan Grand Prix,Andrea Kimi Antonelli,12,Mercedes,18.0,3.0,Finished,15.0,False,,,50,1:28:46.704,fastf1
+2025,5,Azerbaijan Grand Prix,Charles Leclerc,16,Ferrari,19.0,15.0,Finished,0.0,False,,,50,1:26:54.314,fastf1
+2025,5,Azerbaijan Grand Prix,Lewis Hamilton,44,Ferrari,1.0,5.0,Finished,10.0,False,,,50,1:31:41.597,fastf1
+2025,5,Azerbaijan Grand Prix,Lando Norris,4,McLaren,12.0,1.0,Finished,25.0,False,,,50,1:27:25.774,fastf1
+2025,5,Azerbaijan Grand Prix,Oscar Piastri,81,McLaren,13.0,8.0,Finished,4.0,False,,,50,1:30:25.262,fastf1
+2025,5,Azerbaijan Grand Prix,Fernando Alonso,14,Aston Martin,9.0,4.0,Finished,12.0,False,,,50,1:32:56.576,fastf1
+2025,5,Azerbaijan Grand Prix,Lance Stroll,18,Aston Martin,3.0,10.0,Finished,1.0,False,,,50,1:25:15.800,fastf1
+2025,5,Azerbaijan Grand Prix,Esteban Ocon,31,Alpine,17.0,12.0,Finished,0.0,False,,,50,1:34:19.896,fastf1
+2025,5,Azerbaijan Grand Prix,"Doohan, Jack",7,Alpine,5.0,2.0,Finished,18.0,False,,,50,1:34:35.840,fastf1
+2025,5,Azerbaijan Grand Prix,Gabriel Bortoleto,5,Kick Sauber,11.0,17.0,Finished,0.0,False,,,50,1:30:13.776,fastf1
+2025,5,Azerbaijan Grand Prix,Nico Hulkenberg,27,Kick Sauber,10.0,19.0,Finished,0.0,False,,,50,1:26:08.952,fastf1
+2025,5,Azerbaijan Grand Prix,Kevin Magnussen,20,Haas F1 Team,20.0,14.0,Finished,0.0,False,,,50,1:26:02.880,fastf1
+2025,5,Azerbaijan Grand Prix,Oliver Bearman,87,Haas F1 Team,14.0,16.0,Finished,0.0,True,96.587,318.5,50,1:27:19.387,fastf1
+2025,5,Azerbaijan Grand Prix,Isack Hadjar,6,Racing Bulls,4.0,9.0,Finished,2.0,False,,,50,1:29:17.787,fastf1
+2025,5,Azerbaijan Grand Prix,Yuki Tsunoda,22,Racing Bulls,15.0,7.0,Finished,6.0,False,,,50,1:29:03.403,fastf1
+2025,5,Azerbaijan Grand Prix,Alexander Albon,23,Williams,16.0,,Mechanical,,False,,,40,,fastf1
+2025,5,Azerbaijan Grand Prix,Franco Colapinto,43,Williams,,13.0,Finished,0.0,False,,,50,1:29:47.821,fastf1
+2025,6,Singapore Grand Prix,"Verstappen, Max",1,Red Bull Racing,9.0,8.0,Finished,4.0,False,,,61,1:25:12.601,fastf1
+2025,6,Singapore Grand Prix,Liam Lawson,30,Red Bull Racing,14.0,4.0,Finished,12.0,False,,,61,1:25:42.361,fastf1
+2025,6,Singapore Grand Prix,George Russell,63,Mercedes,8.0,15.0,Finished,0.0,False,,,61,1:26:56.379,fastf1
+2025,6,Singapore Grand Prix,Andrea Kimi Antonelli,12,Mercedes,18.0,14.0,Finished,0.0,False,,,61,1:31:15.287,fastf1
+2025,6,Singapore Grand Prix,Charles Leclerc,16,Ferrari,6.0,11.0,Finished,0.0,False,,,61,1:32:45.429,fastf1
+2025,6,Singapore Grand Prix,Lewis Hamilton,44,Ferrari,1.0,5.0,Finished,10.0,False,,,61,1:31:41.435,fastf1
+2025,6,Singapore Grand Prix,Lando Norris,4,McLaren,2.0,13.0,Finished,0.0,False,,,61,1:34:48.708,fastf1
+2025,6,Singapore Grand Prix,Oscar Piastri,81,McLaren,,18.0,Finished,0.0,False,,,61,1:32:04.196,fastf1
+2025,6,Singapore Grand Prix,Fernando Alonso,14,Aston Martin,20.0,17.0,Finished,0.0,False,,,61,1:26:18.879,fastf1
+2025,6,Singapore Grand Prix,Lance Stroll,18,Aston Martin,,12.0,Finished,0.0,False,,,61,1:34:40.700,fastf1
+2025,6,Singapore Grand Prix,Esteban Ocon,31,Alpine,,1.0,Finished,25.0,False,,,61,1:33:12.288,fastf1
+2025,6,Singapore Grand Prix,Jack Doohan,7,Alpine,7.0,3.0,Finished,15.0,False,,,61,1:31:54.222,fastf1
+2025,6,Singapore Grand Prix,Gabriel Bortoleto,5,Kick Sauber,4.0,7.0,Finished,6.0,False,,,61,1:31:37.681,fastf1
+2025,6,Singapore Grand Prix,Nico Hulkenberg,27,Kick Sauber,3.0,2.0,Finished,18.0,False,,,61,1:31:21.263,fastf1
+2025,6,Singapore Grand Prix,Kevin Magnussen,20,Haas F1 Team,12.0,6.0,Finished,8.0,False,,,61,1:28:53.982,fastf1
+2025,6,Singapore Grand Prix,Oliver Bearman,87,Haas F1 Team,17.0,10.0,Finished,1.0,False,,,61,1:26:55.696,fastf1
+2025,6,Singapore Grand Prix,Isack Hadjar,6,Racing Bulls,10.0,,Collision,,False,,,19,,fastf1
+2025,6,Singapore Grand Prix,Yuki Tsunoda,22,Racing Bulls,19.0,19.0,Finished,0.0,False,,,61,1:34:38.262,fastf1
+2025,6,Singapore Grand Prix,Alexander Albon,23,Williams,15.0,9.0,Finished,2.0,False,,,61,1:28:43.252,fastf1
+2025,6,Singapore Grand Prix,"Colapinto, Franco",43,Williams,16.0,16.0,Finished,0.0,False,,,61,1:30:56.708,fastf1
+2025,7,Mexico Grand Prix,"Verstappen, Max",1,Red Bull Racing,20.0,16.0,Finished,0.0,False,,,70,1:28:18.262,fastf1
+2025,7,Mexico Grand Prix,Liam Lawson,30,Red Bull Racing,7.0,,Retired,,True,88.966,310.1,40,,fastf1
+2025,7,Mexico Grand Prix,George Russell,63,Mercedes,18.0,14.0,Finished,0.0,False,,,70,1:30:52.652,fastf1
+2025,7,Mexico Grand Prix,Andrea Kimi Antonelli,12,Mercedes,17.0,,DNF,,False,,,46,,fastf1
+2025,7,Mexico Grand Prix,Charles Leclerc,16,Ferrari,14.0,5.0,Finished,10.0,False,,,70,1:28:32.868,fastf1
+2025,7,Mexico Grand Prix,"Hamilton, Lewis",44,Ferrari,3.0,8.0,Finished,4.0,False,,,70,1:30:42.183,fastf1
+2025,7,Mexico Grand Prix,"Norris, Lando",4,McLaren,16.0,17.0,Finished,0.0,False,,,70,1:34:44.620,fastf1
+2025,7,Mexico Grand Prix,Oscar Piastri,81,McLaren,1.0,12.0,Finished,0.0,False,,,70,1:29:49.430,fastf1
+2025,7,Mexico Grand Prix,Fernando Alonso,14,Aston Martin,8.0,3.0,Finished,15.0,False,,,70,1:33:02.853,fastf1
+2025,7,Mexico Grand Prix,Lance Stroll,18,Aston Martin,6.0,4.0,Finished,12.0,False,,,70,1:32:14.509,fastf1
+2025,7,Mexico Grand Prix,Esteban Ocon,31,Alpine,13.0,11.0,Finished,0.0,False,,,70,1:26:44.479,fastf1
+2025,7,Mexico Grand Prix,Jack Doohan,7,Alpine,10.0,7.0,Finished,6.0,False,,,70,1:33:10.615,fastf1
+2025,7,Mexico Grand Prix,Gabriel Bortoleto,5,Kick Sauber,,10.0,Finished,1.0,False,,,70,1:26:56.630,fastf1
+2025,7,Mexico Grand Prix,Nico Hulkenberg,27,Kick Sauber,2.0,1.0,Finished,25.0,False,,,70,1:29:50.459,fastf1
+2025,7,Mexico Grand Prix,Kevin Magnussen,20,Haas F1 Team,5.0,9.0,Finished,2.0,False,,,70,1:32:43.420,fastf1
+2025,7,Mexico Grand Prix,"Bearman, Oliver",87,Haas F1 Team,9.0,,Mechanical,,False,,,56,,fastf1
+2025,7,Mexico Grand Prix,Isack Hadjar,6,Racing Bulls,19.0,6.0,Finished,8.0,False,,,70,1:30:16.554,fastf1
+2025,7,Mexico Grand Prix,Yuki Tsunoda,22,Racing Bulls,4.0,15.0,Finished,0.0,False,,,70,1:25:58.466,fastf1
+2025,7,Mexico Grand Prix,Alexander Albon,23,Williams,11.0,13.0,Finished,0.0,False,,,70,1:33:56.793,fastf1
+2025,7,Mexico Grand Prix,Franco Colapinto,43,Williams,15.0,2.0,Finished,18.0,False,,,70,1:29:28.287,fastf1
+2025,8,Brazil Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,18.0,Finished,0.0,False,,,70,1:27:28.255,fastf1
+2025,8,Brazil Grand Prix,Liam Lawson,30,Red Bull Racing,10.0,3.0,Finished,15.0,False,,,70,1:25:43.641,fastf1
+2025,8,Brazil Grand Prix,George Russell,63,Mercedes,18.0,20.0,Finished,0.0,False,,,70,1:31:41.477,fastf1
+2025,8,Brazil Grand Prix,Andrea Kimi Antonelli,12,Mercedes,8.0,4.0,Finished,12.0,False,,,70,1:32:51.757,fastf1
+2025,8,Brazil Grand Prix,Charles Leclerc,16,Ferrari,3.0,11.0,Finished,0.0,False,,,70,1:29:02.823,fastf1
+2025,8,Brazil Grand Prix,Lewis Hamilton,44,Ferrari,,1.0,Finished,25.0,False,,,70,1:32:14.330,fastf1
+2025,8,Brazil Grand Prix,Lando Norris,4,McLaren,6.0,10.0,Finished,1.0,False,,,70,1:30:49.160,fastf1
+2025,8,Brazil Grand Prix,Oscar Piastri,81,McLaren,11.0,17.0,Finished,0.0,False,,,70,1:27:27.655,fastf1
+2025,8,Brazil Grand Prix,Fernando Alonso,14,Aston Martin,4.0,6.0,Finished,8.0,False,,,70,1:30:54.107,fastf1
+2025,8,Brazil Grand Prix,Lance Stroll,18,Aston Martin,19.0,2.0,Finished,18.0,False,,,70,1:25:05.578,fastf1
+2025,8,Brazil Grand Prix,Esteban Ocon,31,Alpine,12.0,8.0,Finished,4.0,False,,,70,1:30:04.365,fastf1
+2025,8,Brazil Grand Prix,Jack Doohan,7,Alpine,16.0,13.0,Finished,0.0,False,,,70,1:30:33.890,fastf1
+2025,8,Brazil Grand Prix,Gabriel Bortoleto,5,Kick Sauber,5.0,16.0,Finished,0.0,False,,,70,1:29:54.084,fastf1
+2025,8,Brazil Grand Prix,Nico Hulkenberg,27,Kick Sauber,9.0,5.0,Finished,10.0,False,,,70,1:33:02.196,fastf1
+2025,8,Brazil Grand Prix,Kevin Magnussen,20,Haas F1 Team,20.0,14.0,Finished,0.0,False,,,70,1:26:53.779,fastf1
+2025,8,Brazil Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,19.0,Finished,0.0,False,,,70,1:28:01.259,fastf1
+2025,8,Brazil Grand Prix,Isack Hadjar,6,Racing Bulls,17.0,12.0,Finished,0.0,False,,,70,1:25:06.090,fastf1
+2025,8,Brazil Grand Prix,Yuki Tsunoda,22,Racing Bulls,7.0,9.0,Finished,2.0,False,,,70,1:34:12.593,fastf1
+2025,8,Brazil Grand Prix,Alexander Albon,23,Williams,14.0,15.0,Finished,0.0,False,,,70,1:29:58.659,fastf1
+2025,8,Brazil Grand Prix,Franco Colapinto,43,Williams,2.0,7.0,Finished,6.0,True,86.474,330.5,70,1:33:26.643,fastf1
+2025,9,China Grand Prix,Max Verstappen,1,Red Bull Racing,10.0,8.0,Finished,4.0,False,,,55,1:31:09.555,fastf1
+2025,9,China Grand Prix,"Lawson, Liam",30,Red Bull Racing,9.0,19.0,Finished,0.0,False,,,55,1:29:29.685,fastf1
+2025,9,China Grand Prix,George Russell,63,Mercedes,2.0,13.0,Finished,0.0,False,,,55,1:25:15.469,fastf1
+2025,9,China Grand Prix,Andrea Kimi Antonelli,12,Mercedes,4.0,6.0,Finished,8.0,False,,,55,1:32:42.159,fastf1
+2025,9,China Grand Prix,"Leclerc, Charles",16,Ferrari,8.0,10.0,Finished,1.0,False,,,55,1:27:21.288,fastf1
+2025,9,China Grand Prix,Lewis Hamilton,44,Ferrari,5.0,17.0,Finished,0.0,False,,,55,1:33:30.872,fastf1
+2025,9,China Grand Prix,Lando Norris,4,McLaren,14.0,5.0,Finished,10.0,False,,,55,1:33:49.471,fastf1
+2025,9,China Grand Prix,Oscar Piastri,81,McLaren,6.0,1.0,Finished,25.0,False,,,55,1:34:51.476,fastf1
+2025,9,China Grand Prix,Fernando Alonso,14,Aston Martin,1.0,9.0,Finished,2.0,False,,,55,1:29:58.269,fastf1
+2025,9,China Grand Prix,Lance Stroll,18,Aston Martin,11.0,,Retired,,False,,,47,,fastf1
+2025,9,China Grand Prix,Esteban Ocon,31,Alpine,7.0,14.0,Finished,0.0,False,,,55,1:33:12.487,fastf1
+2025,9,China Grand Prix,Jack Doohan,7,Alpine,17.0,12.0,Finished,0.0,False,,,55,1:30:18.873,fastf1
+2025,9,China Grand Prix,Gabriel Bortoleto,5,Kick Sauber,15.0,7.0,Finished,6.0,False,,,55,1:29:03.650,fastf1
+2025,9,China Grand Prix,Nico Hulkenberg,27,Kick Sauber,3.0,3.0,Finished,15.0,False,,,55,1:32:10.746,fastf1
+2025,9,China Grand Prix,Kevin Magnussen,20,Haas F1 Team,18.0,16.0,Finished,0.0,False,,,55,1:29:48.932,fastf1
+2025,9,China Grand Prix,Oliver Bearman,87,Haas F1 Team,19.0,18.0,Finished,0.0,False,,,55,1:25:20.387,fastf1
+2025,9,China Grand Prix,Isack Hadjar,6,Racing Bulls,20.0,4.0,Finished,12.0,False,,,55,1:33:33.244,fastf1
+2025,9,China Grand Prix,Yuki Tsunoda,22,Racing Bulls,13.0,11.0,Finished,0.0,False,,,55,1:34:13.395,fastf1
+2025,9,China Grand Prix,Alexander Albon,23,Williams,16.0,15.0,Finished,0.0,False,,,55,1:33:53.823,fastf1
+2025,9,China Grand Prix,"Colapinto, Franco",43,Williams,12.0,2.0,Finished,18.0,False,,,55,1:29:18.670,fastf1
+2025,10,Italy Grand Prix,Max Verstappen,1,Red Bull Racing,9.0,12.0,Finished,0.0,False,,,52,1:26:35.038,fastf1
+2025,10,Italy Grand Prix,Liam Lawson,30,Red Bull Racing,4.0,19.0,Finished,0.0,False,,,52,1:25:05.471,fastf1
+2025,10,Italy Grand Prix,George Russell,63,Mercedes,3.0,18.0,Finished,0.0,False,,,52,1:31:46.983,fastf1
+2025,10,Italy Grand Prix,"Antonelli, Andrea Kimi",12,Mercedes,7.0,5.0,Finished,10.0,False,,,52,1:33:26.273,fastf1
+2025,10,Italy Grand Prix,Charles Leclerc,16,Ferrari,17.0,9.0,Finished,2.0,False,,,52,1:34:08.144,fastf1
+2025,10,Italy Grand Prix,Lewis Hamilton,44,Ferrari,14.0,2.0,Finished,18.0,False,,,52,1:26:58.842,fastf1
+2025,10,Italy Grand Prix,Lando Norris,4,McLaren,6.0,16.0,Finished,0.0,False,,,52,1:32:24.767,fastf1
+2025,10,Italy Grand Prix,Oscar Piastri,81,McLaren,5.0,6.0,Finished,8.0,False,,,52,1:33:22.381,fastf1
+2025,10,Italy Grand Prix,Fernando Alonso,14,Aston Martin,18.0,,DNF,,False,,,8,,fastf1
+2025,10,Italy Grand Prix,"Stroll, Lance",18,Aston Martin,19.0,3.0,Finished,15.0,False,,,52,1:33:24.258,fastf1
+2025,10,Italy Grand Prix,Esteban Ocon,31,Alpine,2.0,15.0,Finished,0.0,False,,,52,1:30:06.615,fastf1
+2025,10,Italy Grand Prix,Jack Doohan,7,Alpine,12.0,10.0,Finished,1.0,False,,,52,1:29:05.500,fastf1
+2025,10,Italy Grand Prix,Gabriel Bortoleto,5,Kick Sauber,8.0,13.0,Finished,0.0,False,,,52,1:26:17.393,fastf1
+2025,10,Italy Grand Prix,Nico Hulkenberg,27,Kick Sauber,13.0,4.0,Finished,12.0,False,,,52,1:27:23.288,fastf1
+2025,10,Italy Grand Prix,Kevin Magnussen,20,Haas F1 Team,15.0,11.0,Finished,0.0,False,,,52,1:32:48.138,fastf1
+2025,10,Italy Grand Prix,Oliver Bearman,87,Haas F1 Team,16.0,7.0,Finished,6.0,False,,,52,1:27:41.723,fastf1
+2025,10,Italy Grand Prix,Isack Hadjar,6,Racing Bulls,1.0,14.0,Finished,0.0,False,,,52,1:29:00.972,fastf1
+2025,10,Italy Grand Prix,Yuki Tsunoda,22,Racing Bulls,10.0,17.0,Finished,0.0,False,,,52,1:31:16.246,fastf1
+2025,10,Italy Grand Prix,Alexander Albon,23,Williams,11.0,1.0,Finished,25.0,False,,,52,1:28:28.581,fastf1
+2025,10,Italy Grand Prix,Franco Colapinto,43,Williams,20.0,8.0,Finished,4.0,False,,,52,1:28:27.623,fastf1
+2025,11,Italy Grand Prix,Max Verstappen,1,Red Bull Racing,,7.0,Finished,6.0,False,,,62,1:26:24.579,fastf1
+2025,11,Italy Grand Prix,Liam Lawson,30,Red Bull Racing,3.0,16.0,Finished,0.0,False,,,62,1:31:48.199,fastf1
+2025,11,Italy Grand Prix,"Russell, George",63,Mercedes,8.0,17.0,Finished,0.0,False,,,62,1:33:04.346,fastf1
+2025,11,Italy Grand Prix,Andrea Kimi Antonelli,12,Mercedes,12.0,10.0,Finished,1.0,False,,,62,1:28:01.140,fastf1
+2025,11,Italy Grand Prix,Charles Leclerc,16,Ferrari,10.0,8.0,Finished,4.0,False,,,62,1:31:45.915,fastf1
+2025,11,Italy Grand Prix,Lewis Hamilton,44,Ferrari,2.0,20.0,Finished,0.0,False,,,62,1:31:09.986,fastf1
+2025,11,Italy Grand Prix,Lando Norris,4,McLaren,1.0,2.0,Finished,18.0,False,,,62,1:34:16.049,fastf1
+2025,11,Italy Grand Prix,Oscar Piastri,81,McLaren,19.0,6.0,Finished,8.0,False,,,62,1:27:47.874,fastf1
+2025,11,Italy Grand Prix,Fernando Alonso,14,Aston Martin,14.0,15.0,Finished,0.0,False,,,62,1:29:46.246,fastf1
+2025,11,Italy Grand Prix,Lance Stroll,18,Aston Martin,4.0,1.0,Finished,25.0,False,,,62,1:27:01.006,fastf1
+2025,11,Italy Grand Prix,Esteban Ocon,31,Alpine,15.0,13.0,Finished,0.0,False,,,62,1:32:47.037,fastf1
+2025,11,Italy Grand Prix,Jack Doohan,7,Alpine,9.0,9.0,Finished,2.0,False,,,62,1:32:42.798,fastf1
+2025,11,Italy Grand Prix,Gabriel Bortoleto,5,Kick Sauber,7.0,5.0,Finished,10.0,False,,,62,1:27:27.856,fastf1
+2025,11,Italy Grand Prix,Nico Hulkenberg,27,Kick Sauber,20.0,14.0,Finished,0.0,False,,,62,1:26:32.403,fastf1
+2025,11,Italy Grand Prix,Kevin Magnussen,20,Haas F1 Team,18.0,11.0,Finished,0.0,False,,,62,1:32:41.206,fastf1
+2025,11,Italy Grand Prix,Oliver Bearman,87,Haas F1 Team,17.0,18.0,Finished,0.0,False,,,62,1:27:20.287,fastf1
+2025,11,Italy Grand Prix,Isack Hadjar,6,Racing Bulls,6.0,3.0,Finished,15.0,True,83.489,323.1,62,1:30:39.967,fastf1
+2025,11,Italy Grand Prix,Yuki Tsunoda,22,Racing Bulls,11.0,19.0,Finished,0.0,False,,,62,1:27:19.705,fastf1
+2025,11,Italy Grand Prix,Alexander Albon,23,Williams,16.0,4.0,Finished,12.0,False,,,62,1:33:54.564,fastf1
+2025,11,Italy Grand Prix,Franco Colapinto,43,Williams,5.0,12.0,Finished,0.0,False,,,62,1:31:45.746,fastf1
+2025,12,Canada Grand Prix,Max Verstappen,1,Red Bull Racing,17.0,16.0,Finished,0.0,False,,,69,1:26:49.500,fastf1
+2025,12,Canada Grand Prix,Liam Lawson,30,Red Bull Racing,7.0,15.0,Finished,0.0,False,,,69,1:25:02.124,fastf1
+2025,12,Canada Grand Prix,George Russell,63,Mercedes,6.0,7.0,Finished,6.0,False,,,69,1:28:49.149,fastf1
+2025,12,Canada Grand Prix,Andrea Kimi Antonelli,12,Mercedes,10.0,1.0,Finished,25.0,False,,,69,1:29:08.766,fastf1
+2025,12,Canada Grand Prix,Charles Leclerc,16,Ferrari,18.0,2.0,Finished,18.0,False,,,69,1:34:59.457,fastf1
+2025,12,Canada Grand Prix,Lewis Hamilton,44,Ferrari,1.0,5.0,Finished,10.0,False,,,69,1:33:23.433,fastf1
+2025,12,Canada Grand Prix,Lando Norris,4,McLaren,15.0,11.0,Finished,0.0,False,,,69,1:34:37.583,fastf1
+2025,12,Canada Grand Prix,Oscar Piastri,81,McLaren,19.0,18.0,Finished,0.0,False,,,69,1:32:00.741,fastf1
+2025,12,Canada Grand Prix,Fernando Alonso,14,Aston Martin,13.0,6.0,Finished,8.0,False,,,69,1:31:55.519,fastf1
+2025,12,Canada Grand Prix,Lance Stroll,18,Aston Martin,3.0,17.0,Finished,0.0,False,,,69,1:30:32.741,fastf1
+2025,12,Canada Grand Prix,Esteban Ocon,31,Alpine,,14.0,Finished,0.0,False,,,69,1:28:46.832,fastf1
+2025,12,Canada Grand Prix,Jack Doohan,7,Alpine,11.0,20.0,Finished,0.0,False,,,69,1:25:07.847,fastf1
+2025,12,Canada Grand Prix,Gabriel Bortoleto,5,Kick Sauber,8.0,3.0,Finished,15.0,False,,,69,1:25:05.528,fastf1
+2025,12,Canada Grand Prix,Nico Hulkenberg,27,Kick Sauber,20.0,8.0,Finished,4.0,False,,,69,1:29:04.998,fastf1
+2025,12,Canada Grand Prix,Kevin Magnussen,20,Haas F1 Team,14.0,4.0,Finished,12.0,False,,,69,1:26:38.924,fastf1
+2025,12,Canada Grand Prix,Oliver Bearman,87,Haas F1 Team,4.0,19.0,Finished,0.0,False,,,69,1:33:23.049,fastf1
+2025,12,Canada Grand Prix,Isack Hadjar,6,Racing Bulls,12.0,12.0,Finished,0.0,False,,,69,1:30:25.408,fastf1
+2025,12,Canada Grand Prix,Yuki Tsunoda,22,Racing Bulls,2.0,10.0,Finished,1.0,False,,,69,1:25:35.401,fastf1
+2025,12,Canada Grand Prix,Alexander Albon,23,Williams,16.0,9.0,Finished,2.0,False,,,69,1:30:26.038,fastf1
+2025,12,Canada Grand Prix,Franco Colapinto,43,Williams,5.0,13.0,Finished,0.0,False,,,69,1:31:47.243,fastf1
+2025,13,Saudi Arabia Grand Prix,Max Verstappen,1,Red Bull Racing,18.0,17.0,Finished,0.0,False,,,49,1:34:40.924,fastf1
+2025,13,Saudi Arabia Grand Prix,Liam Lawson,30,Red Bull Racing,11.0,10.0,Finished,1.0,False,,,49,1:34:17.802,fastf1
+2025,13,Saudi Arabia Grand Prix,George Russell,63,Mercedes,20.0,11.0,Finished,0.0,False,,,49,1:27:58.175,fastf1
+2025,13,Saudi Arabia Grand Prix,Andrea Kimi Antonelli,12,Mercedes,16.0,,Mechanical,,True,87.05,334.4,18,,fastf1
+2025,13,Saudi Arabia Grand Prix,Charles Leclerc,16,Ferrari,4.0,,DNF,,False,,,19,,fastf1
+2025,13,Saudi Arabia Grand Prix,"Hamilton, Lewis",44,Ferrari,14.0,5.0,Finished,10.0,False,,,49,1:25:27.190,fastf1
+2025,13,Saudi Arabia Grand Prix,Lando Norris,4,McLaren,17.0,2.0,Finished,18.0,False,,,49,1:31:12.728,fastf1
+2025,13,Saudi Arabia Grand Prix,Oscar Piastri,81,McLaren,2.0,12.0,Finished,0.0,False,,,49,1:28:05.176,fastf1
+2025,13,Saudi Arabia Grand Prix,Fernando Alonso,14,Aston Martin,13.0,14.0,Finished,0.0,False,,,49,1:27:46.990,fastf1
+2025,13,Saudi Arabia Grand Prix,Lance Stroll,18,Aston Martin,19.0,9.0,Finished,2.0,False,,,49,1:34:52.325,fastf1
+2025,13,Saudi Arabia Grand Prix,Esteban Ocon,31,Alpine,1.0,7.0,Finished,6.0,False,,,49,1:32:27.933,fastf1
+2025,13,Saudi Arabia Grand Prix,"Doohan, Jack",7,Alpine,12.0,8.0,Finished,4.0,False,,,49,1:34:32.915,fastf1
+2025,13,Saudi Arabia Grand Prix,Gabriel Bortoleto,5,Kick Sauber,10.0,13.0,Finished,0.0,False,,,49,1:31:10.194,fastf1
+2025,13,Saudi Arabia Grand Prix,Nico Hulkenberg,27,Kick Sauber,7.0,6.0,Finished,8.0,False,,,49,1:30:04.283,fastf1
+2025,13,Saudi Arabia Grand Prix,Kevin Magnussen,20,Haas F1 Team,6.0,,Engine,,False,,,30,,fastf1
+2025,13,Saudi Arabia Grand Prix,Oliver Bearman,87,Haas F1 Team,5.0,15.0,Finished,0.0,True,82.941,299.4,49,1:29:18.439,fastf1
+2025,13,Saudi Arabia Grand Prix,Isack Hadjar,6,Racing Bulls,9.0,3.0,Finished,15.0,False,,,49,1:25:48.337,fastf1
+2025,13,Saudi Arabia Grand Prix,Yuki Tsunoda,22,Racing Bulls,15.0,16.0,Finished,0.0,False,,,49,1:27:16.021,fastf1
+2025,13,Saudi Arabia Grand Prix,Alexander Albon,23,Williams,3.0,1.0,Finished,25.0,True,98.668,333.2,49,1:25:41.764,fastf1
+2025,13,Saudi Arabia Grand Prix,Franco Colapinto,43,Williams,8.0,4.0,Finished,12.0,False,,,49,1:33:58.939,fastf1
+2025,14,Monaco Grand Prix,Max Verstappen,1,Red Bull Racing,2.0,9.0,Finished,2.0,False,,,78,1:26:06.029,fastf1
+2025,14,Monaco Grand Prix,Liam Lawson,30,Red Bull Racing,8.0,5.0,Finished,10.0,False,,,78,1:30:04.521,fastf1
+2025,14,Monaco Grand Prix,"Russell, George",63,Mercedes,6.0,2.0,Finished,18.0,False,,,78,1:28:10.784,fastf1
+2025,14,Monaco Grand Prix,Andrea Kimi Antonelli,12,Mercedes,11.0,3.0,Finished,15.0,False,,,78,1:25:50.981,fastf1
+2025,14,Monaco Grand Prix,Charles Leclerc,16,Ferrari,19.0,,Mechanical,,True,95.991,328.7,26,,fastf1
+2025,14,Monaco Grand Prix,"Hamilton, Lewis",44,Ferrari,5.0,16.0,Finished,0.0,False,,,78,1:27:36.237,fastf1
+2025,14,Monaco Grand Prix,Lando Norris,4,McLaren,15.0,,Gearbox,,False,,,56,,fastf1
+2025,14,Monaco Grand Prix,Oscar Piastri,81,McLaren,17.0,10.0,Finished,1.0,False,,,78,1:32:00.235,fastf1
+2025,14,Monaco Grand Prix,"Alonso, Fernando",14,Aston Martin,14.0,1.0,Finished,25.0,False,,,78,1:28:28.384,fastf1
+2025,14,Monaco Grand Prix,Lance Stroll,18,Aston Martin,1.0,14.0,Finished,0.0,False,,,78,1:32:31.537,fastf1
+2025,14,Monaco Grand Prix,Esteban Ocon,31,Alpine,10.0,4.0,Finished,12.0,False,,,78,1:32:34.766,fastf1
+2025,14,Monaco Grand Prix,Jack Doohan,7,Alpine,20.0,11.0,Finished,0.0,False,,,78,1:26:56.422,fastf1
+2025,14,Monaco Grand Prix,Gabriel Bortoleto,5,Kick Sauber,7.0,6.0,Finished,8.0,False,,,78,1:29:14.369,fastf1
+2025,14,Monaco Grand Prix,Nico Hulkenberg,27,Kick Sauber,3.0,,DNF,,False,,,53,,fastf1
+2025,14,Monaco Grand Prix,Kevin Magnussen,20,Haas F1 Team,16.0,12.0,Finished,0.0,False,,,78,1:28:13.155,fastf1
+2025,14,Monaco Grand Prix,Oliver Bearman,87,Haas F1 Team,18.0,,Collision,,False,,,11,,fastf1
+2025,14,Monaco Grand Prix,Isack Hadjar,6,Racing Bulls,9.0,15.0,Finished,0.0,True,87.206,298.4,78,1:27:29.942,fastf1
+2025,14,Monaco Grand Prix,Yuki Tsunoda,22,Racing Bulls,4.0,7.0,Finished,6.0,True,83.057,299.5,78,1:27:51.147,fastf1
+2025,14,Monaco Grand Prix,Alexander Albon,23,Williams,12.0,8.0,Finished,4.0,False,,,78,1:26:44.302,fastf1
+2025,14,Monaco Grand Prix,Franco Colapinto,43,Williams,13.0,13.0,Finished,0.0,False,,,78,1:33:34.468,fastf1
+2025,15,Hungary Grand Prix,Max Verstappen,1,Red Bull Racing,,5.0,Finished,10.0,False,,,69,1:25:39.483,fastf1
+2025,15,Hungary Grand Prix,Liam Lawson,30,Red Bull Racing,9.0,10.0,Finished,1.0,False,,,69,1:34:01.223,fastf1
+2025,15,Hungary Grand Prix,George Russell,63,Mercedes,14.0,4.0,Finished,12.0,False,,,69,1:30:20.101,fastf1
+2025,15,Hungary Grand Prix,Andrea Kimi Antonelli,12,Mercedes,3.0,7.0,Finished,6.0,False,,,69,1:29:43.439,fastf1
+2025,15,Hungary Grand Prix,Charles Leclerc,16,Ferrari,5.0,2.0,Finished,18.0,False,,,69,1:25:51.467,fastf1
+2025,15,Hungary Grand Prix,Lewis Hamilton,44,Ferrari,20.0,12.0,Finished,0.0,False,,,69,1:25:29.538,fastf1
+2025,15,Hungary Grand Prix,Lando Norris,4,McLaren,4.0,8.0,Finished,4.0,False,,,69,1:29:06.748,fastf1
+2025,15,Hungary Grand Prix,Oscar Piastri,81,McLaren,15.0,1.0,Finished,25.0,False,,,69,1:34:51.213,fastf1
+2025,15,Hungary Grand Prix,Fernando Alonso,14,Aston Martin,8.0,14.0,Finished,0.0,False,,,69,1:28:14.971,fastf1
+2025,15,Hungary Grand Prix,Lance Stroll,18,Aston Martin,17.0,9.0,Finished,2.0,False,,,69,1:26:15.845,fastf1
+2025,15,Hungary Grand Prix,"Ocon, Esteban",31,Alpine,19.0,13.0,Finished,0.0,False,,,69,1:26:32.093,fastf1
+2025,15,Hungary Grand Prix,Jack Doohan,7,Alpine,12.0,15.0,Finished,0.0,False,,,69,1:26:52.136,fastf1
+2025,15,Hungary Grand Prix,Gabriel Bortoleto,5,Kick Sauber,18.0,,Collision,,False,,,61,,fastf1
+2025,15,Hungary Grand Prix,"Hulkenberg, Nico",27,Kick Sauber,10.0,16.0,Finished,0.0,False,,,69,1:34:15.072,fastf1
+2025,15,Hungary Grand Prix,Kevin Magnussen,20,Haas F1 Team,2.0,,Collision,,False,,,28,,fastf1
+2025,15,Hungary Grand Prix,"Bearman, Oliver",87,Haas F1 Team,,,Retired,,False,,,36,,fastf1
+2025,15,Hungary Grand Prix,Isack Hadjar,6,Racing Bulls,13.0,3.0,Finished,15.0,False,,,69,1:33:51.992,fastf1
+2025,15,Hungary Grand Prix,Yuki Tsunoda,22,Racing Bulls,11.0,11.0,Finished,0.0,False,,,69,1:32:55.261,fastf1
+2025,15,Hungary Grand Prix,Alexander Albon,23,Williams,16.0,17.0,Finished,0.0,False,,,69,1:31:37.216,fastf1
+2025,15,Hungary Grand Prix,Franco Colapinto,43,Williams,1.0,6.0,Finished,8.0,True,93.983,299.9,69,1:30:44.083,fastf1
+2025,16,Austria Grand Prix,Max Verstappen,1,Red Bull Racing,9.0,18.0,Finished,0.0,False,,,70,1:34:07.930,fastf1
+2025,16,Austria Grand Prix,Liam Lawson,30,Red Bull Racing,12.0,16.0,Finished,0.0,False,,,70,1:28:21.443,fastf1
+2025,16,Austria Grand Prix,George Russell,63,Mercedes,17.0,,Collision,,False,,,41,,fastf1
+2025,16,Austria Grand Prix,Andrea Kimi Antonelli,12,Mercedes,14.0,10.0,Finished,1.0,False,,,70,1:25:37.280,fastf1
+2025,16,Austria Grand Prix,Charles Leclerc,16,Ferrari,7.0,12.0,Finished,0.0,True,94.347,333.1,70,1:33:31.893,fastf1
+2025,16,Austria Grand Prix,Lewis Hamilton,44,Ferrari,5.0,5.0,Finished,10.0,False,,,70,1:31:23.049,fastf1
+2025,16,Austria Grand Prix,Lando Norris,4,McLaren,19.0,13.0,Finished,0.0,False,,,70,1:34:58.046,fastf1
+2025,16,Austria Grand Prix,Oscar Piastri,81,McLaren,20.0,3.0,Finished,15.0,False,,,70,1:27:07.766,fastf1
+2025,16,Austria Grand Prix,Fernando Alonso,14,Aston Martin,15.0,11.0,Finished,0.0,False,,,70,1:27:33.699,fastf1
+2025,16,Austria Grand Prix,Lance Stroll,18,Aston Martin,3.0,2.0,Finished,18.0,False,,,70,1:25:19.444,fastf1
+2025,16,Austria Grand Prix,Esteban Ocon,31,Alpine,4.0,,Engine,,False,,,58,,fastf1
+2025,16,Austria Grand Prix,Jack Doohan,7,Alpine,2.0,7.0,Finished,6.0,False,,,70,1:27:30.670,fastf1
+2025,16,Austria Grand Prix,Gabriel Bortoleto,5,Kick Sauber,,1.0,Finished,25.0,False,,,70,1:31:22.425,fastf1
+2025,16,Austria Grand Prix,Nico Hulkenberg,27,Kick Sauber,8.0,4.0,Finished,12.0,False,,,70,1:29:07.317,fastf1
+2025,16,Austria Grand Prix,Kevin Magnussen,20,Haas F1 Team,16.0,8.0,Finished,4.0,False,,,70,1:26:19.198,fastf1
+2025,16,Austria Grand Prix,Oliver Bearman,87,Haas F1 Team,1.0,6.0,Finished,8.0,False,,,70,1:26:55.884,fastf1
+2025,16,Austria Grand Prix,Isack Hadjar,6,Racing Bulls,18.0,15.0,Finished,0.0,False,,,70,1:32:55.558,fastf1
+2025,16,Austria Grand Prix,Yuki Tsunoda,22,Racing Bulls,6.0,17.0,Finished,0.0,False,,,70,1:27:07.709,fastf1
+2025,16,Austria Grand Prix,Alexander Albon,23,Williams,,14.0,Finished,0.0,False,,,70,1:31:48.661,fastf1
+2025,16,Austria Grand Prix,Franco Colapinto,43,Williams,10.0,9.0,Finished,2.0,False,,,70,1:27:34.387,fastf1
+2025,17,Las Vegas Grand Prix,Max Verstappen,1,Red Bull Racing,8.0,17.0,Finished,0.0,False,,,49,1:32:45.587,fastf1
+2025,17,Las Vegas Grand Prix,Liam Lawson,30,Red Bull Racing,10.0,12.0,Finished,0.0,False,,,49,1:33:04.509,fastf1
+2025,17,Las Vegas Grand Prix,George Russell,63,Mercedes,19.0,7.0,Finished,6.0,False,,,49,1:27:21.534,fastf1
+2025,17,Las Vegas Grand Prix,Andrea Kimi Antonelli,12,Mercedes,15.0,10.0,Finished,1.0,False,,,49,1:30:33.387,fastf1
+2025,17,Las Vegas Grand Prix,Charles Leclerc,16,Ferrari,7.0,4.0,Finished,12.0,False,,,49,1:25:32.453,fastf1
+2025,17,Las Vegas Grand Prix,Lewis Hamilton,44,Ferrari,17.0,5.0,Finished,10.0,False,,,49,1:30:10.178,fastf1
+2025,17,Las Vegas Grand Prix,Lando Norris,4,McLaren,6.0,13.0,Finished,0.0,False,,,49,1:30:08.770,fastf1
+2025,17,Las Vegas Grand Prix,Oscar Piastri,81,McLaren,3.0,8.0,Finished,4.0,False,,,49,1:31:30.034,fastf1
+2025,17,Las Vegas Grand Prix,Fernando Alonso,14,Aston Martin,13.0,18.0,Finished,0.0,False,,,49,1:34:40.266,fastf1
+2025,17,Las Vegas Grand Prix,Lance Stroll,18,Aston Martin,9.0,2.0,Finished,18.0,False,,,49,1:25:54.396,fastf1
+2025,17,Las Vegas Grand Prix,"Ocon, Esteban",31,Alpine,16.0,11.0,Finished,0.0,False,,,49,1:32:01.173,fastf1
+2025,17,Las Vegas Grand Prix,Jack Doohan,7,Alpine,1.0,15.0,Finished,0.0,False,,,49,1:28:29.885,fastf1
+2025,17,Las Vegas Grand Prix,Gabriel Bortoleto,5,Kick Sauber,4.0,9.0,Finished,2.0,False,,,49,1:28:27.801,fastf1
+2025,17,Las Vegas Grand Prix,"Hulkenberg, Nico",27,Kick Sauber,20.0,19.0,Finished,0.0,False,,,49,1:30:59.766,fastf1
+2025,17,Las Vegas Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,14.0,6.0,Finished,8.0,False,,,49,1:32:44.645,fastf1
+2025,17,Las Vegas Grand Prix,Oliver Bearman,87,Haas F1 Team,,,Gearbox,,False,,,41,,fastf1
+2025,17,Las Vegas Grand Prix,Isack Hadjar,6,Racing Bulls,11.0,14.0,Finished,0.0,False,,,49,1:31:33.970,fastf1
+2025,17,Las Vegas Grand Prix,Yuki Tsunoda,22,Racing Bulls,12.0,3.0,Finished,15.0,True,86.999,309.0,49,1:30:15.279,fastf1
+2025,17,Las Vegas Grand Prix,Alexander Albon,23,Williams,,16.0,Finished,0.0,False,,,49,1:34:13.893,fastf1
+2025,17,Las Vegas Grand Prix,Franco Colapinto,43,Williams,18.0,1.0,Finished,25.0,False,,,49,1:33:46.896,fastf1
+2025,18,Netherlands Grand Prix,Max Verstappen,1,Red Bull Racing,13.0,11.0,Finished,0.0,False,,,71,1:33:40.084,fastf1
+2025,18,Netherlands Grand Prix,Liam Lawson,30,Red Bull Racing,2.0,,Engine,,False,,,48,,fastf1
+2025,18,Netherlands Grand Prix,George Russell,63,Mercedes,19.0,2.0,Finished,18.0,False,,,71,1:32:12.503,fastf1
+2025,18,Netherlands Grand Prix,Andrea Kimi Antonelli,12,Mercedes,5.0,,Engine,,False,,,34,,fastf1
+2025,18,Netherlands Grand Prix,Charles Leclerc,16,Ferrari,3.0,,Accident,,False,,,57,,fastf1
+2025,18,Netherlands Grand Prix,Lewis Hamilton,44,Ferrari,17.0,4.0,Finished,12.0,True,80.55,329.0,71,1:28:53.725,fastf1
+2025,18,Netherlands Grand Prix,"Norris, Lando",4,McLaren,14.0,10.0,Finished,1.0,True,79.153,293.2,71,1:28:46.913,fastf1
+2025,18,Netherlands Grand Prix,Oscar Piastri,81,McLaren,7.0,3.0,Finished,15.0,False,,,71,1:30:43.205,fastf1
+2025,18,Netherlands Grand Prix,Fernando Alonso,14,Aston Martin,1.0,,Collision,,False,,,51,,fastf1
+2025,18,Netherlands Grand Prix,Lance Stroll,18,Aston Martin,16.0,13.0,Finished,0.0,False,,,71,1:29:09.239,fastf1
+2025,18,Netherlands Grand Prix,Esteban Ocon,31,Alpine,9.0,7.0,Finished,6.0,False,,,71,1:33:53.754,fastf1
+2025,18,Netherlands Grand Prix,Jack Doohan,7,Alpine,4.0,15.0,Finished,0.0,False,,,71,1:33:17.734,fastf1
+2025,18,Netherlands Grand Prix,Gabriel Bortoleto,5,Kick Sauber,18.0,12.0,Finished,0.0,False,,,71,1:28:27.351,fastf1
+2025,18,Netherlands Grand Prix,Nico Hulkenberg,27,Kick Sauber,20.0,14.0,Finished,0.0,False,,,71,1:27:37.547,fastf1
+2025,18,Netherlands Grand Prix,Kevin Magnussen,20,Haas F1 Team,12.0,1.0,Finished,25.0,False,,,71,1:31:38.830,fastf1
+2025,18,Netherlands Grand Prix,Oliver Bearman,87,Haas F1 Team,15.0,16.0,Finished,0.0,False,,,71,1:34:55.926,fastf1
+2025,18,Netherlands Grand Prix,Isack Hadjar,6,Racing Bulls,,8.0,Finished,4.0,True,82.645,303.5,71,1:28:50.205,fastf1
+2025,18,Netherlands Grand Prix,Yuki Tsunoda,22,Racing Bulls,6.0,5.0,Finished,10.0,False,,,71,1:29:09.790,fastf1
+2025,18,Netherlands Grand Prix,Alexander Albon,23,Williams,10.0,9.0,Finished,2.0,False,,,71,1:29:22.745,fastf1
+2025,18,Netherlands Grand Prix,Franco Colapinto,43,Williams,11.0,6.0,Finished,8.0,False,,,71,1:26:21.725,fastf1
+2025,19,Japan Grand Prix,Max Verstappen,1,Red Bull Racing,7.0,1.0,Finished,25.0,False,,,52,1:29:32.255,fastf1
+2025,19,Japan Grand Prix,Liam Lawson,30,Red Bull Racing,17.0,12.0,Finished,0.0,False,,,52,1:25:12.265,fastf1
+2025,19,Japan Grand Prix,George Russell,63,Mercedes,20.0,7.0,Finished,6.0,False,,,52,1:30:23.075,fastf1
+2025,19,Japan Grand Prix,Andrea Kimi Antonelli,12,Mercedes,2.0,,Accident,,False,,,7,,fastf1
+2025,19,Japan Grand Prix,Charles Leclerc,16,Ferrari,11.0,16.0,Finished,0.0,False,,,52,1:30:18.390,fastf1
+2025,19,Japan Grand Prix,Lewis Hamilton,44,Ferrari,4.0,15.0,Finished,0.0,False,,,52,1:31:58.427,fastf1
+2025,19,Japan Grand Prix,Lando Norris,4,McLaren,12.0,4.0,Finished,12.0,False,,,52,1:31:47.902,fastf1
+2025,19,Japan Grand Prix,Oscar Piastri,81,McLaren,18.0,17.0,Finished,0.0,False,,,52,1:27:33.014,fastf1
+2025,19,Japan Grand Prix,Fernando Alonso,14,Aston Martin,6.0,,Gearbox,,False,,,23,,fastf1
+2025,19,Japan Grand Prix,Lance Stroll,18,Aston Martin,,14.0,Finished,0.0,False,,,52,1:32:11.363,fastf1
+2025,19,Japan Grand Prix,Esteban Ocon,31,Alpine,13.0,10.0,Finished,1.0,False,,,52,1:31:11.890,fastf1
+2025,19,Japan Grand Prix,Jack Doohan,7,Alpine,16.0,5.0,Finished,10.0,False,,,52,1:31:46.595,fastf1
+2025,19,Japan Grand Prix,"Bortoleto, Gabriel",5,Kick Sauber,15.0,,Accident,,False,,,13,,fastf1
+2025,19,Japan Grand Prix,"Hulkenberg, Nico",27,Kick Sauber,19.0,8.0,Finished,4.0,False,,,52,1:30:52.703,fastf1
+2025,19,Japan Grand Prix,"Magnussen, Kevin",20,Haas F1 Team,1.0,11.0,Finished,0.0,False,,,52,1:31:01.961,fastf1
+2025,19,Japan Grand Prix,Oliver Bearman,87,Haas F1 Team,8.0,3.0,Finished,15.0,False,,,52,1:32:06.798,fastf1
+2025,19,Japan Grand Prix,Isack Hadjar,6,Racing Bulls,9.0,9.0,Finished,2.0,False,,,52,1:26:41.022,fastf1
+2025,19,Japan Grand Prix,Yuki Tsunoda,22,Racing Bulls,14.0,6.0,Finished,8.0,False,,,52,1:32:35.165,fastf1
+2025,19,Japan Grand Prix,Alexander Albon,23,Williams,10.0,13.0,Finished,0.0,False,,,52,1:25:03.237,fastf1
+2025,19,Japan Grand Prix,Franco Colapinto,43,Williams,3.0,2.0,Finished,18.0,False,,,52,1:29:14.662,fastf1
+2025,20,UAE Grand Prix,Max Verstappen,1,Red Bull Racing,18.0,2.0,Finished,18.0,True,81.637,324.9,57,1:32:21.618,fastf1
+2025,20,UAE Grand Prix,Liam Lawson,30,Red Bull Racing,15.0,12.0,Finished,0.0,False,,,57,1:25:52.295,fastf1
+2025,20,UAE Grand Prix,George Russell,63,Mercedes,4.0,5.0,Finished,10.0,False,,,57,1:30:05.026,fastf1
+2025,20,UAE Grand Prix,Andrea Kimi Antonelli,12,Mercedes,14.0,3.0,Finished,15.0,False,,,57,1:31:46.188,fastf1
+2025,20,UAE Grand Prix,Charles Leclerc,16,Ferrari,10.0,19.0,Finished,0.0,False,,,57,1:31:01.753,fastf1
+2025,20,UAE Grand Prix,Lewis Hamilton,44,Ferrari,20.0,11.0,Finished,0.0,False,,,57,1:29:21.580,fastf1
+2025,20,UAE Grand Prix,Lando Norris,4,McLaren,9.0,10.0,Finished,1.0,False,,,57,1:28:50.959,fastf1
+2025,20,UAE Grand Prix,Oscar Piastri,81,McLaren,13.0,8.0,Finished,4.0,False,,,57,1:31:00.415,fastf1
+2025,20,UAE Grand Prix,Fernando Alonso,14,Aston Martin,2.0,17.0,Finished,0.0,False,,,57,1:33:50.517,fastf1
+2025,20,UAE Grand Prix,Lance Stroll,18,Aston Martin,19.0,9.0,Finished,2.0,False,,,57,1:32:19.473,fastf1
+2025,20,UAE Grand Prix,Esteban Ocon,31,Alpine,12.0,14.0,Finished,0.0,False,,,57,1:32:19.231,fastf1
+2025,20,UAE Grand Prix,Jack Doohan,7,Alpine,7.0,4.0,Finished,12.0,False,,,57,1:29:27.424,fastf1
+2025,20,UAE Grand Prix,"Bortoleto, Gabriel",5,Kick Sauber,8.0,15.0,Finished,0.0,True,90.26,299.3,57,1:26:27.605,fastf1
+2025,20,UAE Grand Prix,Nico Hulkenberg,27,Kick Sauber,3.0,7.0,Finished,6.0,False,,,57,1:27:43.538,fastf1
+2025,20,UAE Grand Prix,Kevin Magnussen,20,Haas F1 Team,17.0,13.0,Finished,0.0,False,,,57,1:31:07.096,fastf1
+2025,20,UAE Grand Prix,Oliver Bearman,87,Haas F1 Team,,18.0,Finished,0.0,False,,,57,1:28:25.107,fastf1
+2025,20,UAE Grand Prix,Isack Hadjar,6,Racing Bulls,1.0,,Engine,,False,,,31,,fastf1
+2025,20,UAE Grand Prix,Yuki Tsunoda,22,Racing Bulls,16.0,16.0,Finished,0.0,False,,,57,1:27:40.218,fastf1
+2025,20,UAE Grand Prix,Alexander Albon,23,Williams,11.0,1.0,Finished,25.0,False,,,57,1:29:40.562,fastf1
+2025,20,UAE Grand Prix,"Colapinto, Franco",43,Williams,5.0,6.0,Finished,8.0,False,,,57,1:34:00.522,fastf1
+2025,21,Spain Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,6.0,Finished,8.0,False,,,65,1:32:24.243,fastf1
+2025,21,Spain Grand Prix,Liam Lawson,30,Red Bull Racing,17.0,9.0,Finished,2.0,False,,,65,1:33:48.430,fastf1
+2025,21,Spain Grand Prix,George Russell,63,Mercedes,13.0,8.0,Finished,4.0,False,,,65,1:29:52.713,fastf1
+2025,21,Spain Grand Prix,Andrea Kimi Antonelli,12,Mercedes,20.0,1.0,Finished,25.0,False,,,65,1:27:19.722,fastf1
+2025,21,Spain Grand Prix,Charles Leclerc,16,Ferrari,1.0,5.0,Finished,10.0,False,,,65,1:30:07.925,fastf1
+2025,21,Spain Grand Prix,"Hamilton, Lewis",44,Ferrari,14.0,13.0,Finished,0.0,True,82.651,291.2,65,1:28:59.670,fastf1
+2025,21,Spain Grand Prix,Lando Norris,4,McLaren,19.0,,Mechanical,,False,,,34,,fastf1
+2025,21,Spain Grand Prix,Oscar Piastri,81,McLaren,18.0,2.0,Finished,18.0,False,,,65,1:32:10.146,fastf1
+2025,21,Spain Grand Prix,Fernando Alonso,14,Aston Martin,12.0,10.0,Finished,1.0,False,,,65,1:27:01.902,fastf1
+2025,21,Spain Grand Prix,Lance Stroll,18,Aston Martin,15.0,,Gearbox,,False,,,9,,fastf1
+2025,21,Spain Grand Prix,Esteban Ocon,31,Alpine,2.0,16.0,Finished,0.0,False,,,65,1:30:00.602,fastf1
+2025,21,Spain Grand Prix,Jack Doohan,7,Alpine,16.0,11.0,Finished,0.0,False,,,65,1:27:24.569,fastf1
+2025,21,Spain Grand Prix,Gabriel Bortoleto,5,Kick Sauber,6.0,4.0,Finished,12.0,False,,,65,1:27:22.637,fastf1
+2025,21,Spain Grand Prix,Nico Hulkenberg,27,Kick Sauber,10.0,3.0,Finished,15.0,False,,,65,1:33:23.135,fastf1
+2025,21,Spain Grand Prix,Kevin Magnussen,20,Haas F1 Team,8.0,,DNF,,False,,,16,,fastf1
+2025,21,Spain Grand Prix,Oliver Bearman,87,Haas F1 Team,,15.0,Finished,0.0,False,,,65,1:29:33.295,fastf1
+2025,21,Spain Grand Prix,Isack Hadjar,6,Racing Bulls,4.0,14.0,Finished,0.0,False,,,65,1:29:27.340,fastf1
+2025,21,Spain Grand Prix,Yuki Tsunoda,22,Racing Bulls,11.0,7.0,Finished,6.0,False,,,65,1:31:10.536,fastf1
+2025,21,Spain Grand Prix,Alexander Albon,23,Williams,9.0,,DNF,,False,,,33,,fastf1
+2025,21,Spain Grand Prix,Franco Colapinto,43,Williams,3.0,12.0,Finished,0.0,False,,,65,1:26:24.461,fastf1
+2025,22,United Kingdom Grand Prix,"Verstappen, Max",1,Red Bull Racing,14.0,11.0,Finished,0.0,False,,,51,1:25:34.706,fastf1
+2025,22,United Kingdom Grand Prix,Liam Lawson,30,Red Bull Racing,1.0,20.0,Finished,0.0,False,,,51,1:31:47.708,fastf1
+2025,22,United Kingdom Grand Prix,George Russell,63,Mercedes,4.0,18.0,Finished,0.0,False,,,51,1:30:44.816,fastf1
+2025,22,United Kingdom Grand Prix,Andrea Kimi Antonelli,12,Mercedes,17.0,13.0,Finished,0.0,False,,,51,1:29:08.578,fastf1
+2025,22,United Kingdom Grand Prix,Charles Leclerc,16,Ferrari,10.0,2.0,Finished,18.0,False,,,51,1:26:05.529,fastf1
+2025,22,United Kingdom Grand Prix,Lewis Hamilton,44,Ferrari,19.0,17.0,Finished,0.0,False,,,51,1:25:16.732,fastf1
+2025,22,United Kingdom Grand Prix,Lando Norris,4,McLaren,15.0,4.0,Finished,12.0,False,,,51,1:32:45.966,fastf1
+2025,22,United Kingdom Grand Prix,Oscar Piastri,81,McLaren,2.0,3.0,Finished,15.0,True,81.187,319.2,51,1:25:59.148,fastf1
+2025,22,United Kingdom Grand Prix,Fernando Alonso,14,Aston Martin,12.0,14.0,Finished,0.0,False,,,51,1:29:19.212,fastf1
+2025,22,United Kingdom Grand Prix,Lance Stroll,18,Aston Martin,16.0,6.0,Finished,8.0,False,,,51,1:29:40.121,fastf1
+2025,22,United Kingdom Grand Prix,Esteban Ocon,31,Alpine,13.0,5.0,Finished,10.0,False,,,51,1:32:58.496,fastf1
+2025,22,United Kingdom Grand Prix,Jack Doohan,7,Alpine,11.0,10.0,Finished,1.0,False,,,51,1:27:01.459,fastf1
+2025,22,United Kingdom Grand Prix,Gabriel Bortoleto,5,Kick Sauber,9.0,8.0,Finished,4.0,False,,,51,1:30:53.968,fastf1
+2025,22,United Kingdom Grand Prix,Nico Hulkenberg,27,Kick Sauber,18.0,15.0,Finished,0.0,False,,,51,1:34:54.266,fastf1
+2025,22,United Kingdom Grand Prix,Kevin Magnussen,20,Haas F1 Team,20.0,1.0,Finished,25.0,False,,,51,1:30:39.351,fastf1
+2025,22,United Kingdom Grand Prix,Oliver Bearman,87,Haas F1 Team,3.0,19.0,Finished,0.0,False,,,51,1:33:57.818,fastf1
+2025,22,United Kingdom Grand Prix,Isack Hadjar,6,Racing Bulls,7.0,9.0,Finished,2.0,False,,,51,1:31:12.120,fastf1
+2025,22,United Kingdom Grand Prix,"Tsunoda, Yuki",22,Racing Bulls,8.0,12.0,Finished,0.0,False,,,51,1:34:34.665,fastf1
+2025,22,United Kingdom Grand Prix,Alexander Albon,23,Williams,,7.0,Finished,6.0,False,,,51,1:31:37.645,fastf1
+2025,22,United Kingdom Grand Prix,"Colapinto, Franco",43,Williams,6.0,16.0,Finished,0.0,False,,,51,1:32:22.162,fastf1
+2025,23,Austin Grand Prix,Max Verstappen,1,Red Bull Racing,5.0,1.0,Finished,25.0,False,,,55,1:34:05.762,fastf1
+2025,23,Austin Grand Prix,Liam Lawson,30,Red Bull Racing,15.0,,Accident,,False,,,25,,fastf1
+2025,23,Austin Grand Prix,"Russell, George",63,Mercedes,12.0,15.0,Finished,0.0,False,,,55,1:27:27.410,fastf1
+2025,23,Austin Grand Prix,Andrea Kimi Antonelli,12,Mercedes,9.0,11.0,Finished,0.0,False,,,55,1:31:28.345,fastf1
+2025,23,Austin Grand Prix,Charles Leclerc,16,Ferrari,4.0,16.0,Finished,0.0,False,,,55,1:30:29.022,fastf1
+2025,23,Austin Grand Prix,Lewis Hamilton,44,Ferrari,10.0,6.0,Finished,8.0,False,,,55,1:27:08.006,fastf1
+2025,23,Austin Grand Prix,Lando Norris,4,McLaren,11.0,7.0,Finished,6.0,False,,,55,1:32:12.618,fastf1
+2025,23,Austin Grand Prix,Oscar Piastri,81,McLaren,18.0,,Collision,,False,,,36,,fastf1
+2025,23,Austin Grand Prix,Fernando Alonso,14,Aston Martin,13.0,8.0,Finished,4.0,False,,,55,1:32:21.058,fastf1
+2025,23,Austin Grand Prix,Lance Stroll,18,Aston Martin,3.0,2.0,Finished,18.0,False,,,55,1:25:49.467,fastf1
+2025,23,Austin Grand Prix,Esteban Ocon,31,Alpine,2.0,,Gearbox,,False,,,28,,fastf1
+2025,23,Austin Grand Prix,Jack Doohan,7,Alpine,16.0,,DNF,,False,,,35,,fastf1
+2025,23,Austin Grand Prix,Gabriel Bortoleto,5,Kick Sauber,8.0,4.0,Finished,12.0,False,,,55,1:31:27.429,fastf1
+2025,23,Austin Grand Prix,Nico Hulkenberg,27,Kick Sauber,14.0,13.0,Finished,0.0,False,,,55,1:27:15.746,fastf1
+2025,23,Austin Grand Prix,Kevin Magnussen,20,Haas F1 Team,19.0,14.0,Finished,0.0,False,,,55,1:31:04.950,fastf1
+2025,23,Austin Grand Prix,Oliver Bearman,87,Haas F1 Team,17.0,9.0,Finished,2.0,False,,,55,1:32:35.950,fastf1
+2025,23,Austin Grand Prix,Isack Hadjar,6,Racing Bulls,20.0,5.0,Finished,10.0,False,,,55,1:32:56.412,fastf1
+2025,23,Austin Grand Prix,Yuki Tsunoda,22,Racing Bulls,1.0,3.0,Finished,15.0,False,,,55,1:29:59.659,fastf1
+2025,23,Austin Grand Prix,Alexander Albon,23,Williams,7.0,12.0,Finished,0.0,False,,,55,1:31:51.199,fastf1
+2025,23,Austin Grand Prix,"Colapinto, Franco",43,Williams,6.0,10.0,Finished,1.0,False,,,55,1:30:16.260,fastf1
+2025,24,Australia Grand Prix,Max Verstappen,1,Red Bull Racing,6.0,2.0,Finished,18.0,False,,,57,1:27:43.916,fastf1
+2025,24,Australia Grand Prix,Liam Lawson,30,Red Bull Racing,1.0,17.0,Finished,0.0,False,,,57,1:29:21.664,fastf1
+2025,24,Australia Grand Prix,George Russell,63,Mercedes,13.0,6.0,Finished,8.0,False,,,57,1:29:34.092,fastf1
+2025,24,Australia Grand Prix,Andrea Kimi Antonelli,12,Mercedes,7.0,7.0,Finished,6.0,False,,,57,1:27:15.537,fastf1
+2025,24,Australia Grand Prix,Charles Leclerc,16,Ferrari,14.0,12.0,Finished,0.0,True,100.654,320.0,57,1:30:13.390,fastf1
+2025,24,Australia Grand Prix,Lewis Hamilton,44,Ferrari,10.0,9.0,Finished,2.0,False,,,57,1:31:01.755,fastf1
+2025,24,Australia Grand Prix,"Norris, Lando",4,McLaren,3.0,16.0,Finished,0.0,False,,,57,1:25:12.390,fastf1
+2025,24,Australia Grand Prix,Oscar Piastri,81,McLaren,17.0,4.0,Finished,12.0,False,,,57,1:27:52.367,fastf1
+2025,24,Australia Grand Prix,Fernando Alonso,14,Aston Martin,9.0,,Accident,,False,,,15,,fastf1
+2025,24,Australia Grand Prix,Lance Stroll,18,Aston Martin,2.0,15.0,Finished,0.0,False,,,57,1:31:41.309,fastf1
+2025,24,Australia Grand Prix,"Ocon, Esteban",31,Alpine,20.0,8.0,Finished,4.0,False,,,57,1:33:44.011,fastf1
+2025,24,Australia Grand Prix,Jack Doohan,7,Alpine,5.0,11.0,Finished,0.0,False,,,57,1:34:28.280,fastf1
+2025,24,Australia Grand Prix,"Bortoleto, Gabriel",5,Kick Sauber,4.0,3.0,Finished,15.0,False,,,57,1:26:35.463,fastf1
+2025,24,Australia Grand Prix,Nico Hulkenberg,27,Kick Sauber,18.0,,Retired,,False,,,24,,fastf1
+2025,24,Australia Grand Prix,Kevin Magnussen,20,Haas F1 Team,15.0,1.0,Finished,25.0,False,,,57,1:27:07.659,fastf1
+2025,24,Australia Grand Prix,Oliver Bearman,87,Haas F1 Team,12.0,5.0,Finished,10.0,False,,,57,1:25:10.487,fastf1
+2025,24,Australia Grand Prix,Isack Hadjar,6,Racing Bulls,8.0,13.0,Finished,0.0,False,,,57,1:34:15.940,fastf1
+2025,24,Australia Grand Prix,Yuki Tsunoda,22,Racing Bulls,11.0,14.0,Finished,0.0,False,,,57,1:33:04.567,fastf1
+2025,24,Australia Grand Prix,Alexander Albon,23,Williams,19.0,10.0,Finished,1.0,False,,,57,1:33:33.799,fastf1
+2025,24,Australia Grand Prix,Franco Colapinto,43,Williams,16.0,,Engine,,False,,,36,,fastf1

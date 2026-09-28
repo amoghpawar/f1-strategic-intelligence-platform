@@ -1,0 +1,36 @@
+constructor_id,constructor_name,team_name,nationality,season,source
+CON01,Red Bull Racing,Red Bull Racing F1 Team,Austrian,2023,formula1_official
+CON02,Mercedes,Mercedes,German,2023,formula1_official
+CON03,Ferrari,Ferrari,Italian,2023,formula1_official
+CON04,MCLAREN,McLaren,British,2023,fastf1
+CON05,Aston Martin,Aston Martin,British,2023,formula1_official
+CON06,Alpine,Alpine,French,2023,formula1_official
+CON07,WILLIAMS,Williams F1 Team,British,2023,fastf1
+CON08,AlphaTauri,AlphaTauri,Italian,2023,formula1_official
+CON08,ALPHATAURI,AlphaTauri,Italian,2023,fastf1
+CON09,Alfa Romeo,Alfa Romeo,Swiss,2023,formula1_official
+CON09,ALFA ROMEO,Alfa Romeo F1 Team,Swiss,2023,fastf1
+CON10,Haas F1 Team,Haas F1 Team,American,2023,formula1_official
+CON01,Red Bull Racing,Red Bull Racing,Austrian,2024,formula1_official
+CON01,RED BULL RACING,Red Bull Racing F1 Team,Austrian,2024,fastf1
+CON02,Mercedes,Mercedes F1 Team,German,2024,formula1_official
+CON03,FERRARI,Ferrari,Italian,2024,fastf1
+CON05,Aston Martin,Aston Martin F1 Team,British,2024,formula1_official
+CON05,ASTON MARTIN,Aston Martin,British,2024,fastf1
+CON07,Williams,Williams,British,2024,formula1_official
+CON08,RB,RB F1 Team,Italian,2024,formula1_official
+CON09,Kick Sauber,Kick Sauber,Swiss,2024,formula1_official
+CON10,Haas F1 Team,Haas F1 Team F1 Team,American,2024,formula1_official
+CON10,HAAS F1 TEAM,Haas F1 Team F1 Team,American,2024,fastf1
+CON01,Red Bull Racing,Red Bull Racing F1 Team,Austrian,2025,formula1_official
+CON02,Mercedes,Mercedes,German,2025,formula1_official
+CON02,MERCEDES,Mercedes,German,2025,fastf1
+CON04,McLaren,McLaren,British,2025,formula1_official
+CON04,MCLAREN,McLaren F1 Team,British,2025,fastf1
+CON05,Aston Martin,Aston Martin F1 Team,British,2025,formula1_official
+CON05,ASTON MARTIN,Aston Martin F1 Team,British,2025,fastf1
+CON07,Williams,Williams,British,2025,formula1_official
+CON08,Racing Bulls,Racing Bulls F1 Team,Italian,2025,formula1_official
+CON08,RACING BULLS,Racing Bulls,Italian,2025,fastf1
+CON09,KICK SAUBER,Kick Sauber,Swiss,2025,fastf1
+CON10,HAAS F1 TEAM,Haas F1 Team,American,2025,fastf1

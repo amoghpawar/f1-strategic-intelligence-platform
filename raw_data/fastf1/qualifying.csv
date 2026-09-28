@@ -1,0 +1,1425 @@
+season,race,driver,constructor,q1_time,q2_time,q3_time,qualifying_position,source
+2023,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,82.677,82.295,81.574,7,fastf1
+2023,Bahrain Grand Prix,Sergio Perez,Red Bull Racing,97.073,96.526,96.477,6,fastf1
+2023,Bahrain Grand Prix,Lewis Hamilton,Mercedes,84.297,,,20,fastf1
+2023,Bahrain Grand Prix,George Russell,Mercedes,96.344,96.33,,15,fastf1
+2023,Bahrain Grand Prix,Charles Leclerc,Ferrari,80.921,80.561,79.64,3,fastf1
+2023,Bahrain Grand Prix,Carlos Sainz,Ferrari,87.234,,,16,fastf1
+2023,Bahrain Grand Prix,Lando Norris,McLaren,108.538,,,17,fastf1
+2023,Bahrain Grand Prix,Oscar Piastri,McLaren,80.69,80.456,,11,fastf1
+2023,Bahrain Grand Prix,Fernando Alonso,Aston Martin,111.796,111.269,110.826,5,fastf1
+2023,Bahrain Grand Prix,Lance Stroll,Aston Martin,104.837,,,18,fastf1
+2023,Bahrain Grand Prix,Esteban Ocon,Alpine,100.843,100.784,99.546,2,fastf1
+2023,Bahrain Grand Prix,Pierre Gasly,Alpine,102.943,102.862,,14,fastf1
+2023,Bahrain Grand Prix,Valtteri Bottas,Alfa Romeo,84.86,84.078,84.176,4,fastf1
+2023,Bahrain Grand Prix,Zhou Guanyu,Alfa Romeo,90.53,90.305,90.001,9,fastf1
+2023,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,106.829,106.79,105.567,1,fastf1
+2023,Bahrain Grand Prix,Nico Hulkenberg,Haas F1 Team,94.77,94.562,93.627,8,fastf1
+2023,Bahrain Grand Prix,Yuki Tsunoda,AlphaTauri,98.255,97.977,97.572,10,fastf1
+2023,Bahrain Grand Prix,Daniel Ricciardo,AlphaTauri,92.993,,,19,fastf1
+2023,Bahrain Grand Prix,Alexander Albon,Williams,103.867,103.345,,12,fastf1
+2023,Bahrain Grand Prix,Logan Sargeant,Williams,110.74,110.411,,13,fastf1
+2023,Qatar Grand Prix,Max Verstappen,Red Bull Racing,84.082,,,16,fastf1
+2023,Qatar Grand Prix,Sergio Perez,Red Bull Racing,98.389,97.812,97.006,6,fastf1
+2023,Qatar Grand Prix,Lewis Hamilton,Mercedes,109.313,108.884,108.171,4,fastf1
+2023,Qatar Grand Prix,George Russell,Mercedes,102.546,101.768,101.967,2,fastf1
+2023,Qatar Grand Prix,Charles Leclerc,Ferrari,81.295,80.548,,11,fastf1
+2023,Qatar Grand Prix,Carlos Sainz,Ferrari,79.176,78.639,78.55,1,fastf1
+2023,Qatar Grand Prix,Lando Norris,McLaren,106.05,105.941,105.025,8,fastf1
+2023,Qatar Grand Prix,Oscar Piastri,McLaren,96.524,96.313,96.011,7,fastf1
+2023,Qatar Grand Prix,Fernando Alonso,Aston Martin,81.538,80.954,,14,fastf1
+2023,Qatar Grand Prix,Lance Stroll,Aston Martin,101.964,,,17,fastf1
+2023,Qatar Grand Prix,Esteban Ocon,Alpine,108.746,107.982,,15,fastf1
+2023,Qatar Grand Prix,Pierre Gasly,Alpine,78.215,77.497,76.874,5,fastf1
+2023,Qatar Grand Prix,Valtteri Bottas,Alfa Romeo,79.195,,,19,fastf1
+2023,Qatar Grand Prix,Zhou Guanyu,Alfa Romeo,91.807,91.013,90.641,10,fastf1
+2023,Qatar Grand Prix,Kevin Magnussen,Haas F1 Team,83.71,83.571,,13,fastf1
+2023,Qatar Grand Prix,Nico Hulkenberg,Haas F1 Team,79.641,78.932,78.559,9,fastf1
+2023,Qatar Grand Prix,Yuki Tsunoda,AlphaTauri,85.607,,,20,fastf1
+2023,Qatar Grand Prix,Daniel Ricciardo,AlphaTauri,100.769,,,18,fastf1
+2023,Qatar Grand Prix,Alexander Albon,Williams,110.306,109.922,,12,fastf1
+2023,Qatar Grand Prix,Logan Sargeant,Williams,89.669,89.153,88.445,3,fastf1
+2023,Italy Grand Prix,Max Verstappen,Red Bull Racing,91.038,,,18,fastf1
+2023,Italy Grand Prix,Sergio Perez,Red Bull Racing,81.804,81.749,,13,fastf1
+2023,Italy Grand Prix,Lewis Hamilton,Mercedes,81.287,81.078,80.003,1,fastf1
+2023,Italy Grand Prix,George Russell,Mercedes,87.072,,,16,fastf1
+2023,Italy Grand Prix,Charles Leclerc,Ferrari,98.009,97.266,96.968,8,fastf1
+2023,Italy Grand Prix,Carlos Sainz,Ferrari,97.317,97.074,,15,fastf1
+2023,Italy Grand Prix,Lando Norris,McLaren,86.735,,,20,fastf1
+2023,Italy Grand Prix,Oscar Piastri,McLaren,84.443,,,19,fastf1
+2023,Italy Grand Prix,Fernando Alonso,Aston Martin,89.297,89.228,88.779,4,fastf1
+2023,Italy Grand Prix,Lance Stroll,Aston Martin,104.401,104.255,103.164,5,fastf1
+2023,Italy Grand Prix,Esteban Ocon,Alpine,96.116,96.051,95.07,10,fastf1
+2023,Italy Grand Prix,Pierre Gasly,Alpine,111.604,111.18,,12,fastf1
+2023,Italy Grand Prix,Valtteri Bottas,Alfa Romeo,92.136,91.367,91.507,6,fastf1
+2023,Italy Grand Prix,Zhou Guanyu,Alfa Romeo,84.088,83.431,82.922,9,fastf1
+2023,Italy Grand Prix,Kevin Magnussen,Haas F1 Team,95.798,,,17,fastf1
+2023,Italy Grand Prix,Nico Hulkenberg,Haas F1 Team,91.366,91.302,90.673,7,fastf1
+2023,Italy Grand Prix,Yuki Tsunoda,AlphaTauri,104.08,103.922,102.99,3,fastf1
+2023,Italy Grand Prix,Daniel Ricciardo,AlphaTauri,83.223,82.717,82.329,2,fastf1
+2023,Italy Grand Prix,Alexander Albon,Williams,89.628,89.459,,14,fastf1
+2023,Italy Grand Prix,Logan Sargeant,Williams,89.5,89.466,,11,fastf1
+2023,China Grand Prix,Max Verstappen,Red Bull Racing,81.288,80.495,80.107,7,fastf1
+2023,China Grand Prix,Sergio Perez,Red Bull Racing,80.021,79.525,78.781,2,fastf1
+2023,China Grand Prix,Lewis Hamilton,Mercedes,110.857,110.512,,12,fastf1
+2023,China Grand Prix,George Russell,Mercedes,103.424,102.73,102.187,8,fastf1
+2023,China Grand Prix,Charles Leclerc,Ferrari,101.063,100.9,100.102,5,fastf1
+2023,China Grand Prix,Carlos Sainz,Ferrari,108.427,108.422,,13,fastf1
+2023,China Grand Prix,Lando Norris,McLaren,106.237,105.717,104.94,4,fastf1
+2023,China Grand Prix,Oscar Piastri,McLaren,97.803,,,19,fastf1
+2023,China Grand Prix,Fernando Alonso,Aston Martin,88.436,88.036,87.55,10,fastf1
+2023,China Grand Prix,Lance Stroll,Aston Martin,81.593,81.567,,14,fastf1
+2023,China Grand Prix,Esteban Ocon,Alpine,90.879,90.538,90.125,1,fastf1
+2023,China Grand Prix,Pierre Gasly,Alpine,90.803,,,17,fastf1
+2023,China Grand Prix,Valtteri Bottas,Alfa Romeo,81.13,80.531,80.255,6,fastf1
+2023,China Grand Prix,Zhou Guanyu,Alfa Romeo,92.282,91.532,91.572,3,fastf1
+2023,China Grand Prix,Kevin Magnussen,Haas F1 Team,102.064,101.779,100.769,9,fastf1
+2023,China Grand Prix,Nico Hulkenberg,Haas F1 Team,88.158,87.7,,11,fastf1
+2023,China Grand Prix,Yuki Tsunoda,AlphaTauri,107.436,,,20,fastf1
+2023,China Grand Prix,Daniel Ricciardo,AlphaTauri,108.3,,,18,fastf1
+2023,China Grand Prix,Alexander Albon,Williams,86.621,86.04,,15,fastf1
+2023,China Grand Prix,Logan Sargeant,Williams,103.34,,,16,fastf1
+2023,Saudi Arabia Grand Prix,Max Verstappen,Red Bull Racing,80.656,80.482,,14,fastf1
+2023,Saudi Arabia Grand Prix,Sergio Perez,Red Bull Racing,91.058,90.817,90.431,6,fastf1
+2023,Saudi Arabia Grand Prix,Lewis Hamilton,Mercedes,81.208,80.61,80.334,4,fastf1
+2023,Saudi Arabia Grand Prix,George Russell,Mercedes,84.128,83.596,,12,fastf1
+2023,Saudi Arabia Grand Prix,Charles Leclerc,Ferrari,109.91,109.464,108.614,3,fastf1
+2023,Saudi Arabia Grand Prix,Carlos Sainz,Ferrari,103.047,102.326,101.863,10,fastf1
+2023,Saudi Arabia Grand Prix,Lando Norris,McLaren,88.294,87.5,87.178,9,fastf1
+2023,Saudi Arabia Grand Prix,Oscar Piastri,McLaren,86.55,85.813,85.421,5,fastf1
+2023,Saudi Arabia Grand Prix,Fernando Alonso,Aston Martin,81.544,81.427,80.314,1,fastf1
+2023,Saudi Arabia Grand Prix,Lance Stroll,Aston Martin,102.137,101.798,,13,fastf1
+2023,Saudi Arabia Grand Prix,Esteban Ocon,Alpine,96.188,,,18,fastf1
+2023,Saudi Arabia Grand Prix,Pierre Gasly,Alpine,93.409,92.975,92.274,7,fastf1
+2023,Saudi Arabia Grand Prix,Valtteri Bottas,Alfa Romeo,90.349,89.602,,15,fastf1
+2023,Saudi Arabia Grand Prix,Zhou Guanyu,Alfa Romeo,82.984,,,17,fastf1
+2023,Saudi Arabia Grand Prix,Kevin Magnussen,Haas F1 Team,106.015,,,16,fastf1
+2023,Saudi Arabia Grand Prix,Nico Hulkenberg,Haas F1 Team,99.82,99.492,98.618,8,fastf1
+2023,Saudi Arabia Grand Prix,Yuki Tsunoda,AlphaTauri,80.402,80.401,79.51,2,fastf1
+2023,Saudi Arabia Grand Prix,Daniel Ricciardo,AlphaTauri,103.635,,,19,fastf1
+2023,Saudi Arabia Grand Prix,Alexander Albon,Williams,87.506,,,20,fastf1
+2023,Saudi Arabia Grand Prix,Logan Sargeant,Williams,81.486,81.249,,11,fastf1
+2023,Austin Grand Prix,Max Verstappen,Red Bull Racing,84.155,83.818,83.526,9,fastf1
+2023,Austin Grand Prix,Sergio Perez,Red Bull Racing,87.478,87.235,86.433,4,fastf1
+2023,Austin Grand Prix,Lewis Hamilton,Mercedes,109.157,108.689,108.243,5,fastf1
+2023,Austin Grand Prix,George Russell,Mercedes,105.078,104.952,104.203,3,fastf1
+2023,Austin Grand Prix,Charles Leclerc,Ferrari,103.447,103.022,102.546,8,fastf1
+2023,Austin Grand Prix,Carlos Sainz,Ferrari,95.519,,,18,fastf1
+2023,Austin Grand Prix,Lando Norris,McLaren,96.788,96.29,95.981,2,fastf1
+2023,Austin Grand Prix,Oscar Piastri,McLaren,110.01,109.491,,11,fastf1
+2023,Austin Grand Prix,Fernando Alonso,Aston Martin,87.868,,,20,fastf1
+2023,Austin Grand Prix,Lance Stroll,Aston Martin,91.511,91.286,90.87,6,fastf1
+2023,Austin Grand Prix,Esteban Ocon,Alpine,108.825,,,16,fastf1
+2023,Austin Grand Prix,Pierre Gasly,Alpine,107.754,107.56,,14,fastf1
+2023,Austin Grand Prix,Valtteri Bottas,Alfa Romeo,96.563,96.198,,12,fastf1
+2023,Austin Grand Prix,Zhou Guanyu,Alfa Romeo,85.366,85.303,,13,fastf1
+2023,Austin Grand Prix,Kevin Magnussen,Haas F1 Team,81.012,,,19,fastf1
+2023,Austin Grand Prix,Nico Hulkenberg,Haas F1 Team,104.696,104.015,,15,fastf1
+2023,Austin Grand Prix,Yuki Tsunoda,AlphaTauri,92.959,,,17,fastf1
+2023,Austin Grand Prix,Daniel Ricciardo,AlphaTauri,79.92,79.812,78.69,10,fastf1
+2023,Austin Grand Prix,Alexander Albon,Williams,95.274,95.03,94.762,7,fastf1
+2023,Austin Grand Prix,Logan Sargeant,Williams,98.174,98.017,97.582,1,fastf1
+2023,Netherlands Grand Prix,Max Verstappen,Red Bull Racing,103.555,102.829,102.306,4,fastf1
+2023,Netherlands Grand Prix,Sergio Perez,Red Bull Racing,95.517,,,18,fastf1
+2023,Netherlands Grand Prix,Lewis Hamilton,Mercedes,99.533,,,16,fastf1
+2023,Netherlands Grand Prix,George Russell,Mercedes,81.769,,,17,fastf1
+2023,Netherlands Grand Prix,Charles Leclerc,Ferrari,85.508,85.231,84.47,8,fastf1
+2023,Netherlands Grand Prix,Carlos Sainz,Ferrari,107.261,106.484,,13,fastf1
+2023,Netherlands Grand Prix,Lando Norris,McLaren,86.661,85.997,85.585,10,fastf1
+2023,Netherlands Grand Prix,Oscar Piastri,McLaren,80.277,79.653,,15,fastf1
+2023,Netherlands Grand Prix,Fernando Alonso,Aston Martin,89.257,88.62,,11,fastf1
+2023,Netherlands Grand Prix,Lance Stroll,Aston Martin,94.776,,,20,fastf1
+2023,Netherlands Grand Prix,Esteban Ocon,Alpine,90.466,90.267,89.779,9,fastf1
+2023,Netherlands Grand Prix,Pierre Gasly,Alpine,93.04,92.458,91.753,1,fastf1
+2023,Netherlands Grand Prix,Valtteri Bottas,Alfa Romeo,88.529,88.47,,12,fastf1
+2023,Netherlands Grand Prix,Zhou Guanyu,Alfa Romeo,94.001,93.655,92.945,7,fastf1
+2023,Netherlands Grand Prix,Kevin Magnussen,Haas F1 Team,104.181,103.492,103.347,2,fastf1
+2023,Netherlands Grand Prix,Nico Hulkenberg,Haas F1 Team,101.364,100.688,,14,fastf1
+2023,Netherlands Grand Prix,Yuki Tsunoda,AlphaTauri,107.738,107.7,106.621,3,fastf1
+2023,Netherlands Grand Prix,Daniel Ricciardo,AlphaTauri,78.876,78.644,78.343,5,fastf1
+2023,Netherlands Grand Prix,Alexander Albon,Williams,108.913,108.53,108.222,6,fastf1
+2023,Netherlands Grand Prix,Logan Sargeant,Williams,105.674,,,19,fastf1
+2023,United Kingdom Grand Prix,Max Verstappen,Red Bull Racing,83.007,82.89,81.63,4,fastf1
+2023,United Kingdom Grand Prix,Sergio Perez,Red Bull Racing,85.69,85.592,84.637,6,fastf1
+2023,United Kingdom Grand Prix,Lewis Hamilton,Mercedes,97.533,96.993,96.263,3,fastf1
+2023,United Kingdom Grand Prix,George Russell,Mercedes,90.361,,,20,fastf1
+2023,United Kingdom Grand Prix,Charles Leclerc,Ferrari,86.681,86.096,85.492,7,fastf1
+2023,United Kingdom Grand Prix,Carlos Sainz,Ferrari,111.817,,,18,fastf1
+2023,United Kingdom Grand Prix,Lando Norris,McLaren,91.696,91.001,,13,fastf1
+2023,United Kingdom Grand Prix,Oscar Piastri,McLaren,94.359,94.135,93.589,8,fastf1
+2023,United Kingdom Grand Prix,Fernando Alonso,Aston Martin,100.021,99.853,98.915,1,fastf1
+2023,United Kingdom Grand Prix,Lance Stroll,Aston Martin,79.139,78.49,,11,fastf1
+2023,United Kingdom Grand Prix,Esteban Ocon,Alpine,105.08,104.662,104.353,9,fastf1
+2023,United Kingdom Grand Prix,Pierre Gasly,Alpine,96.437,95.76,,15,fastf1
+2023,United Kingdom Grand Prix,Valtteri Bottas,Alfa Romeo,99.4,,,19,fastf1
+2023,United Kingdom Grand Prix,Zhou Guanyu,Alfa Romeo,95.21,94.839,94.631,10,fastf1
+2023,United Kingdom Grand Prix,Kevin Magnussen,Haas F1 Team,78.059,77.327,76.823,5,fastf1
+2023,United Kingdom Grand Prix,Nico Hulkenberg,Haas F1 Team,83.174,83.143,81.859,2,fastf1
+2023,United Kingdom Grand Prix,Yuki Tsunoda,AlphaTauri,78.605,,,17,fastf1
+2023,United Kingdom Grand Prix,Daniel Ricciardo,AlphaTauri,111.45,111.07,,14,fastf1
+2023,United Kingdom Grand Prix,Alexander Albon,Williams,79.748,79.067,,12,fastf1
+2023,United Kingdom Grand Prix,Logan Sargeant,Williams,90.283,,,16,fastf1
+2023,Miami Grand Prix,Max Verstappen,Red Bull Racing,103.321,102.832,102.672,1,fastf1
+2023,Miami Grand Prix,Sergio Perez,Red Bull Racing,103.386,103.214,,12,fastf1
+2023,Miami Grand Prix,Lewis Hamilton,Mercedes,80.447,,,19,fastf1
+2023,Miami Grand Prix,George Russell,Mercedes,81.147,80.391,79.747,2,fastf1
+2023,Miami Grand Prix,Charles Leclerc,Ferrari,89.942,89.442,88.557,8,fastf1
+2023,Miami Grand Prix,Carlos Sainz,Ferrari,104.761,,,17,fastf1
+2023,Miami Grand Prix,Lando Norris,McLaren,90.747,90.434,,14,fastf1
+2023,Miami Grand Prix,Oscar Piastri,McLaren,80.94,80.664,79.999,10,fastf1
+2023,Miami Grand Prix,Fernando Alonso,Aston Martin,102.585,102.185,101.767,4,fastf1
+2023,Miami Grand Prix,Lance Stroll,Aston Martin,108.606,108.261,107.887,6,fastf1
+2023,Miami Grand Prix,Esteban Ocon,Alpine,92.853,92.255,,13,fastf1
+2023,Miami Grand Prix,Pierre Gasly,Alpine,86.941,86.642,86.404,7,fastf1
+2023,Miami Grand Prix,Valtteri Bottas,Alfa Romeo,89.857,89.539,,11,fastf1
+2023,Miami Grand Prix,Zhou Guanyu,Alfa Romeo,108.041,107.841,106.835,9,fastf1
+2023,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,98.14,,,20,fastf1
+2023,Miami Grand Prix,Nico Hulkenberg,Haas F1 Team,98.032,97.658,,15,fastf1
+2023,Miami Grand Prix,Yuki Tsunoda,AlphaTauri,80.126,,,16,fastf1
+2023,Miami Grand Prix,Daniel Ricciardo,AlphaTauri,78.605,78.391,77.588,3,fastf1
+2023,Miami Grand Prix,Alexander Albon,Williams,104.133,,,18,fastf1
+2023,Miami Grand Prix,Logan Sargeant,Williams,97.712,97.009,96.747,5,fastf1
+2023,Hungary Grand Prix,Max Verstappen,Red Bull Racing,81.998,81.536,81.013,3,fastf1
+2023,Hungary Grand Prix,Sergio Perez,Red Bull Racing,97.564,96.965,96.396,1,fastf1
+2023,Hungary Grand Prix,Lewis Hamilton,Mercedes,103.293,,,18,fastf1
+2023,Hungary Grand Prix,George Russell,Mercedes,98.208,97.589,,11,fastf1
+2023,Hungary Grand Prix,Charles Leclerc,Ferrari,95.225,94.641,93.999,5,fastf1
+2023,Hungary Grand Prix,Carlos Sainz,Ferrari,104.258,103.601,103.638,8,fastf1
+2023,Hungary Grand Prix,Lando Norris,McLaren,107.941,107.394,,13,fastf1
+2023,Hungary Grand Prix,Oscar Piastri,McLaren,104.364,104.27,,12,fastf1
+2023,Hungary Grand Prix,Fernando Alonso,Aston Martin,82.121,81.839,,14,fastf1
+2023,Hungary Grand Prix,Lance Stroll,Aston Martin,92.647,,,20,fastf1
+2023,Hungary Grand Prix,Esteban Ocon,Alpine,101.586,101.045,101.076,9,fastf1
+2023,Hungary Grand Prix,Pierre Gasly,Alpine,89.103,,,17,fastf1
+2023,Hungary Grand Prix,Valtteri Bottas,Alfa Romeo,106.193,106.146,105.248,4,fastf1
+2023,Hungary Grand Prix,Zhou Guanyu,Alfa Romeo,83.162,83.091,,15,fastf1
+2023,Hungary Grand Prix,Kevin Magnussen,Haas F1 Team,87.535,87.416,86.82,2,fastf1
+2023,Hungary Grand Prix,Nico Hulkenberg,Haas F1 Team,96.355,96.202,95.101,6,fastf1
+2023,Hungary Grand Prix,Yuki Tsunoda,AlphaTauri,89.519,89.239,88.539,7,fastf1
+2023,Hungary Grand Prix,Daniel Ricciardo,AlphaTauri,81.752,,,19,fastf1
+2023,Hungary Grand Prix,Alexander Albon,Williams,86.163,,,16,fastf1
+2023,Hungary Grand Prix,Logan Sargeant,Williams,107.939,107.152,106.645,10,fastf1
+2023,Brazil Grand Prix,Max Verstappen,Red Bull Racing,111.113,110.535,109.861,10,fastf1
+2023,Brazil Grand Prix,Sergio Perez,Red Bull Racing,81.845,81.549,,14,fastf1
+2023,Brazil Grand Prix,Lewis Hamilton,Mercedes,86.456,86.216,,12,fastf1
+2023,Brazil Grand Prix,George Russell,Mercedes,104.869,,,17,fastf1
+2023,Brazil Grand Prix,Charles Leclerc,Ferrari,86.953,86.719,85.976,6,fastf1
+2023,Brazil Grand Prix,Carlos Sainz,Ferrari,100.039,99.423,99.33,2,fastf1
+2023,Brazil Grand Prix,Lando Norris,McLaren,96.497,,,19,fastf1
+2023,Brazil Grand Prix,Oscar Piastri,McLaren,84.933,84.581,84.002,4,fastf1
+2023,Brazil Grand Prix,Fernando Alonso,Aston Martin,88.661,,,16,fastf1
+2023,Brazil Grand Prix,Lance Stroll,Aston Martin,94.444,93.973,93.206,1,fastf1
+2023,Brazil Grand Prix,Esteban Ocon,Alpine,80.14,79.773,,11,fastf1
+2023,Brazil Grand Prix,Pierre Gasly,Alpine,85.73,,,20,fastf1
+2023,Brazil Grand Prix,Valtteri Bottas,Alfa Romeo,81.566,80.818,,13,fastf1
+2023,Brazil Grand Prix,Zhou Guanyu,Alfa Romeo,92.812,,,18,fastf1
+2023,Brazil Grand Prix,Kevin Magnussen,Haas F1 Team,79.643,79.417,78.917,8,fastf1
+2023,Brazil Grand Prix,Nico Hulkenberg,Haas F1 Team,111.295,110.888,109.938,9,fastf1
+2023,Brazil Grand Prix,Yuki Tsunoda,AlphaTauri,88.51,88.189,87.467,7,fastf1
+2023,Brazil Grand Prix,Daniel Ricciardo,AlphaTauri,91.945,91.258,,15,fastf1
+2023,Brazil Grand Prix,Alexander Albon,Williams,100.053,99.66,99.467,5,fastf1
+2023,Brazil Grand Prix,Logan Sargeant,Williams,111.158,110.741,110.205,3,fastf1
+2023,Belgium Grand Prix,Max Verstappen,Red Bull Racing,82.218,81.854,,11,fastf1
+2023,Belgium Grand Prix,Sergio Perez,Red Bull Racing,88.883,88.704,,12,fastf1
+2023,Belgium Grand Prix,Lewis Hamilton,Mercedes,107.192,107.131,106.41,9,fastf1
+2023,Belgium Grand Prix,George Russell,Mercedes,83.845,83.131,83.249,8,fastf1
+2023,Belgium Grand Prix,Charles Leclerc,Ferrari,83.417,82.95,82.15,5,fastf1
+2023,Belgium Grand Prix,Carlos Sainz,Ferrari,106.341,106.252,105.379,7,fastf1
+2023,Belgium Grand Prix,Lando Norris,McLaren,82.581,82.099,,14,fastf1
+2023,Belgium Grand Prix,Oscar Piastri,McLaren,107.746,107.632,106.921,2,fastf1
+2023,Belgium Grand Prix,Fernando Alonso,Aston Martin,84.535,83.842,83.93,6,fastf1
+2023,Belgium Grand Prix,Lance Stroll,Aston Martin,104.376,104.22,103.581,1,fastf1
+2023,Belgium Grand Prix,Esteban Ocon,Alpine,100.571,100.169,100.027,4,fastf1
+2023,Belgium Grand Prix,Pierre Gasly,Alpine,93.78,93.114,92.682,3,fastf1
+2023,Belgium Grand Prix,Valtteri Bottas,Alfa Romeo,110.876,,,19,fastf1
+2023,Belgium Grand Prix,Zhou Guanyu,Alfa Romeo,102.152,,,18,fastf1
+2023,Belgium Grand Prix,Kevin Magnussen,Haas F1 Team,103.651,,,20,fastf1
+2023,Belgium Grand Prix,Nico Hulkenberg,Haas F1 Team,91.885,91.536,,13,fastf1
+2023,Belgium Grand Prix,Yuki Tsunoda,AlphaTauri,102.411,,,16,fastf1
+2023,Belgium Grand Prix,Daniel Ricciardo,AlphaTauri,94.034,93.391,92.834,10,fastf1
+2023,Belgium Grand Prix,Alexander Albon,Williams,90.226,,,17,fastf1
+2023,Belgium Grand Prix,Logan Sargeant,Williams,110.69,110.473,,15,fastf1
+2023,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,96.257,95.751,95.724,7,fastf1
+2023,Azerbaijan Grand Prix,Sergio Perez,Red Bull Racing,102.401,101.8,,15,fastf1
+2023,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,88.861,88.81,87.499,1,fastf1
+2023,Azerbaijan Grand Prix,George Russell,Mercedes,108.354,107.76,107.007,2,fastf1
+2023,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,106.189,105.954,,12,fastf1
+2023,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,97.639,97.46,96.324,3,fastf1
+2023,Azerbaijan Grand Prix,Lando Norris,McLaren,90.275,89.969,89.771,6,fastf1
+2023,Azerbaijan Grand Prix,Oscar Piastri,McLaren,86.728,86.363,85.853,8,fastf1
+2023,Azerbaijan Grand Prix,Fernando Alonso,Aston Martin,87.868,87.711,87.101,5,fastf1
+2023,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,103.215,,,19,fastf1
+2023,Azerbaijan Grand Prix,Esteban Ocon,Alpine,81.12,,,20,fastf1
+2023,Azerbaijan Grand Prix,Pierre Gasly,Alpine,95.762,95.607,,14,fastf1
+2023,Azerbaijan Grand Prix,Valtteri Bottas,Alfa Romeo,87.644,,,17,fastf1
+2023,Azerbaijan Grand Prix,Zhou Guanyu,Alfa Romeo,106.736,,,16,fastf1
+2023,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,100.387,99.787,,11,fastf1
+2023,Azerbaijan Grand Prix,Nico Hulkenberg,Haas F1 Team,78.649,,,18,fastf1
+2023,Azerbaijan Grand Prix,Yuki Tsunoda,AlphaTauri,106.917,106.39,105.76,9,fastf1
+2023,Azerbaijan Grand Prix,Daniel Ricciardo,AlphaTauri,84.095,83.866,,13,fastf1
+2023,Azerbaijan Grand Prix,Alexander Albon,Williams,96.88,96.207,95.939,10,fastf1
+2023,Azerbaijan Grand Prix,Logan Sargeant,Williams,93.973,93.433,92.915,4,fastf1
+2023,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing,87.429,86.633,86.453,3,fastf1
+2023,Las Vegas Grand Prix,Sergio Perez,Red Bull Racing,104.086,103.74,,11,fastf1
+2023,Las Vegas Grand Prix,Lewis Hamilton,Mercedes,85.377,84.608,84.217,9,fastf1
+2023,Las Vegas Grand Prix,George Russell,Mercedes,95.871,,,20,fastf1
+2023,Las Vegas Grand Prix,Charles Leclerc,Ferrari,89.774,89.586,89.1,5,fastf1
+2023,Las Vegas Grand Prix,Carlos Sainz,Ferrari,81.242,80.633,,14,fastf1
+2023,Las Vegas Grand Prix,Lando Norris,McLaren,107.506,,,16,fastf1
+2023,Las Vegas Grand Prix,Oscar Piastri,McLaren,80.638,80.308,79.617,8,fastf1
+2023,Las Vegas Grand Prix,Fernando Alonso,Aston Martin,102.546,101.902,101.15,1,fastf1
+2023,Las Vegas Grand Prix,Lance Stroll,Aston Martin,88.537,,,18,fastf1
+2023,Las Vegas Grand Prix,Esteban Ocon,Alpine,107.516,,,19,fastf1
+2023,Las Vegas Grand Prix,Pierre Gasly,Alpine,89.079,88.742,87.766,2,fastf1
+2023,Las Vegas Grand Prix,Valtteri Bottas,Alfa Romeo,80.985,80.618,79.626,6,fastf1
+2023,Las Vegas Grand Prix,Zhou Guanyu,Alfa Romeo,109.149,,,17,fastf1
+2023,Las Vegas Grand Prix,Kevin Magnussen,Haas F1 Team,83.309,82.615,82.292,10,fastf1
+2023,Las Vegas Grand Prix,Nico Hulkenberg,Haas F1 Team,78.588,77.8,,13,fastf1
+2023,Las Vegas Grand Prix,Yuki Tsunoda,AlphaTauri,82.336,82.304,,12,fastf1
+2023,Las Vegas Grand Prix,Daniel Ricciardo,AlphaTauri,107.647,107.645,,15,fastf1
+2023,Las Vegas Grand Prix,Alexander Albon,Williams,85.05,84.961,83.75,4,fastf1
+2023,Las Vegas Grand Prix,Logan Sargeant,Williams,105.768,105.734,105.153,7,fastf1
+2023,Singapore Grand Prix,Max Verstappen,Red Bull Racing,107.961,107.571,,15,fastf1
+2023,Singapore Grand Prix,Sergio Perez,Red Bull Racing,90.484,,,17,fastf1
+2023,Singapore Grand Prix,Lewis Hamilton,Mercedes,83.165,82.482,82.242,4,fastf1
+2023,Singapore Grand Prix,George Russell,Mercedes,94.322,94.043,92.949,8,fastf1
+2023,Singapore Grand Prix,Charles Leclerc,Ferrari,86.129,85.523,85.54,6,fastf1
+2023,Singapore Grand Prix,Carlos Sainz,Ferrari,103.099,,,19,fastf1
+2023,Singapore Grand Prix,Lando Norris,McLaren,83.211,83.092,82.398,9,fastf1
+2023,Singapore Grand Prix,Oscar Piastri,McLaren,106.028,,,16,fastf1
+2023,Singapore Grand Prix,Fernando Alonso,Aston Martin,101.44,101.393,,11,fastf1
+2023,Singapore Grand Prix,Lance Stroll,Aston Martin,102.889,102.619,102.123,5,fastf1
+2023,Singapore Grand Prix,Esteban Ocon,Alpine,82.426,,,20,fastf1
+2023,Singapore Grand Prix,Pierre Gasly,Alpine,82.02,81.248,81.437,10,fastf1
+2023,Singapore Grand Prix,Valtteri Bottas,Alfa Romeo,105.688,104.89,,12,fastf1
+2023,Singapore Grand Prix,Zhou Guanyu,Alfa Romeo,88.42,,,18,fastf1
+2023,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,110.968,110.765,,14,fastf1
+2023,Singapore Grand Prix,Nico Hulkenberg,Haas F1 Team,91.879,91.095,,13,fastf1
+2023,Singapore Grand Prix,Yuki Tsunoda,AlphaTauri,83.713,82.926,83.171,3,fastf1
+2023,Singapore Grand Prix,Daniel Ricciardo,AlphaTauri,82.928,82.599,81.616,7,fastf1
+2023,Singapore Grand Prix,Alexander Albon,Williams,108.591,108.458,107.779,1,fastf1
+2023,Singapore Grand Prix,Logan Sargeant,Williams,105.618,104.962,104.986,2,fastf1
+2023,Monaco Grand Prix,Max Verstappen,Red Bull Racing,104.244,103.894,102.863,9,fastf1
+2023,Monaco Grand Prix,Sergio Perez,Red Bull Racing,105.187,104.954,,15,fastf1
+2023,Monaco Grand Prix,Lewis Hamilton,Mercedes,85.652,,,18,fastf1
+2023,Monaco Grand Prix,George Russell,Mercedes,78.616,,,20,fastf1
+2023,Monaco Grand Prix,Charles Leclerc,Ferrari,101.449,100.701,100.85,1,fastf1
+2023,Monaco Grand Prix,Carlos Sainz,Ferrari,90.314,90.014,89.703,2,fastf1
+2023,Monaco Grand Prix,Lando Norris,McLaren,108.741,108.411,,11,fastf1
+2023,Monaco Grand Prix,Oscar Piastri,McLaren,107.95,107.563,,13,fastf1
+2023,Monaco Grand Prix,Fernando Alonso,Aston Martin,104.761,,,16,fastf1
+2023,Monaco Grand Prix,Lance Stroll,Aston Martin,107.095,106.837,106.447,8,fastf1
+2023,Monaco Grand Prix,Esteban Ocon,Alpine,87.026,86.231,86.162,3,fastf1
+2023,Monaco Grand Prix,Pierre Gasly,Alpine,83.472,,,17,fastf1
+2023,Monaco Grand Prix,Valtteri Bottas,Alfa Romeo,100.04,99.729,98.743,6,fastf1
+2023,Monaco Grand Prix,Zhou Guanyu,Alfa Romeo,97.557,97.331,96.479,4,fastf1
+2023,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,87.016,,,19,fastf1
+2023,Monaco Grand Prix,Nico Hulkenberg,Haas F1 Team,111.975,111.478,110.755,5,fastf1
+2023,Monaco Grand Prix,Yuki Tsunoda,AlphaTauri,92.6,91.956,,14,fastf1
+2023,Monaco Grand Prix,Daniel Ricciardo,AlphaTauri,78.374,78.074,77.185,7,fastf1
+2023,Monaco Grand Prix,Alexander Albon,Williams,100.037,99.908,,12,fastf1
+2023,Monaco Grand Prix,Logan Sargeant,Williams,87.5,87.131,86.376,10,fastf1
+2023,Canada Grand Prix,Max Verstappen,Red Bull Racing,94.306,93.845,,11,fastf1
+2023,Canada Grand Prix,Sergio Perez,Red Bull Racing,99.529,,,17,fastf1
+2023,Canada Grand Prix,Lewis Hamilton,Mercedes,85.479,85.431,,14,fastf1
+2023,Canada Grand Prix,George Russell,Mercedes,94.101,,,18,fastf1
+2023,Canada Grand Prix,Charles Leclerc,Ferrari,88.518,88.087,87.648,10,fastf1
+2023,Canada Grand Prix,Carlos Sainz,Ferrari,102.214,101.434,101.423,3,fastf1
+2023,Canada Grand Prix,Lando Norris,McLaren,91.528,91.193,90.332,2,fastf1
+2023,Canada Grand Prix,Oscar Piastri,McLaren,94.283,,,16,fastf1
+2023,Canada Grand Prix,Fernando Alonso,Aston Martin,97.062,97.03,96.466,1,fastf1
+2023,Canada Grand Prix,Lance Stroll,Aston Martin,84.352,84.277,83.107,4,fastf1
+2023,Canada Grand Prix,Esteban Ocon,Alpine,88.99,88.374,88.244,7,fastf1
+2023,Canada Grand Prix,Pierre Gasly,Alpine,99.807,99.66,,15,fastf1
+2023,Canada Grand Prix,Valtteri Bottas,Alfa Romeo,86.555,86.108,,12,fastf1
+2023,Canada Grand Prix,Zhou Guanyu,Alfa Romeo,93.365,93.09,91.975,6,fastf1
+2023,Canada Grand Prix,Kevin Magnussen,Haas F1 Team,87.564,,,19,fastf1
+2023,Canada Grand Prix,Nico Hulkenberg,Haas F1 Team,80.618,,,20,fastf1
+2023,Canada Grand Prix,Yuki Tsunoda,AlphaTauri,97.113,97.076,95.918,5,fastf1
+2023,Canada Grand Prix,Daniel Ricciardo,AlphaTauri,103.444,102.792,102.106,9,fastf1
+2023,Canada Grand Prix,Alexander Albon,Williams,110.348,110.166,,13,fastf1
+2023,Canada Grand Prix,Logan Sargeant,Williams,104.124,103.45,103.322,8,fastf1
+2023,Austria Grand Prix,Max Verstappen,Red Bull Racing,98.671,98.64,98.037,4,fastf1
+2023,Austria Grand Prix,Sergio Perez,Red Bull Racing,110.334,109.989,109.508,6,fastf1
+2023,Austria Grand Prix,Lewis Hamilton,Mercedes,87.777,,,20,fastf1
+2023,Austria Grand Prix,George Russell,Mercedes,95.558,95.212,94.78,7,fastf1
+2023,Austria Grand Prix,Charles Leclerc,Ferrari,82.264,82.087,,12,fastf1
+2023,Austria Grand Prix,Carlos Sainz,Ferrari,98.095,97.76,96.711,5,fastf1
+2023,Austria Grand Prix,Lando Norris,McLaren,109.01,108.615,107.643,9,fastf1
+2023,Austria Grand Prix,Oscar Piastri,McLaren,81.829,81.228,,13,fastf1
+2023,Austria Grand Prix,Fernando Alonso,Aston Martin,94.561,93.849,93.459,2,fastf1
+2023,Austria Grand Prix,Lance Stroll,Aston Martin,91.201,,,18,fastf1
+2023,Austria Grand Prix,Esteban Ocon,Alpine,95.652,,,19,fastf1
+2023,Austria Grand Prix,Pierre Gasly,Alpine,93.873,,,16,fastf1
+2023,Austria Grand Prix,Valtteri Bottas,Alfa Romeo,99.323,99.074,98.731,3,fastf1
+2023,Austria Grand Prix,Zhou Guanyu,Alfa Romeo,106.202,105.807,,11,fastf1
+2023,Austria Grand Prix,Kevin Magnussen,Haas F1 Team,107.064,106.757,106.113,8,fastf1
+2023,Austria Grand Prix,Nico Hulkenberg,Haas F1 Team,88.185,87.574,87.202,10,fastf1
+2023,Austria Grand Prix,Yuki Tsunoda,AlphaTauri,94.862,94.404,,15,fastf1
+2023,Austria Grand Prix,Daniel Ricciardo,AlphaTauri,100.02,99.819,,14,fastf1
+2023,Austria Grand Prix,Alexander Albon,Williams,85.117,84.785,84.594,1,fastf1
+2023,Austria Grand Prix,Logan Sargeant,Williams,88.341,,,17,fastf1
+2023,Spain Grand Prix,Max Verstappen,Red Bull Racing,91.135,90.858,89.778,6,fastf1
+2023,Spain Grand Prix,Sergio Perez,Red Bull Racing,99.983,99.471,98.628,7,fastf1
+2023,Spain Grand Prix,Lewis Hamilton,Mercedes,85.975,,,16,fastf1
+2023,Spain Grand Prix,George Russell,Mercedes,110.976,,,17,fastf1
+2023,Spain Grand Prix,Charles Leclerc,Ferrari,80.248,79.749,79.251,9,fastf1
+2023,Spain Grand Prix,Carlos Sainz,Ferrari,99.67,99.108,98.63,1,fastf1
+2023,Spain Grand Prix,Lando Norris,McLaren,82.256,,,20,fastf1
+2023,Spain Grand Prix,Oscar Piastri,McLaren,99.508,98.782,,14,fastf1
+2023,Spain Grand Prix,Fernando Alonso,Aston Martin,104.666,104.567,103.734,3,fastf1
+2023,Spain Grand Prix,Lance Stroll,Aston Martin,105.779,105.031,104.843,5,fastf1
+2023,Spain Grand Prix,Esteban Ocon,Alpine,91.34,91.231,,13,fastf1
+2023,Spain Grand Prix,Pierre Gasly,Alpine,91.29,91.072,,11,fastf1
+2023,Spain Grand Prix,Valtteri Bottas,Alfa Romeo,97.449,96.861,96.563,10,fastf1
+2023,Spain Grand Prix,Zhou Guanyu,Alfa Romeo,85.671,85.228,84.472,4,fastf1
+2023,Spain Grand Prix,Kevin Magnussen,Haas F1 Team,80.921,,,19,fastf1
+2023,Spain Grand Prix,Nico Hulkenberg,Haas F1 Team,83.947,,,18,fastf1
+2023,Spain Grand Prix,Yuki Tsunoda,AlphaTauri,87.776,87.442,86.533,2,fastf1
+2023,Spain Grand Prix,Daniel Ricciardo,AlphaTauri,96.185,95.608,,12,fastf1
+2023,Spain Grand Prix,Alexander Albon,Williams,82.922,82.219,,15,fastf1
+2023,Spain Grand Prix,Logan Sargeant,Williams,88.395,88.129,87.59,8,fastf1
+2023,UAE Grand Prix,Max Verstappen,Red Bull Racing,85.849,85.212,84.982,5,fastf1
+2023,UAE Grand Prix,Sergio Perez,Red Bull Racing,101.804,101.013,100.712,6,fastf1
+2023,UAE Grand Prix,Lewis Hamilton,Mercedes,86.267,,,16,fastf1
+2023,UAE Grand Prix,George Russell,Mercedes,91.34,91.115,,13,fastf1
+2023,UAE Grand Prix,Charles Leclerc,Ferrari,92.792,,,20,fastf1
+2023,UAE Grand Prix,Carlos Sainz,Ferrari,103.853,103.81,102.534,2,fastf1
+2023,UAE Grand Prix,Lando Norris,McLaren,82.718,82.297,,14,fastf1
+2023,UAE Grand Prix,Oscar Piastri,McLaren,96.991,96.318,,15,fastf1
+2023,UAE Grand Prix,Fernando Alonso,Aston Martin,78.013,77.902,76.723,9,fastf1
+2023,UAE Grand Prix,Lance Stroll,Aston Martin,108.209,107.683,107.283,8,fastf1
+2023,UAE Grand Prix,Esteban Ocon,Alpine,110.147,109.798,,12,fastf1
+2023,UAE Grand Prix,Pierre Gasly,Alpine,101.69,,,17,fastf1
+2023,UAE Grand Prix,Valtteri Bottas,Alfa Romeo,92.748,92.469,91.979,4,fastf1
+2023,UAE Grand Prix,Zhou Guanyu,Alfa Romeo,81.567,80.864,80.348,7,fastf1
+2023,UAE Grand Prix,Kevin Magnussen,Haas F1 Team,99.931,99.26,98.721,1,fastf1
+2023,UAE Grand Prix,Nico Hulkenberg,Haas F1 Team,107.369,,,18,fastf1
+2023,UAE Grand Prix,Yuki Tsunoda,AlphaTauri,85.997,85.807,85.199,10,fastf1
+2023,UAE Grand Prix,Daniel Ricciardo,AlphaTauri,100.781,,,19,fastf1
+2023,UAE Grand Prix,Alexander Albon,Williams,86.23,85.862,,11,fastf1
+2023,UAE Grand Prix,Logan Sargeant,Williams,104.617,104.493,104.006,3,fastf1
+2023,Australia Grand Prix,Max Verstappen,Red Bull Racing,86.1,86.081,85.164,2,fastf1
+2023,Australia Grand Prix,Sergio Perez,Red Bull Racing,91.514,91.394,90.955,7,fastf1
+2023,Australia Grand Prix,Lewis Hamilton,Mercedes,96.942,96.453,,13,fastf1
+2023,Australia Grand Prix,George Russell,Mercedes,102.731,,,18,fastf1
+2023,Australia Grand Prix,Charles Leclerc,Ferrari,111.899,,,19,fastf1
+2023,Australia Grand Prix,Carlos Sainz,Ferrari,95.958,95.945,94.67,3,fastf1
+2023,Australia Grand Prix,Lando Norris,McLaren,93.067,92.58,92.114,6,fastf1
+2023,Australia Grand Prix,Oscar Piastri,McLaren,80.871,80.588,,15,fastf1
+2023,Australia Grand Prix,Fernando Alonso,Aston Martin,101.929,,,16,fastf1
+2023,Australia Grand Prix,Lance Stroll,Aston Martin,108.265,,,20,fastf1
+2023,Australia Grand Prix,Esteban Ocon,Alpine,108.307,107.767,107.728,1,fastf1
+2023,Australia Grand Prix,Pierre Gasly,Alpine,98.707,98.419,97.848,8,fastf1
+2023,Australia Grand Prix,Valtteri Bottas,Alfa Romeo,85.381,85.25,84.667,4,fastf1
+2023,Australia Grand Prix,Zhou Guanyu,Alfa Romeo,84.752,84.149,,12,fastf1
+2023,Australia Grand Prix,Kevin Magnussen,Haas F1 Team,97.396,96.675,96.534,5,fastf1
+2023,Australia Grand Prix,Nico Hulkenberg,Haas F1 Team,109.98,109.299,108.924,9,fastf1
+2023,Australia Grand Prix,Yuki Tsunoda,AlphaTauri,108.511,108.105,,11,fastf1
+2023,Australia Grand Prix,Daniel Ricciardo,AlphaTauri,86.262,85.995,85.426,10,fastf1
+2023,Australia Grand Prix,Alexander Albon,Williams,86.655,,,17,fastf1
+2023,Australia Grand Prix,Logan Sargeant,Williams,110.907,110.209,,14,fastf1
+2023,Japan Grand Prix,Max Verstappen,Red Bull Racing,82.211,,,18,fastf1
+2023,Japan Grand Prix,Sergio Perez,Red Bull Racing,79.336,,,17,fastf1
+2023,Japan Grand Prix,Lewis Hamilton,Mercedes,91.884,91.721,91.023,6,fastf1
+2023,Japan Grand Prix,George Russell,Mercedes,94.128,94.105,,14,fastf1
+2023,Japan Grand Prix,Charles Leclerc,Ferrari,95.541,94.787,,15,fastf1
+2023,Japan Grand Prix,Carlos Sainz,Ferrari,87.788,87.554,86.485,9,fastf1
+2023,Japan Grand Prix,Lando Norris,McLaren,80.624,80.206,79.494,10,fastf1
+2023,Japan Grand Prix,Oscar Piastri,McLaren,79.824,79.713,,11,fastf1
+2023,Japan Grand Prix,Fernando Alonso,Aston Martin,102.995,,,19,fastf1
+2023,Japan Grand Prix,Lance Stroll,Aston Martin,87.982,87.967,87.097,3,fastf1
+2023,Japan Grand Prix,Esteban Ocon,Alpine,93.296,92.907,92.678,4,fastf1
+2023,Japan Grand Prix,Pierre Gasly,Alpine,90.823,90.205,90.113,2,fastf1
+2023,Japan Grand Prix,Valtteri Bottas,Alfa Romeo,81.55,80.999,80.83,5,fastf1
+2023,Japan Grand Prix,Zhou Guanyu,Alfa Romeo,88.393,87.845,,13,fastf1
+2023,Japan Grand Prix,Kevin Magnussen,Haas F1 Team,97.074,96.686,96.405,7,fastf1
+2023,Japan Grand Prix,Nico Hulkenberg,Haas F1 Team,106.855,,,16,fastf1
+2023,Japan Grand Prix,Yuki Tsunoda,AlphaTauri,108.298,108.041,107.259,1,fastf1
+2023,Japan Grand Prix,Daniel Ricciardo,AlphaTauri,106.969,,,20,fastf1
+2023,Japan Grand Prix,Alexander Albon,Williams,90.771,90.079,,12,fastf1
+2023,Japan Grand Prix,Logan Sargeant,Williams,78.976,78.489,77.828,8,fastf1
+2024,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,109.606,,,17,fastf1
+2024,Bahrain Grand Prix,Sergio Perez,Red Bull Racing,92.265,,,16,fastf1
+2024,Bahrain Grand Prix,Lewis Hamilton,Mercedes,108.932,108.443,108.115,5,fastf1
+2024,Bahrain Grand Prix,George Russell,Mercedes,90.238,89.806,89.065,6,fastf1
+2024,Bahrain Grand Prix,Charles Leclerc,Ferrari,93.79,93.197,,14,fastf1
+2024,Bahrain Grand Prix,Carlos Sainz,Ferrari,102.771,102.142,,12,fastf1
+2024,Bahrain Grand Prix,Lando Norris,McLaren,101.403,101.053,,13,fastf1
+2024,Bahrain Grand Prix,Oscar Piastri,McLaren,82.646,82.603,81.91,8,fastf1
+2024,Bahrain Grand Prix,Fernando Alonso,Aston Martin,82.122,81.682,81.135,4,fastf1
+2024,Bahrain Grand Prix,Lance Stroll,Aston Martin,90.58,90.508,89.667,10,fastf1
+2024,Bahrain Grand Prix,Esteban Ocon,Alpine,92.594,92.593,91.895,1,fastf1
+2024,Bahrain Grand Prix,Pierre Gasly,Alpine,85.08,,,19,fastf1
+2024,Bahrain Grand Prix,Valtteri Bottas,Kick Sauber,80.211,79.702,79.01,2,fastf1
+2024,Bahrain Grand Prix,Zhou Guanyu,Kick Sauber,99.145,99.092,98.595,3,fastf1
+2024,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,97.413,,,18,fastf1
+2024,Bahrain Grand Prix,Nico Hulkenberg,Haas F1 Team,96.171,,,21,fastf1
+2024,Bahrain Grand Prix,Yuki Tsunoda,RB,104.281,103.73,103.529,9,fastf1
+2024,Bahrain Grand Prix,Liam Lawson,RB,82.207,81.699,,15,fastf1
+2024,Bahrain Grand Prix,Alexander Albon,Williams,84.594,83.848,,11,fastf1
+2024,Bahrain Grand Prix,Franco Colapinto,Williams,90.143,90.019,89.579,7,fastf1
+2024,Bahrain Grand Prix,Oliver Bearman,Haas F1 Team,100.536,,,20,fastf1
+2024,Australia Grand Prix,Max Verstappen,Red Bull Racing,107.714,107.639,106.358,8,fastf1
+2024,Australia Grand Prix,Sergio Perez,Red Bull Racing,80.697,80.647,,11,fastf1
+2024,Australia Grand Prix,Lewis Hamilton,Mercedes,84.728,,,19,fastf1
+2024,Australia Grand Prix,George Russell,Mercedes,102.664,102.104,101.901,2,fastf1
+2024,Australia Grand Prix,Charles Leclerc,Ferrari,93.794,93.67,93.079,7,fastf1
+2024,Australia Grand Prix,Carlos Sainz,Ferrari,79.738,79.039,,14,fastf1
+2024,Australia Grand Prix,Lando Norris,McLaren,97.49,96.869,96.235,4,fastf1
+2024,Australia Grand Prix,Oscar Piastri,McLaren,79.56,79.225,,15,fastf1
+2024,Australia Grand Prix,Fernando Alonso,Aston Martin,107.733,107.299,106.435,1,fastf1
+2024,Australia Grand Prix,Lance Stroll,Aston Martin,109.453,109.162,108.269,5,fastf1
+2024,Australia Grand Prix,Esteban Ocon,Alpine,89.331,88.872,88.714,9,fastf1
+2024,Australia Grand Prix,Pierre Gasly,Alpine,93.158,92.975,,12,fastf1
+2024,Australia Grand Prix,Valtteri Bottas,Kick Sauber,80.074,,,16,fastf1
+2024,Australia Grand Prix,Zhou Guanyu,Kick Sauber,83.998,,,20,fastf1
+2024,Australia Grand Prix,Kevin Magnussen,Haas F1 Team,82.797,,,18,fastf1
+2024,Australia Grand Prix,Nico Hulkenberg,Haas F1 Team,91.104,91.011,90.444,6,fastf1
+2024,Australia Grand Prix,Yuki Tsunoda,RB,94.438,93.961,93.66,3,fastf1
+2024,Australia Grand Prix,Liam Lawson,RB,99.499,,,21,fastf1
+2024,Australia Grand Prix,Alexander Albon,Williams,78.227,,,17,fastf1
+2024,Australia Grand Prix,Franco Colapinto,Williams,104.535,104.44,,13,fastf1
+2024,Australia Grand Prix,Oliver Bearman,Haas F1 Team,98.441,97.872,97.275,10,fastf1
+2024,Italy Grand Prix,Max Verstappen,Red Bull Racing,105.524,104.966,104.516,6,fastf1
+2024,Italy Grand Prix,Sergio Perez,Red Bull Racing,83.469,82.78,82.239,10,fastf1
+2024,Italy Grand Prix,Lewis Hamilton,Mercedes,108.846,,,18,fastf1
+2024,Italy Grand Prix,George Russell,Mercedes,107.694,107.252,106.726,7,fastf1
+2024,Italy Grand Prix,Charles Leclerc,Ferrari,105.856,105.678,,13,fastf1
+2024,Italy Grand Prix,Carlos Sainz,Ferrari,103.653,102.967,102.536,8,fastf1
+2024,Italy Grand Prix,Lando Norris,McLaren,87.076,86.609,,11,fastf1
+2024,Italy Grand Prix,Oscar Piastri,McLaren,106.746,,,21,fastf1
+2024,Italy Grand Prix,Fernando Alonso,Aston Martin,102.601,102.568,101.99,4,fastf1
+2024,Italy Grand Prix,Lance Stroll,Aston Martin,108.444,108.018,,15,fastf1
+2024,Italy Grand Prix,Esteban Ocon,Alpine,109.572,109.566,,14,fastf1
+2024,Italy Grand Prix,Pierre Gasly,Alpine,91.158,91.003,90.114,9,fastf1
+2024,Italy Grand Prix,Valtteri Bottas,Kick Sauber,106.248,,,17,fastf1
+2024,Italy Grand Prix,Zhou Guanyu,Kick Sauber,93.21,,,16,fastf1
+2024,Italy Grand Prix,Kevin Magnussen,Haas F1 Team,79.602,,,19,fastf1
+2024,Italy Grand Prix,Nico Hulkenberg,Haas F1 Team,100.917,100.436,99.789,5,fastf1
+2024,Italy Grand Prix,Yuki Tsunoda,RB,86.315,86.145,85.636,1,fastf1
+2024,Italy Grand Prix,Liam Lawson,RB,109.929,109.626,108.568,2,fastf1
+2024,Italy Grand Prix,Alexander Albon,Williams,78.17,77.895,76.831,3,fastf1
+2024,Italy Grand Prix,Franco Colapinto,Williams,105.581,,,20,fastf1
+2024,Italy Grand Prix,Oliver Bearman,Haas F1 Team,106.357,105.958,,12,fastf1
+2024,China Grand Prix,Max Verstappen,Red Bull Racing,110.528,,,20,fastf1
+2024,China Grand Prix,Sergio Perez,Red Bull Racing,79.465,78.907,78.661,2,fastf1
+2024,China Grand Prix,Lewis Hamilton,Mercedes,82.287,82.026,81.538,5,fastf1
+2024,China Grand Prix,George Russell,Mercedes,106.713,106.25,,11,fastf1
+2024,China Grand Prix,Charles Leclerc,Ferrari,92.768,92.503,91.41,6,fastf1
+2024,China Grand Prix,Carlos Sainz,Ferrari,103.45,103.016,,13,fastf1
+2024,China Grand Prix,Lando Norris,McLaren,87.521,,,21,fastf1
+2024,China Grand Prix,Oscar Piastri,McLaren,103.54,103.1,,12,fastf1
+2024,China Grand Prix,Fernando Alonso,Aston Martin,92.112,,,19,fastf1
+2024,China Grand Prix,Lance Stroll,Aston Martin,91.482,91.073,90.507,4,fastf1
+2024,China Grand Prix,Esteban Ocon,Alpine,86.205,85.417,,14,fastf1
+2024,China Grand Prix,Pierre Gasly,Alpine,101.68,,,16,fastf1
+2024,China Grand Prix,Valtteri Bottas,Kick Sauber,101.154,,,18,fastf1
+2024,China Grand Prix,Zhou Guanyu,Kick Sauber,82.089,81.422,80.777,8,fastf1
+2024,China Grand Prix,Kevin Magnussen,Haas F1 Team,106.226,106.072,104.965,3,fastf1
+2024,China Grand Prix,Nico Hulkenberg,Haas F1 Team,107.222,,,17,fastf1
+2024,China Grand Prix,Yuki Tsunoda,RB,102.467,102.074,,15,fastf1
+2024,China Grand Prix,Liam Lawson,RB,84.375,83.889,83.452,9,fastf1
+2024,China Grand Prix,Alexander Albon,Williams,107.961,107.741,107.256,10,fastf1
+2024,China Grand Prix,Franco Colapinto,Williams,99.359,98.769,98.069,7,fastf1
+2024,China Grand Prix,Oliver Bearman,Haas F1 Team,87.784,87.594,86.953,1,fastf1
+2024,Monaco Grand Prix,Max Verstappen,Red Bull Racing,104.209,103.565,103.364,6,fastf1
+2024,Monaco Grand Prix,Sergio Perez,Red Bull Racing,90.528,89.833,,13,fastf1
+2024,Monaco Grand Prix,Lewis Hamilton,Mercedes,108.809,,,21,fastf1
+2024,Monaco Grand Prix,George Russell,Mercedes,108.012,108.004,106.809,5,fastf1
+2024,Monaco Grand Prix,Charles Leclerc,Ferrari,94.892,94.505,94.342,7,fastf1
+2024,Monaco Grand Prix,Carlos Sainz,Ferrari,100.365,100.069,99.136,4,fastf1
+2024,Monaco Grand Prix,Lando Norris,McLaren,83.475,,,20,fastf1
+2024,Monaco Grand Prix,Oscar Piastri,McLaren,111.027,,,17,fastf1
+2024,Monaco Grand Prix,Fernando Alonso,Aston Martin,96.065,95.35,95.472,2,fastf1
+2024,Monaco Grand Prix,Lance Stroll,Aston Martin,87.04,86.507,,14,fastf1
+2024,Monaco Grand Prix,Esteban Ocon,Alpine,98.299,98.047,,15,fastf1
+2024,Monaco Grand Prix,Pierre Gasly,Alpine,100.331,100.069,99.516,10,fastf1
+2024,Monaco Grand Prix,Valtteri Bottas,Kick Sauber,98.471,98.033,97.452,8,fastf1
+2024,Monaco Grand Prix,Zhou Guanyu,Kick Sauber,104.523,104.331,103.786,1,fastf1
+2024,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,101.55,,,16,fastf1
+2024,Monaco Grand Prix,Nico Hulkenberg,Haas F1 Team,102.282,101.678,101.744,9,fastf1
+2024,Monaco Grand Prix,Yuki Tsunoda,RB,94.867,94.543,,12,fastf1
+2024,Monaco Grand Prix,Liam Lawson,RB,83.078,82.611,,11,fastf1
+2024,Monaco Grand Prix,Alexander Albon,Williams,105.577,,,18,fastf1
+2024,Monaco Grand Prix,Franco Colapinto,Williams,110.961,,,19,fastf1
+2024,Monaco Grand Prix,Oliver Bearman,Haas F1 Team,105.487,105.352,104.521,3,fastf1
+2024,Belgium Grand Prix,Max Verstappen,Red Bull Racing,98.095,98.016,,13,fastf1
+2024,Belgium Grand Prix,Sergio Perez,Red Bull Racing,93.669,93.437,92.81,7,fastf1
+2024,Belgium Grand Prix,Lewis Hamilton,Mercedes,108.844,,,19,fastf1
+2024,Belgium Grand Prix,George Russell,Mercedes,98.303,98.067,97.516,5,fastf1
+2024,Belgium Grand Prix,Charles Leclerc,Ferrari,98.755,98.467,,14,fastf1
+2024,Belgium Grand Prix,Carlos Sainz,Ferrari,81.605,,,20,fastf1
+2024,Belgium Grand Prix,Lando Norris,McLaren,96.813,96.238,,11,fastf1
+2024,Belgium Grand Prix,Oscar Piastri,McLaren,79.041,78.721,78.507,10,fastf1
+2024,Belgium Grand Prix,Fernando Alonso,Aston Martin,88.443,87.966,,12,fastf1
+2024,Belgium Grand Prix,Lance Stroll,Aston Martin,93.53,92.751,92.974,6,fastf1
+2024,Belgium Grand Prix,Esteban Ocon,Alpine,82.977,,,17,fastf1
+2024,Belgium Grand Prix,Pierre Gasly,Alpine,83.347,,,16,fastf1
+2024,Belgium Grand Prix,Valtteri Bottas,Kick Sauber,107.632,107.585,106.546,2,fastf1
+2024,Belgium Grand Prix,Zhou Guanyu,Kick Sauber,101.03,100.278,99.998,3,fastf1
+2024,Belgium Grand Prix,Kevin Magnussen,Haas F1 Team,104.316,104.025,102.927,4,fastf1
+2024,Belgium Grand Prix,Nico Hulkenberg,Haas F1 Team,111.331,111.311,110.402,9,fastf1
+2024,Belgium Grand Prix,Yuki Tsunoda,RB,95.147,,,21,fastf1
+2024,Belgium Grand Prix,Liam Lawson,RB,103.199,103.018,102.168,8,fastf1
+2024,Belgium Grand Prix,Alexander Albon,Williams,99.113,98.536,,15,fastf1
+2024,Belgium Grand Prix,Franco Colapinto,Williams,87.319,,,18,fastf1
+2024,Belgium Grand Prix,Oliver Bearman,Haas F1 Team,93.879,93.701,93.374,1,fastf1
+2024,Singapore Grand Prix,Max Verstappen,Red Bull Racing,106.132,105.775,,13,fastf1
+2024,Singapore Grand Prix,Sergio Perez,Red Bull Racing,101.072,100.384,,11,fastf1
+2024,Singapore Grand Prix,Lewis Hamilton,Mercedes,96.042,,,17,fastf1
+2024,Singapore Grand Prix,George Russell,Mercedes,99.821,99.324,,12,fastf1
+2024,Singapore Grand Prix,Charles Leclerc,Ferrari,105.105,,,18,fastf1
+2024,Singapore Grand Prix,Carlos Sainz,Ferrari,87.918,87.892,87.303,7,fastf1
+2024,Singapore Grand Prix,Lando Norris,McLaren,111.361,110.873,110.015,6,fastf1
+2024,Singapore Grand Prix,Oscar Piastri,McLaren,81.642,81.445,80.521,9,fastf1
+2024,Singapore Grand Prix,Fernando Alonso,Aston Martin,103.125,102.381,102.12,2,fastf1
+2024,Singapore Grand Prix,Lance Stroll,Aston Martin,93.625,93.316,92.7,8,fastf1
+2024,Singapore Grand Prix,Esteban Ocon,Alpine,78.274,,,19,fastf1
+2024,Singapore Grand Prix,Pierre Gasly,Alpine,105.796,105.411,105.109,5,fastf1
+2024,Singapore Grand Prix,Valtteri Bottas,Kick Sauber,91.015,90.672,89.768,4,fastf1
+2024,Singapore Grand Prix,Zhou Guanyu,Kick Sauber,94.663,,,21,fastf1
+2024,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,87.41,86.993,,15,fastf1
+2024,Singapore Grand Prix,Nico Hulkenberg,Haas F1 Team,99.702,,,20,fastf1
+2024,Singapore Grand Prix,Yuki Tsunoda,RB,111.779,111.776,110.781,10,fastf1
+2024,Singapore Grand Prix,Liam Lawson,RB,104.156,104.082,103.09,1,fastf1
+2024,Singapore Grand Prix,Alexander Albon,Williams,98.484,97.914,,14,fastf1
+2024,Singapore Grand Prix,Franco Colapinto,Williams,109.07,108.8,108.087,3,fastf1
+2024,Singapore Grand Prix,Oliver Bearman,Haas F1 Team,101.343,,,16,fastf1
+2024,Netherlands Grand Prix,Max Verstappen,Red Bull Racing,105.799,105.795,104.488,1,fastf1
+2024,Netherlands Grand Prix,Sergio Perez,Red Bull Racing,82.924,82.889,81.881,4,fastf1
+2024,Netherlands Grand Prix,Lewis Hamilton,Mercedes,85.448,85.26,84.524,3,fastf1
+2024,Netherlands Grand Prix,George Russell,Mercedes,91.146,,,17,fastf1
+2024,Netherlands Grand Prix,Charles Leclerc,Ferrari,84.931,84.494,83.676,2,fastf1
+2024,Netherlands Grand Prix,Carlos Sainz,Ferrari,88.208,,,18,fastf1
+2024,Netherlands Grand Prix,Lando Norris,McLaren,84.156,83.752,,15,fastf1
+2024,Netherlands Grand Prix,Oscar Piastri,McLaren,95.923,,,19,fastf1
+2024,Netherlands Grand Prix,Fernando Alonso,Aston Martin,99.826,99.504,98.614,5,fastf1
+2024,Netherlands Grand Prix,Lance Stroll,Aston Martin,110.082,109.568,109.16,7,fastf1
+2024,Netherlands Grand Prix,Esteban Ocon,Alpine,110.893,,,21,fastf1
+2024,Netherlands Grand Prix,Pierre Gasly,Alpine,109.284,108.556,,11,fastf1
+2024,Netherlands Grand Prix,Valtteri Bottas,Kick Sauber,83.306,82.858,82.163,6,fastf1
+2024,Netherlands Grand Prix,Zhou Guanyu,Kick Sauber,91.514,,,16,fastf1
+2024,Netherlands Grand Prix,Kevin Magnussen,Haas F1 Team,78.973,78.412,,13,fastf1
+2024,Netherlands Grand Prix,Nico Hulkenberg,Haas F1 Team,100.044,99.951,,14,fastf1
+2024,Netherlands Grand Prix,Yuki Tsunoda,RB,92.478,,,20,fastf1
+2024,Netherlands Grand Prix,Liam Lawson,RB,90.453,90.294,89.32,8,fastf1
+2024,Netherlands Grand Prix,Alexander Albon,Williams,81.166,80.591,,12,fastf1
+2024,Netherlands Grand Prix,Franco Colapinto,Williams,84.141,83.849,83.461,9,fastf1
+2024,Netherlands Grand Prix,Oliver Bearman,Haas F1 Team,94.073,93.32,93.004,10,fastf1
+2024,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,94.921,,,17,fastf1
+2024,Azerbaijan Grand Prix,Sergio Perez,Red Bull Racing,95.207,,,19,fastf1
+2024,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,94.042,93.543,,12,fastf1
+2024,Azerbaijan Grand Prix,George Russell,Mercedes,93.942,93.207,92.632,7,fastf1
+2024,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,95.929,,,18,fastf1
+2024,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,107.899,107.803,106.556,8,fastf1
+2024,Azerbaijan Grand Prix,Lando Norris,McLaren,78.946,,,16,fastf1
+2024,Azerbaijan Grand Prix,Oscar Piastri,McLaren,94.942,94.588,93.586,1,fastf1
+2024,Azerbaijan Grand Prix,Fernando Alonso,Aston Martin,87.1,86.314,85.724,9,fastf1
+2024,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,97.749,97.596,,11,fastf1
+2024,Azerbaijan Grand Prix,Esteban Ocon,Alpine,103.84,103.369,102.554,4,fastf1
+2024,Azerbaijan Grand Prix,Pierre Gasly,Alpine,103.445,,,20,fastf1
+2024,Azerbaijan Grand Prix,Valtteri Bottas,Kick Sauber,103.206,103.003,102.628,10,fastf1
+2024,Azerbaijan Grand Prix,Zhou Guanyu,Kick Sauber,92.236,91.448,91.639,3,fastf1
+2024,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,93.267,,,21,fastf1
+2024,Azerbaijan Grand Prix,Nico Hulkenberg,Haas F1 Team,80.056,79.344,,14,fastf1
+2024,Azerbaijan Grand Prix,Yuki Tsunoda,RB,102.459,101.809,,15,fastf1
+2024,Azerbaijan Grand Prix,Liam Lawson,RB,100.567,100.473,99.933,5,fastf1
+2024,Azerbaijan Grand Prix,Alexander Albon,Williams,81.323,80.832,,13,fastf1
+2024,Azerbaijan Grand Prix,Franco Colapinto,Williams,108.301,107.759,107.358,2,fastf1
+2024,Azerbaijan Grand Prix,Oliver Bearman,Haas F1 Team,100.893,100.587,99.523,6,fastf1
+2024,Austin Grand Prix,Max Verstappen,Red Bull Racing,80.997,,,19,fastf1
+2024,Austin Grand Prix,Sergio Perez,Red Bull Racing,93.657,,,17,fastf1
+2024,Austin Grand Prix,Lewis Hamilton,Mercedes,105.751,105.479,105.06,4,fastf1
+2024,Austin Grand Prix,George Russell,Mercedes,93.41,,,18,fastf1
+2024,Austin Grand Prix,Charles Leclerc,Ferrari,80.915,80.832,,12,fastf1
+2024,Austin Grand Prix,Carlos Sainz,Ferrari,100.51,99.819,99.955,2,fastf1
+2024,Austin Grand Prix,Lando Norris,McLaren,91.371,90.95,90.059,6,fastf1
+2024,Austin Grand Prix,Oscar Piastri,McLaren,99.256,98.752,,13,fastf1
+2024,Austin Grand Prix,Fernando Alonso,Aston Martin,92.649,92.058,91.858,9,fastf1
+2024,Austin Grand Prix,Lance Stroll,Aston Martin,106.329,105.782,105.21,5,fastf1
+2024,Austin Grand Prix,Esteban Ocon,Alpine,97.623,97.021,97.056,1,fastf1
+2024,Austin Grand Prix,Pierre Gasly,Alpine,107.482,,,21,fastf1
+2024,Austin Grand Prix,Valtteri Bottas,Kick Sauber,109.3,,,16,fastf1
+2024,Austin Grand Prix,Zhou Guanyu,Kick Sauber,91.576,91.548,90.821,8,fastf1
+2024,Austin Grand Prix,Kevin Magnussen,Haas F1 Team,79.447,79.207,,11,fastf1
+2024,Austin Grand Prix,Nico Hulkenberg,Haas F1 Team,83.551,83.175,82.792,10,fastf1
+2024,Austin Grand Prix,Yuki Tsunoda,RB,97.773,97.396,96.563,7,fastf1
+2024,Austin Grand Prix,Liam Lawson,RB,95.064,,,20,fastf1
+2024,Austin Grand Prix,Alexander Albon,Williams,79.864,79.317,,15,fastf1
+2024,Austin Grand Prix,Franco Colapinto,Williams,106.991,106.623,,14,fastf1
+2024,Austin Grand Prix,Oliver Bearman,Haas F1 Team,92.232,91.748,91.606,3,fastf1
+2024,Brazil Grand Prix,Max Verstappen,Red Bull Racing,98.809,98.027,,11,fastf1
+2024,Brazil Grand Prix,Sergio Perez,Red Bull Racing,95.66,95.135,94.9,8,fastf1
+2024,Brazil Grand Prix,Lewis Hamilton,Mercedes,107.214,106.775,105.946,3,fastf1
+2024,Brazil Grand Prix,George Russell,Mercedes,88.368,87.767,87.223,5,fastf1
+2024,Brazil Grand Prix,Charles Leclerc,Ferrari,81.055,80.881,,14,fastf1
+2024,Brazil Grand Prix,Carlos Sainz,Ferrari,88.482,,,17,fastf1
+2024,Brazil Grand Prix,Lando Norris,McLaren,96.761,96.242,95.375,4,fastf1
+2024,Brazil Grand Prix,Oscar Piastri,McLaren,81.43,,,19,fastf1
+2024,Brazil Grand Prix,Fernando Alonso,Aston Martin,88.299,88.133,87.619,9,fastf1
+2024,Brazil Grand Prix,Lance Stroll,Aston Martin,107.011,106.348,105.86,1,fastf1
+2024,Brazil Grand Prix,Esteban Ocon,Alpine,80.974,80.813,79.692,2,fastf1
+2024,Brazil Grand Prix,Pierre Gasly,Alpine,78.051,77.718,,13,fastf1
+2024,Brazil Grand Prix,Valtteri Bottas,Kick Sauber,92.468,91.912,91.111,10,fastf1
+2024,Brazil Grand Prix,Zhou Guanyu,Kick Sauber,111.683,,,16,fastf1
+2024,Brazil Grand Prix,Kevin Magnussen,Haas F1 Team,101.398,,,21,fastf1
+2024,Brazil Grand Prix,Nico Hulkenberg,Haas F1 Team,109.864,,,20,fastf1
+2024,Brazil Grand Prix,Yuki Tsunoda,RB,82.916,82.248,82.332,6,fastf1
+2024,Brazil Grand Prix,Liam Lawson,RB,84.401,84.199,83.143,7,fastf1
+2024,Brazil Grand Prix,Alexander Albon,Williams,81.777,,,18,fastf1
+2024,Brazil Grand Prix,Franco Colapinto,Williams,88.072,87.699,,15,fastf1
+2024,Brazil Grand Prix,Oliver Bearman,Haas F1 Team,97.884,97.231,,12,fastf1
+2024,Austria Grand Prix,Max Verstappen,Red Bull Racing,83.094,,,18,fastf1
+2024,Austria Grand Prix,Sergio Perez,Red Bull Racing,102.292,,,19,fastf1
+2024,Austria Grand Prix,Lewis Hamilton,Mercedes,97.534,97.533,96.67,8,fastf1
+2024,Austria Grand Prix,George Russell,Mercedes,104.629,104.511,103.412,7,fastf1
+2024,Austria Grand Prix,Charles Leclerc,Ferrari,99.392,98.954,98.541,3,fastf1
+2024,Austria Grand Prix,Carlos Sainz,Ferrari,84.216,83.802,,11,fastf1
+2024,Austria Grand Prix,Lando Norris,McLaren,92.651,92.469,91.656,2,fastf1
+2024,Austria Grand Prix,Oscar Piastri,McLaren,94.756,94.739,,15,fastf1
+2024,Austria Grand Prix,Fernando Alonso,Aston Martin,92.037,,,16,fastf1
+2024,Austria Grand Prix,Lance Stroll,Aston Martin,108.402,108.09,,13,fastf1
+2024,Austria Grand Prix,Esteban Ocon,Alpine,86.644,85.959,,12,fastf1
+2024,Austria Grand Prix,Pierre Gasly,Alpine,105.288,104.906,104.542,6,fastf1
+2024,Austria Grand Prix,Valtteri Bottas,Kick Sauber,88.722,88.269,87.883,9,fastf1
+2024,Austria Grand Prix,Zhou Guanyu,Kick Sauber,110.069,109.454,,14,fastf1
+2024,Austria Grand Prix,Kevin Magnussen,Haas F1 Team,86.107,85.68,84.726,4,fastf1
+2024,Austria Grand Prix,Nico Hulkenberg,Haas F1 Team,80.711,80.271,79.402,10,fastf1
+2024,Austria Grand Prix,Yuki Tsunoda,RB,97.679,,,21,fastf1
+2024,Austria Grand Prix,Liam Lawson,RB,93.006,92.7,92.179,1,fastf1
+2024,Austria Grand Prix,Alexander Albon,Williams,104.974,,,20,fastf1
+2024,Austria Grand Prix,Franco Colapinto,Williams,111.852,,,17,fastf1
+2024,Austria Grand Prix,Oliver Bearman,Haas F1 Team,101.185,101.025,100.377,5,fastf1
+2024,Saudi Arabia Grand Prix,Max Verstappen,Red Bull Racing,103.639,103.616,102.391,1,fastf1
+2024,Saudi Arabia Grand Prix,Sergio Perez,Red Bull Racing,86.674,85.962,85.96,5,fastf1
+2024,Saudi Arabia Grand Prix,Lewis Hamilton,Mercedes,85.448,85.21,84.409,6,fastf1
+2024,Saudi Arabia Grand Prix,George Russell,Mercedes,110.438,,,17,fastf1
+2024,Saudi Arabia Grand Prix,Charles Leclerc,Ferrari,108.377,108.063,,15,fastf1
+2024,Saudi Arabia Grand Prix,Carlos Sainz,Ferrari,108.167,,,21,fastf1
+2024,Saudi Arabia Grand Prix,Lando Norris,McLaren,83.2,83.022,82.353,3,fastf1
+2024,Saudi Arabia Grand Prix,Oscar Piastri,McLaren,81.599,81.153,80.966,9,fastf1
+2024,Saudi Arabia Grand Prix,Fernando Alonso,Aston Martin,94.652,,,16,fastf1
+2024,Saudi Arabia Grand Prix,Lance Stroll,Aston Martin,98.87,,,20,fastf1
+2024,Saudi Arabia Grand Prix,Esteban Ocon,Alpine,103.323,102.751,102.024,10,fastf1
+2024,Saudi Arabia Grand Prix,Pierre Gasly,Alpine,106.257,,,18,fastf1
+2024,Saudi Arabia Grand Prix,Valtteri Bottas,Kick Sauber,81.888,81.812,80.955,7,fastf1
+2024,Saudi Arabia Grand Prix,Zhou Guanyu,Kick Sauber,107.084,106.536,,11,fastf1
+2024,Saudi Arabia Grand Prix,Kevin Magnussen,Haas F1 Team,93.177,92.607,92.279,4,fastf1
+2024,Saudi Arabia Grand Prix,Nico Hulkenberg,Haas F1 Team,97.917,97.347,,14,fastf1
+2024,Saudi Arabia Grand Prix,Yuki Tsunoda,RB,88.655,,,19,fastf1
+2024,Saudi Arabia Grand Prix,Liam Lawson,RB,111.445,110.695,110.195,2,fastf1
+2024,Saudi Arabia Grand Prix,Alexander Albon,Williams,83.941,83.257,,12,fastf1
+2024,Saudi Arabia Grand Prix,Franco Colapinto,Williams,109.023,109.021,,13,fastf1
+2024,Saudi Arabia Grand Prix,Oliver Bearman,Haas F1 Team,78.067,77.73,77.487,8,fastf1
+2024,UAE Grand Prix,Max Verstappen,Red Bull Racing,97.131,96.338,95.76,8,fastf1
+2024,UAE Grand Prix,Sergio Perez,Red Bull Racing,86.58,,,17,fastf1
+2024,UAE Grand Prix,Lewis Hamilton,Mercedes,101.288,101.097,100.684,9,fastf1
+2024,UAE Grand Prix,George Russell,Mercedes,85.754,85.357,,11,fastf1
+2024,UAE Grand Prix,Charles Leclerc,Ferrari,111.24,110.937,,15,fastf1
+2024,UAE Grand Prix,Carlos Sainz,Ferrari,83.464,,,16,fastf1
+2024,UAE Grand Prix,Lando Norris,McLaren,87.807,87.705,86.434,3,fastf1
+2024,UAE Grand Prix,Oscar Piastri,McLaren,98.475,98.46,97.843,7,fastf1
+2024,UAE Grand Prix,Fernando Alonso,Aston Martin,80.727,80.051,,14,fastf1
+2024,UAE Grand Prix,Lance Stroll,Aston Martin,103.186,,,19,fastf1
+2024,UAE Grand Prix,Esteban Ocon,Alpine,107.995,107.885,,12,fastf1
+2024,UAE Grand Prix,Pierre Gasly,Alpine,101.077,,,20,fastf1
+2024,UAE Grand Prix,Valtteri Bottas,Kick Sauber,86.119,85.511,85.132,6,fastf1
+2024,UAE Grand Prix,Zhou Guanyu,Kick Sauber,109.669,,,21,fastf1
+2024,UAE Grand Prix,Kevin Magnussen,Haas F1 Team,82.501,,,18,fastf1
+2024,UAE Grand Prix,Nico Hulkenberg,Haas F1 Team,111.371,110.874,110.563,5,fastf1
+2024,UAE Grand Prix,Yuki Tsunoda,RB,83.031,82.653,82.434,1,fastf1
+2024,UAE Grand Prix,Liam Lawson,RB,106.057,105.956,105.158,4,fastf1
+2024,UAE Grand Prix,Alexander Albon,Williams,98.036,97.459,,13,fastf1
+2024,UAE Grand Prix,Franco Colapinto,Williams,108.582,108.495,108.024,10,fastf1
+2024,UAE Grand Prix,Oliver Bearman,Haas F1 Team,101.209,100.524,100.03,2,fastf1
+2024,Canada Grand Prix,Max Verstappen,Red Bull Racing,83.094,82.805,82.263,7,fastf1
+2024,Canada Grand Prix,Sergio Perez,Red Bull Racing,111.901,111.68,110.935,9,fastf1
+2024,Canada Grand Prix,Lewis Hamilton,Mercedes,83.304,,,19,fastf1
+2024,Canada Grand Prix,George Russell,Mercedes,111.746,111.398,111.05,4,fastf1
+2024,Canada Grand Prix,Charles Leclerc,Ferrari,103.747,103.309,,11,fastf1
+2024,Canada Grand Prix,Carlos Sainz,Ferrari,93.825,93.511,92.759,8,fastf1
+2024,Canada Grand Prix,Lando Norris,McLaren,87.258,86.803,86.709,6,fastf1
+2024,Canada Grand Prix,Oscar Piastri,McLaren,83.552,83.012,,12,fastf1
+2024,Canada Grand Prix,Fernando Alonso,Aston Martin,100.377,99.895,99.076,3,fastf1
+2024,Canada Grand Prix,Lance Stroll,Aston Martin,94.023,93.464,,15,fastf1
+2024,Canada Grand Prix,Esteban Ocon,Alpine,104.279,,,18,fastf1
+2024,Canada Grand Prix,Pierre Gasly,Alpine,109.587,109.267,108.937,10,fastf1
+2024,Canada Grand Prix,Valtteri Bottas,Kick Sauber,105.029,104.705,,13,fastf1
+2024,Canada Grand Prix,Zhou Guanyu,Kick Sauber,105.698,,,20,fastf1
+2024,Canada Grand Prix,Kevin Magnussen,Haas F1 Team,95.11,,,16,fastf1
+2024,Canada Grand Prix,Nico Hulkenberg,Haas F1 Team,97.577,97.214,96.759,2,fastf1
+2024,Canada Grand Prix,Yuki Tsunoda,RB,105.927,105.349,104.604,5,fastf1
+2024,Canada Grand Prix,Liam Lawson,RB,80.002,,,21,fastf1
+2024,Canada Grand Prix,Alexander Albon,Williams,95.324,94.663,,14,fastf1
+2024,Canada Grand Prix,Franco Colapinto,Williams,106.01,105.919,105.463,1,fastf1
+2024,Canada Grand Prix,Oliver Bearman,Haas F1 Team,78.795,,,17,fastf1
+2024,Hungary Grand Prix,Max Verstappen,Red Bull Racing,85.402,,,17,fastf1
+2024,Hungary Grand Prix,Sergio Perez,Red Bull Racing,81.674,,,18,fastf1
+2024,Hungary Grand Prix,Lewis Hamilton,Mercedes,101.958,101.571,101.014,8,fastf1
+2024,Hungary Grand Prix,George Russell,Mercedes,103.43,,,16,fastf1
+2024,Hungary Grand Prix,Charles Leclerc,Ferrari,83.975,,,19,fastf1
+2024,Hungary Grand Prix,Carlos Sainz,Ferrari,108.823,,,21,fastf1
+2024,Hungary Grand Prix,Lando Norris,McLaren,92.889,92.183,91.74,1,fastf1
+2024,Hungary Grand Prix,Oscar Piastri,McLaren,96.407,96.047,95.278,5,fastf1
+2024,Hungary Grand Prix,Fernando Alonso,Aston Martin,102.856,102.776,,12,fastf1
+2024,Hungary Grand Prix,Lance Stroll,Aston Martin,107.003,106.37,,13,fastf1
+2024,Hungary Grand Prix,Esteban Ocon,Alpine,88.69,88.492,88.052,10,fastf1
+2024,Hungary Grand Prix,Pierre Gasly,Alpine,91.647,91.367,90.62,2,fastf1
+2024,Hungary Grand Prix,Valtteri Bottas,Kick Sauber,83.614,,,20,fastf1
+2024,Hungary Grand Prix,Zhou Guanyu,Kick Sauber,97.471,97.003,96.955,3,fastf1
+2024,Hungary Grand Prix,Kevin Magnussen,Haas F1 Team,87.62,87.448,,14,fastf1
+2024,Hungary Grand Prix,Nico Hulkenberg,Haas F1 Team,95.338,94.757,94.07,6,fastf1
+2024,Hungary Grand Prix,Yuki Tsunoda,RB,99.418,99.317,98.785,7,fastf1
+2024,Hungary Grand Prix,Liam Lawson,RB,107.156,106.96,105.92,4,fastf1
+2024,Hungary Grand Prix,Alexander Albon,Williams,98.719,98.245,97.421,9,fastf1
+2024,Hungary Grand Prix,Franco Colapinto,Williams,110.374,110.001,,11,fastf1
+2024,Hungary Grand Prix,Oliver Bearman,Haas F1 Team,105.318,104.656,,15,fastf1
+2024,Mexico Grand Prix,Max Verstappen,Red Bull Racing,79.302,78.918,78.285,5,fastf1
+2024,Mexico Grand Prix,Sergio Perez,Red Bull Racing,101.644,,,21,fastf1
+2024,Mexico Grand Prix,Lewis Hamilton,Mercedes,99.496,99.099,,12,fastf1
+2024,Mexico Grand Prix,George Russell,Mercedes,104.276,,,19,fastf1
+2024,Mexico Grand Prix,Charles Leclerc,Ferrari,93.236,92.897,,11,fastf1
+2024,Mexico Grand Prix,Carlos Sainz,Ferrari,96.839,96.6,95.835,6,fastf1
+2024,Mexico Grand Prix,Lando Norris,McLaren,79.45,79.289,78.507,1,fastf1
+2024,Mexico Grand Prix,Oscar Piastri,McLaren,97.134,96.83,95.822,4,fastf1
+2024,Mexico Grand Prix,Fernando Alonso,Aston Martin,96.709,96.155,95.763,7,fastf1
+2024,Mexico Grand Prix,Lance Stroll,Aston Martin,101.498,,,20,fastf1
+2024,Mexico Grand Prix,Esteban Ocon,Alpine,102.699,102.357,,14,fastf1
+2024,Mexico Grand Prix,Pierre Gasly,Alpine,81.038,,,18,fastf1
+2024,Mexico Grand Prix,Valtteri Bottas,Kick Sauber,95.788,,,16,fastf1
+2024,Mexico Grand Prix,Zhou Guanyu,Kick Sauber,105.26,104.749,104.59,8,fastf1
+2024,Mexico Grand Prix,Kevin Magnussen,Haas F1 Team,108.085,107.775,,15,fastf1
+2024,Mexico Grand Prix,Nico Hulkenberg,Haas F1 Team,110.889,110.238,109.603,3,fastf1
+2024,Mexico Grand Prix,Yuki Tsunoda,RB,110.668,110.182,,13,fastf1
+2024,Mexico Grand Prix,Liam Lawson,RB,107.627,,,17,fastf1
+2024,Mexico Grand Prix,Alexander Albon,Williams,104.287,104.211,102.92,9,fastf1
+2024,Mexico Grand Prix,Franco Colapinto,Williams,79.593,79.473,79.016,10,fastf1
+2024,Mexico Grand Prix,Oliver Bearman,Haas F1 Team,104.311,103.816,103.161,2,fastf1
+2024,Qatar Grand Prix,Max Verstappen,Red Bull Racing,83.998,,,20,fastf1
+2024,Qatar Grand Prix,Sergio Perez,Red Bull Racing,110.707,110.503,109.365,9,fastf1
+2024,Qatar Grand Prix,Lewis Hamilton,Mercedes,96.292,95.757,95.152,10,fastf1
+2024,Qatar Grand Prix,George Russell,Mercedes,82.169,81.894,,15,fastf1
+2024,Qatar Grand Prix,Charles Leclerc,Ferrari,99.143,,,16,fastf1
+2024,Qatar Grand Prix,Carlos Sainz,Ferrari,101.089,100.503,,11,fastf1
+2024,Qatar Grand Prix,Lando Norris,McLaren,100.05,99.256,99.092,5,fastf1
+2024,Qatar Grand Prix,Oscar Piastri,McLaren,78.309,77.632,76.921,3,fastf1
+2024,Qatar Grand Prix,Fernando Alonso,Aston Martin,85.815,,,18,fastf1
+2024,Qatar Grand Prix,Lance Stroll,Aston Martin,96.554,95.841,95.559,4,fastf1
+2024,Qatar Grand Prix,Esteban Ocon,Alpine,84.018,,,19,fastf1
+2024,Qatar Grand Prix,Pierre Gasly,Alpine,107.738,107.686,106.673,8,fastf1
+2024,Qatar Grand Prix,Valtteri Bottas,Kick Sauber,102.177,101.947,101.019,7,fastf1
+2024,Qatar Grand Prix,Zhou Guanyu,Kick Sauber,98.1,97.968,,14,fastf1
+2024,Qatar Grand Prix,Kevin Magnussen,Haas F1 Team,92.771,92.585,92.032,6,fastf1
+2024,Qatar Grand Prix,Nico Hulkenberg,Haas F1 Team,97.294,96.798,,13,fastf1
+2024,Qatar Grand Prix,Yuki Tsunoda,RB,97.123,,,21,fastf1
+2024,Qatar Grand Prix,Liam Lawson,RB,85.413,,,17,fastf1
+2024,Qatar Grand Prix,Alexander Albon,Williams,81.125,80.707,,12,fastf1
+2024,Qatar Grand Prix,Franco Colapinto,Williams,108.446,108.252,107.191,2,fastf1
+2024,Qatar Grand Prix,Oliver Bearman,Haas F1 Team,111.276,111.077,109.977,1,fastf1
+2024,Spain Grand Prix,Max Verstappen,Red Bull Racing,83.557,82.903,82.331,9,fastf1
+2024,Spain Grand Prix,Sergio Perez,Red Bull Racing,81.672,,,17,fastf1
+2024,Spain Grand Prix,Lewis Hamilton,Mercedes,110.587,110.026,109.36,3,fastf1
+2024,Spain Grand Prix,George Russell,Mercedes,102.06,101.906,101.246,1,fastf1
+2024,Spain Grand Prix,Charles Leclerc,Ferrari,106.21,106.011,105.443,8,fastf1
+2024,Spain Grand Prix,Carlos Sainz,Ferrari,100.703,100.452,,14,fastf1
+2024,Spain Grand Prix,Lando Norris,McLaren,105.352,,,16,fastf1
+2024,Spain Grand Prix,Oscar Piastri,McLaren,102.218,102.069,,11,fastf1
+2024,Spain Grand Prix,Fernando Alonso,Aston Martin,105.418,,,18,fastf1
+2024,Spain Grand Prix,Lance Stroll,Aston Martin,101.094,100.738,100.016,4,fastf1
+2024,Spain Grand Prix,Esteban Ocon,Alpine,91.96,91.326,90.653,5,fastf1
+2024,Spain Grand Prix,Pierre Gasly,Alpine,94.18,,,19,fastf1
+2024,Spain Grand Prix,Valtteri Bottas,Kick Sauber,99.171,98.654,,15,fastf1
+2024,Spain Grand Prix,Zhou Guanyu,Kick Sauber,79.707,79.063,78.759,10,fastf1
+2024,Spain Grand Prix,Kevin Magnussen,Haas F1 Team,108.667,108.521,,12,fastf1
+2024,Spain Grand Prix,Nico Hulkenberg,Haas F1 Team,93.532,,,20,fastf1
+2024,Spain Grand Prix,Yuki Tsunoda,RB,111.188,110.427,,13,fastf1
+2024,Spain Grand Prix,Liam Lawson,RB,85.722,85.253,84.538,7,fastf1
+2024,Spain Grand Prix,Alexander Albon,Williams,94.387,,,21,fastf1
+2024,Spain Grand Prix,Franco Colapinto,Williams,84.236,83.532,83.298,6,fastf1
+2024,Spain Grand Prix,Oliver Bearman,Haas F1 Team,111.471,111.093,110.722,2,fastf1
+2024,Japan Grand Prix,Max Verstappen,Red Bull Racing,96.843,,,16,fastf1
+2024,Japan Grand Prix,Sergio Perez,Red Bull Racing,85.752,85.725,85.026,5,fastf1
+2024,Japan Grand Prix,Lewis Hamilton,Mercedes,83.693,83.365,82.868,2,fastf1
+2024,Japan Grand Prix,George Russell,Mercedes,93.758,93.713,,12,fastf1
+2024,Japan Grand Prix,Charles Leclerc,Ferrari,88.236,87.441,87.567,9,fastf1
+2024,Japan Grand Prix,Carlos Sainz,Ferrari,83.457,82.973,,13,fastf1
+2024,Japan Grand Prix,Lando Norris,McLaren,101.146,,,17,fastf1
+2024,Japan Grand Prix,Oscar Piastri,McLaren,95.297,95.202,94.577,4,fastf1
+2024,Japan Grand Prix,Fernando Alonso,Aston Martin,109.296,108.807,108.216,7,fastf1
+2024,Japan Grand Prix,Lance Stroll,Aston Martin,94.777,94.488,93.483,1,fastf1
+2024,Japan Grand Prix,Esteban Ocon,Alpine,104.001,103.376,103.461,3,fastf1
+2024,Japan Grand Prix,Pierre Gasly,Alpine,78.263,77.517,,11,fastf1
+2024,Japan Grand Prix,Valtteri Bottas,Kick Sauber,90.372,89.723,89.612,6,fastf1
+2024,Japan Grand Prix,Zhou Guanyu,Kick Sauber,81.246,81.235,,15,fastf1
+2024,Japan Grand Prix,Kevin Magnussen,Haas F1 Team,95.51,,,18,fastf1
+2024,Japan Grand Prix,Nico Hulkenberg,Haas F1 Team,88.946,,,21,fastf1
+2024,Japan Grand Prix,Yuki Tsunoda,RB,84.364,83.924,83.563,8,fastf1
+2024,Japan Grand Prix,Liam Lawson,RB,88.931,,,20,fastf1
+2024,Japan Grand Prix,Alexander Albon,Williams,99.93,99.384,98.749,10,fastf1
+2024,Japan Grand Prix,Franco Colapinto,Williams,85.98,,,19,fastf1
+2024,Japan Grand Prix,Oliver Bearman,Haas F1 Team,79.715,79.168,,14,fastf1
+2024,United Kingdom Grand Prix,Max Verstappen,Red Bull Racing,90.189,90.096,,15,fastf1
+2024,United Kingdom Grand Prix,Sergio Perez,Red Bull Racing,79.59,,,20,fastf1
+2024,United Kingdom Grand Prix,Lewis Hamilton,Mercedes,96.377,,,16,fastf1
+2024,United Kingdom Grand Prix,George Russell,Mercedes,97.01,96.433,95.879,6,fastf1
+2024,United Kingdom Grand Prix,Charles Leclerc,Ferrari,91.835,91.585,91.092,10,fastf1
+2024,United Kingdom Grand Prix,Carlos Sainz,Ferrari,108.42,,,17,fastf1
+2024,United Kingdom Grand Prix,Lando Norris,McLaren,110.817,110.702,109.461,9,fastf1
+2024,United Kingdom Grand Prix,Oscar Piastri,McLaren,94.825,94.586,94.039,2,fastf1
+2024,United Kingdom Grand Prix,Fernando Alonso,Aston Martin,101.247,,,21,fastf1
+2024,United Kingdom Grand Prix,Lance Stroll,Aston Martin,111.641,110.87,,14,fastf1
+2024,United Kingdom Grand Prix,Esteban Ocon,Alpine,109.63,109.448,,12,fastf1
+2024,United Kingdom Grand Prix,Pierre Gasly,Alpine,83.783,,,19,fastf1
+2024,United Kingdom Grand Prix,Valtteri Bottas,Kick Sauber,80.658,80.574,,13,fastf1
+2024,United Kingdom Grand Prix,Zhou Guanyu,Kick Sauber,89.02,88.938,,11,fastf1
+2024,United Kingdom Grand Prix,Kevin Magnussen,Haas F1 Team,79.059,,,18,fastf1
+2024,United Kingdom Grand Prix,Nico Hulkenberg,Haas F1 Team,80.523,79.877,79.988,5,fastf1
+2024,United Kingdom Grand Prix,Yuki Tsunoda,RB,94.932,94.671,94.219,8,fastf1
+2024,United Kingdom Grand Prix,Liam Lawson,RB,102.389,102.165,101.723,3,fastf1
+2024,United Kingdom Grand Prix,Alexander Albon,Williams,101.788,101.119,101.231,1,fastf1
+2024,United Kingdom Grand Prix,Franco Colapinto,Williams,80.709,80.041,79.356,4,fastf1
+2024,United Kingdom Grand Prix,Oliver Bearman,Haas F1 Team,111.201,111.005,110.092,7,fastf1
+2024,Miami Grand Prix,Max Verstappen,Red Bull Racing,82.191,81.429,81.568,7,fastf1
+2024,Miami Grand Prix,Sergio Perez,Red Bull Racing,109.555,109.417,,14,fastf1
+2024,Miami Grand Prix,Lewis Hamilton,Mercedes,89.332,89.272,88.759,9,fastf1
+2024,Miami Grand Prix,George Russell,Mercedes,105.957,105.268,105.006,5,fastf1
+2024,Miami Grand Prix,Charles Leclerc,Ferrari,80.643,79.849,79.463,2,fastf1
+2024,Miami Grand Prix,Carlos Sainz,Ferrari,105.398,,,17,fastf1
+2024,Miami Grand Prix,Lando Norris,McLaren,95.397,,,18,fastf1
+2024,Miami Grand Prix,Oscar Piastri,McLaren,97.355,97.255,96.349,4,fastf1
+2024,Miami Grand Prix,Fernando Alonso,Aston Martin,97.283,96.557,95.925,3,fastf1
+2024,Miami Grand Prix,Lance Stroll,Aston Martin,88.837,88.589,88.118,8,fastf1
+2024,Miami Grand Prix,Esteban Ocon,Alpine,98.602,98.325,97.937,1,fastf1
+2024,Miami Grand Prix,Pierre Gasly,Alpine,86.364,85.876,85.84,6,fastf1
+2024,Miami Grand Prix,Valtteri Bottas,Kick Sauber,98.416,,,20,fastf1
+2024,Miami Grand Prix,Zhou Guanyu,Kick Sauber,110.071,,,21,fastf1
+2024,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,111.477,,,19,fastf1
+2024,Miami Grand Prix,Nico Hulkenberg,Haas F1 Team,95.985,95.493,95.47,10,fastf1
+2024,Miami Grand Prix,Yuki Tsunoda,RB,81.005,80.411,,15,fastf1
+2024,Miami Grand Prix,Liam Lawson,RB,91.16,90.884,,12,fastf1
+2024,Miami Grand Prix,Alexander Albon,Williams,84.864,,,16,fastf1
+2024,Miami Grand Prix,Franco Colapinto,Williams,100.171,99.54,,13,fastf1
+2024,Miami Grand Prix,Oliver Bearman,Haas F1 Team,85.099,84.524,,11,fastf1
+2024,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing,108.903,108.131,108.375,8,fastf1
+2024,Las Vegas Grand Prix,Sergio Perez,Red Bull Racing,108.71,,,17,fastf1
+2024,Las Vegas Grand Prix,Lewis Hamilton,Mercedes,78.296,78.013,,11,fastf1
+2024,Las Vegas Grand Prix,George Russell,Mercedes,97.437,,,18,fastf1
+2024,Las Vegas Grand Prix,Charles Leclerc,Ferrari,87.359,87.231,,15,fastf1
+2024,Las Vegas Grand Prix,Carlos Sainz,Ferrari,79.313,78.636,78.544,9,fastf1
+2024,Las Vegas Grand Prix,Lando Norris,McLaren,107.786,107.612,107.212,6,fastf1
+2024,Las Vegas Grand Prix,Oscar Piastri,McLaren,87.303,87.004,86.095,7,fastf1
+2024,Las Vegas Grand Prix,Fernando Alonso,Aston Martin,97.749,97.229,96.555,2,fastf1
+2024,Las Vegas Grand Prix,Lance Stroll,Aston Martin,79.708,79.409,,12,fastf1
+2024,Las Vegas Grand Prix,Esteban Ocon,Alpine,90.488,90.241,89.776,4,fastf1
+2024,Las Vegas Grand Prix,Pierre Gasly,Alpine,97.181,96.825,,13,fastf1
+2024,Las Vegas Grand Prix,Valtteri Bottas,Kick Sauber,98.748,98.409,97.754,3,fastf1
+2024,Las Vegas Grand Prix,Zhou Guanyu,Kick Sauber,99.08,,,16,fastf1
+2024,Las Vegas Grand Prix,Kevin Magnussen,Haas F1 Team,79.591,,,21,fastf1
+2024,Las Vegas Grand Prix,Nico Hulkenberg,Haas F1 Team,99.861,99.328,98.794,10,fastf1
+2024,Las Vegas Grand Prix,Yuki Tsunoda,RB,98.204,97.732,96.953,1,fastf1
+2024,Las Vegas Grand Prix,Liam Lawson,RB,102.63,,,20,fastf1
+2024,Las Vegas Grand Prix,Alexander Albon,Williams,85.08,84.892,,14,fastf1
+2024,Las Vegas Grand Prix,Franco Colapinto,Williams,109.853,109.675,108.865,5,fastf1
+2024,Las Vegas Grand Prix,Oliver Bearman,Haas F1 Team,87.053,,,19,fastf1
+2024,Italy Grand Prix,Max Verstappen,Red Bull Racing,94.83,94.524,93.807,6,fastf1
+2024,Italy Grand Prix,Sergio Perez,Red Bull Racing,110.931,,,20,fastf1
+2024,Italy Grand Prix,Lewis Hamilton,Mercedes,83.202,82.617,,14,fastf1
+2024,Italy Grand Prix,George Russell,Mercedes,102.098,102.057,101.046,8,fastf1
+2024,Italy Grand Prix,Charles Leclerc,Ferrari,93.43,92.646,92.864,10,fastf1
+2024,Italy Grand Prix,Carlos Sainz,Ferrari,92.716,92.545,,11,fastf1
+2024,Italy Grand Prix,Lando Norris,McLaren,107.594,107.358,106.943,9,fastf1
+2024,Italy Grand Prix,Oscar Piastri,McLaren,85.346,,,16,fastf1
+2024,Italy Grand Prix,Fernando Alonso,Aston Martin,87.086,86.643,,12,fastf1
+2024,Italy Grand Prix,Lance Stroll,Aston Martin,95.92,95.401,94.593,2,fastf1
+2024,Italy Grand Prix,Esteban Ocon,Alpine,109.664,,,19,fastf1
+2024,Italy Grand Prix,Pierre Gasly,Alpine,93.418,93.258,92.519,1,fastf1
+2024,Italy Grand Prix,Valtteri Bottas,Kick Sauber,79.483,78.819,78.31,7,fastf1
+2024,Italy Grand Prix,Zhou Guanyu,Kick Sauber,96.169,,,18,fastf1
+2024,Italy Grand Prix,Kevin Magnussen,Haas F1 Team,90.336,,,17,fastf1
+2024,Italy Grand Prix,Nico Hulkenberg,Haas F1 Team,85.923,85.573,84.929,3,fastf1
+2024,Italy Grand Prix,Yuki Tsunoda,RB,109.51,,,21,fastf1
+2024,Italy Grand Prix,Liam Lawson,RB,105.427,105.414,104.335,4,fastf1
+2024,Italy Grand Prix,Alexander Albon,Williams,83.161,82.87,,13,fastf1
+2024,Italy Grand Prix,Franco Colapinto,Williams,95.834,95.685,94.714,5,fastf1
+2024,Italy Grand Prix,Oliver Bearman,Haas F1 Team,96.045,95.264,,15,fastf1
+2025,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,103.5,103.058,102.956,10,fastf1
+2025,Bahrain Grand Prix,Liam Lawson,Red Bull Racing,89.133,88.608,,13,fastf1
+2025,Bahrain Grand Prix,George Russell,Mercedes,85.278,84.873,,11,fastf1
+2025,Bahrain Grand Prix,Andrea Kimi Antonelli,Mercedes,109.741,,,17,fastf1
+2025,Bahrain Grand Prix,Charles Leclerc,Ferrari,97.114,96.825,96.548,3,fastf1
+2025,Bahrain Grand Prix,Lewis Hamilton,Ferrari,93.907,93.513,93.376,7,fastf1
+2025,Bahrain Grand Prix,Lando Norris,McLaren,110.274,109.858,109.495,6,fastf1
+2025,Bahrain Grand Prix,Oscar Piastri,McLaren,108.672,108.078,107.678,5,fastf1
+2025,Bahrain Grand Prix,Fernando Alonso,Aston Martin,84.855,84.481,83.59,4,fastf1
+2025,Bahrain Grand Prix,Lance Stroll,Aston Martin,80.265,,,20,fastf1
+2025,Bahrain Grand Prix,Esteban Ocon,Alpine,92.698,92.215,91.859,1,fastf1
+2025,Bahrain Grand Prix,Jack Doohan,Alpine,91.195,,,19,fastf1
+2025,Bahrain Grand Prix,Gabriel Bortoleto,Kick Sauber,102.286,101.876,,12,fastf1
+2025,Bahrain Grand Prix,Nico Hulkenberg,Kick Sauber,101.593,100.881,,15,fastf1
+2025,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,100.032,,,18,fastf1
+2025,Bahrain Grand Prix,Oliver Bearman,Haas F1 Team,78.797,78.314,,14,fastf1
+2025,Bahrain Grand Prix,Isack Hadjar,Racing Bulls,94.402,93.992,93.109,8,fastf1
+2025,Bahrain Grand Prix,Yuki Tsunoda,Racing Bulls,79.307,,,16,fastf1
+2025,Bahrain Grand Prix,Alexander Albon,Williams,101.468,101.359,100.758,2,fastf1
+2025,Bahrain Grand Prix,Franco Colapinto,Williams,109.763,109.617,108.991,9,fastf1
+2025,Qatar Grand Prix,Max Verstappen,Red Bull Racing,106.285,105.547,,15,fastf1
+2025,Qatar Grand Prix,Liam Lawson,Red Bull Racing,90.391,,,16,fastf1
+2025,Qatar Grand Prix,George Russell,Mercedes,93.894,93.411,92.901,5,fastf1
+2025,Qatar Grand Prix,Andrea Kimi Antonelli,Mercedes,84.085,,,20,fastf1
+2025,Qatar Grand Prix,Charles Leclerc,Ferrari,104.23,104.023,103.718,7,fastf1
+2025,Qatar Grand Prix,Lewis Hamilton,Ferrari,104.967,104.304,,11,fastf1
+2025,Qatar Grand Prix,Lando Norris,McLaren,98.02,97.875,97.237,3,fastf1
+2025,Qatar Grand Prix,Oscar Piastri,McLaren,82.14,82.087,,12,fastf1
+2025,Qatar Grand Prix,Fernando Alonso,Aston Martin,78.398,77.599,,14,fastf1
+2025,Qatar Grand Prix,Lance Stroll,Aston Martin,108.376,107.744,,13,fastf1
+2025,Qatar Grand Prix,Esteban Ocon,Alpine,78.622,,,19,fastf1
+2025,Qatar Grand Prix,Jack Doohan,Alpine,102.254,101.583,101.008,2,fastf1
+2025,Qatar Grand Prix,Gabriel Bortoleto,Kick Sauber,94.504,94.012,93.625,1,fastf1
+2025,Qatar Grand Prix,Nico Hulkenberg,Kick Sauber,110.511,109.805,109.313,9,fastf1
+2025,Qatar Grand Prix,Kevin Magnussen,Haas F1 Team,83.547,83.384,82.611,10,fastf1
+2025,Qatar Grand Prix,Oliver Bearman,Haas F1 Team,106.066,105.781,105.173,4,fastf1
+2025,Qatar Grand Prix,Isack Hadjar,Racing Bulls,90.463,,,18,fastf1
+2025,Qatar Grand Prix,Yuki Tsunoda,Racing Bulls,92.951,92.584,91.607,6,fastf1
+2025,Qatar Grand Prix,Alexander Albon,Williams,110.939,110.325,110.027,8,fastf1
+2025,Qatar Grand Prix,Franco Colapinto,Williams,107.412,,,17,fastf1
+2025,Miami Grand Prix,Max Verstappen,Red Bull Racing,97.852,97.115,97.226,4,fastf1
+2025,Miami Grand Prix,Liam Lawson,Red Bull Racing,91.624,,,18,fastf1
+2025,Miami Grand Prix,George Russell,Mercedes,90.062,,,20,fastf1
+2025,Miami Grand Prix,Andrea Kimi Antonelli,Mercedes,80.146,80.127,,14,fastf1
+2025,Miami Grand Prix,Charles Leclerc,Ferrari,98.441,98.035,97.191,1,fastf1
+2025,Miami Grand Prix,Lewis Hamilton,Ferrari,110.879,110.659,110.263,9,fastf1
+2025,Miami Grand Prix,Lando Norris,McLaren,86.378,85.834,,12,fastf1
+2025,Miami Grand Prix,Oscar Piastri,McLaren,102.878,102.835,102.248,3,fastf1
+2025,Miami Grand Prix,Fernando Alonso,Aston Martin,81.547,,,17,fastf1
+2025,Miami Grand Prix,Lance Stroll,Aston Martin,96.316,,,16,fastf1
+2025,Miami Grand Prix,Esteban Ocon,Alpine,97.91,97.839,96.543,7,fastf1
+2025,Miami Grand Prix,Jack Doohan,Alpine,106.551,106.416,105.298,2,fastf1
+2025,Miami Grand Prix,Gabriel Bortoleto,Kick Sauber,103.752,103.065,103.144,6,fastf1
+2025,Miami Grand Prix,Nico Hulkenberg,Kick Sauber,89.163,88.555,,15,fastf1
+2025,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,78.339,,,19,fastf1
+2025,Miami Grand Prix,Oliver Bearman,Haas F1 Team,105.974,105.723,105.076,5,fastf1
+2025,Miami Grand Prix,Isack Hadjar,Racing Bulls,100.051,99.815,99.324,8,fastf1
+2025,Miami Grand Prix,Yuki Tsunoda,Racing Bulls,78.482,77.838,77.429,10,fastf1
+2025,Miami Grand Prix,Alexander Albon,Williams,103.962,103.593,,13,fastf1
+2025,Miami Grand Prix,Franco Colapinto,Williams,96.314,95.752,,11,fastf1
+2025,Belgium Grand Prix,Max Verstappen,Red Bull Racing,88.346,87.713,,11,fastf1
+2025,Belgium Grand Prix,Liam Lawson,Red Bull Racing,111.258,,,18,fastf1
+2025,Belgium Grand Prix,George Russell,Mercedes,97.94,97.742,97.327,7,fastf1
+2025,Belgium Grand Prix,Andrea Kimi Antonelli,Mercedes,101.992,101.878,,15,fastf1
+2025,Belgium Grand Prix,Charles Leclerc,Ferrari,104.618,104.016,,13,fastf1
+2025,Belgium Grand Prix,Lewis Hamilton,Ferrari,80.411,,,17,fastf1
+2025,Belgium Grand Prix,Lando Norris,McLaren,109.963,,,19,fastf1
+2025,Belgium Grand Prix,Oscar Piastri,McLaren,82.936,82.363,82.007,5,fastf1
+2025,Belgium Grand Prix,Fernando Alonso,Aston Martin,103.892,103.837,102.732,6,fastf1
+2025,Belgium Grand Prix,Lance Stroll,Aston Martin,110.997,110.865,110.392,10,fastf1
+2025,Belgium Grand Prix,Esteban Ocon,Alpine,105.599,,,20,fastf1
+2025,Belgium Grand Prix,Jack Doohan,Alpine,100.36,100.181,99.83,9,fastf1
+2025,Belgium Grand Prix,Gabriel Bortoleto,Kick Sauber,108.08,107.841,106.858,1,fastf1
+2025,Belgium Grand Prix,Nico Hulkenberg,Kick Sauber,110.182,109.406,109.457,8,fastf1
+2025,Belgium Grand Prix,Kevin Magnussen,Haas F1 Team,80.322,80.074,,14,fastf1
+2025,Belgium Grand Prix,Oliver Bearman,Haas F1 Team,111.918,111.264,110.682,4,fastf1
+2025,Belgium Grand Prix,Isack Hadjar,Racing Bulls,87.944,87.147,86.864,2,fastf1
+2025,Belgium Grand Prix,Yuki Tsunoda,Racing Bulls,85.452,,,16,fastf1
+2025,Belgium Grand Prix,Alexander Albon,Williams,99.859,99.693,,12,fastf1
+2025,Belgium Grand Prix,Franco Colapinto,Williams,84.114,83.511,83.191,3,fastf1
+2025,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,91.033,90.316,,14,fastf1
+2025,Azerbaijan Grand Prix,Liam Lawson,Red Bull Racing,84.136,83.931,83.363,6,fastf1
+2025,Azerbaijan Grand Prix,George Russell,Mercedes,99.642,,,20,fastf1
+2025,Azerbaijan Grand Prix,Andrea Kimi Antonelli,Mercedes,97.269,96.951,96.26,7,fastf1
+2025,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,103.169,102.933,102.13,8,fastf1
+2025,Azerbaijan Grand Prix,Lewis Hamilton,Ferrari,94.769,94.412,94.205,3,fastf1
+2025,Azerbaijan Grand Prix,Lando Norris,McLaren,109.539,,,16,fastf1
+2025,Azerbaijan Grand Prix,Oscar Piastri,McLaren,105.734,105.086,,11,fastf1
+2025,Azerbaijan Grand Prix,Fernando Alonso,Aston Martin,88.689,87.982,87.376,1,fastf1
+2025,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,94.324,93.879,,12,fastf1
+2025,Azerbaijan Grand Prix,Esteban Ocon,Alpine,100.122,,,17,fastf1
+2025,Azerbaijan Grand Prix,Jack Doohan,Alpine,103.335,,,18,fastf1
+2025,Azerbaijan Grand Prix,Gabriel Bortoleto,Kick Sauber,103.961,103.545,,13,fastf1
+2025,Azerbaijan Grand Prix,Nico Hulkenberg,Kick Sauber,84.27,84.219,83.08,2,fastf1
+2025,Azerbaijan Grand Prix,Kevin Magnussen,Haas F1 Team,78.471,,,19,fastf1
+2025,Azerbaijan Grand Prix,Oliver Bearman,Haas F1 Team,80.728,80.441,79.899,9,fastf1
+2025,Azerbaijan Grand Prix,Isack Hadjar,Racing Bulls,98.446,98.201,,15,fastf1
+2025,Azerbaijan Grand Prix,Yuki Tsunoda,Racing Bulls,106.033,105.713,105.395,10,fastf1
+2025,Azerbaijan Grand Prix,Alexander Albon,Williams,101.292,100.833,100.579,5,fastf1
+2025,Azerbaijan Grand Prix,Franco Colapinto,Williams,92.71,92.181,91.702,4,fastf1
+2025,Singapore Grand Prix,Max Verstappen,Red Bull Racing,93.103,92.528,92.052,7,fastf1
+2025,Singapore Grand Prix,Liam Lawson,Red Bull Racing,92.467,92.046,91.778,8,fastf1
+2025,Singapore Grand Prix,George Russell,Mercedes,95.509,95.205,94.579,1,fastf1
+2025,Singapore Grand Prix,Andrea Kimi Antonelli,Mercedes,96.756,,,17,fastf1
+2025,Singapore Grand Prix,Charles Leclerc,Ferrari,81.425,,,16,fastf1
+2025,Singapore Grand Prix,Lewis Hamilton,Ferrari,98.195,97.964,97.605,9,fastf1
+2025,Singapore Grand Prix,Lando Norris,McLaren,94.052,93.971,93.226,3,fastf1
+2025,Singapore Grand Prix,Oscar Piastri,McLaren,91.187,91.046,,11,fastf1
+2025,Singapore Grand Prix,Fernando Alonso,Aston Martin,85.579,84.812,,12,fastf1
+2025,Singapore Grand Prix,Lance Stroll,Aston Martin,90.468,90.438,,15,fastf1
+2025,Singapore Grand Prix,Esteban Ocon,Alpine,99.986,,,18,fastf1
+2025,Singapore Grand Prix,Jack Doohan,Alpine,107.975,107.354,106.757,2,fastf1
+2025,Singapore Grand Prix,Gabriel Bortoleto,Kick Sauber,111.927,,,20,fastf1
+2025,Singapore Grand Prix,Nico Hulkenberg,Kick Sauber,88.876,88.138,87.692,4,fastf1
+2025,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,94.928,94.412,,14,fastf1
+2025,Singapore Grand Prix,Oliver Bearman,Haas F1 Team,102.956,102.308,102.443,6,fastf1
+2025,Singapore Grand Prix,Isack Hadjar,Racing Bulls,108.343,107.798,107.821,10,fastf1
+2025,Singapore Grand Prix,Yuki Tsunoda,Racing Bulls,101.1,,,19,fastf1
+2025,Singapore Grand Prix,Alexander Albon,Williams,88.489,88.244,,13,fastf1
+2025,Singapore Grand Prix,Franco Colapinto,Williams,81.336,81.211,80.572,5,fastf1
+2025,Mexico Grand Prix,Max Verstappen,Red Bull Racing,81.453,80.663,,14,fastf1
+2025,Mexico Grand Prix,Liam Lawson,Red Bull Racing,110.29,109.745,108.909,1,fastf1
+2025,Mexico Grand Prix,George Russell,Mercedes,84.309,,,18,fastf1
+2025,Mexico Grand Prix,Andrea Kimi Antonelli,Mercedes,86.089,85.93,84.792,10,fastf1
+2025,Mexico Grand Prix,Charles Leclerc,Ferrari,111.674,111.514,110.761,7,fastf1
+2025,Mexico Grand Prix,Lewis Hamilton,Ferrari,78.601,78.218,77.446,3,fastf1
+2025,Mexico Grand Prix,Lando Norris,McLaren,91.197,91.172,,11,fastf1
+2025,Mexico Grand Prix,Oscar Piastri,McLaren,84.333,83.817,83.268,4,fastf1
+2025,Mexico Grand Prix,Fernando Alonso,Aston Martin,106.558,106.207,105.258,2,fastf1
+2025,Mexico Grand Prix,Lance Stroll,Aston Martin,92.288,92.254,91.529,8,fastf1
+2025,Mexico Grand Prix,Esteban Ocon,Alpine,88.472,,,17,fastf1
+2025,Mexico Grand Prix,Jack Doohan,Alpine,109.035,108.798,,13,fastf1
+2025,Mexico Grand Prix,Gabriel Bortoleto,Kick Sauber,107.249,106.496,106.053,9,fastf1
+2025,Mexico Grand Prix,Nico Hulkenberg,Kick Sauber,94.279,94.265,93.578,5,fastf1
+2025,Mexico Grand Prix,Kevin Magnussen,Haas F1 Team,78.799,,,19,fastf1
+2025,Mexico Grand Prix,Oliver Bearman,Haas F1 Team,81.713,,,20,fastf1
+2025,Mexico Grand Prix,Isack Hadjar,Racing Bulls,91.378,90.584,90.144,6,fastf1
+2025,Mexico Grand Prix,Yuki Tsunoda,Racing Bulls,85.199,84.447,,15,fastf1
+2025,Mexico Grand Prix,Alexander Albon,Williams,90.151,89.54,,12,fastf1
+2025,Mexico Grand Prix,Franco Colapinto,Williams,104.471,,,16,fastf1
+2025,Brazil Grand Prix,Max Verstappen,Red Bull Racing,85.242,85.196,83.976,2,fastf1
+2025,Brazil Grand Prix,Liam Lawson,Red Bull Racing,84.644,84.311,84.12,10,fastf1
+2025,Brazil Grand Prix,George Russell,Mercedes,95.195,94.877,,13,fastf1
+2025,Brazil Grand Prix,Andrea Kimi Antonelli,Mercedes,106.645,105.992,105.467,9,fastf1
+2025,Brazil Grand Prix,Charles Leclerc,Ferrari,101.075,100.281,99.799,5,fastf1
+2025,Brazil Grand Prix,Lewis Hamilton,Ferrari,78.536,,,19,fastf1
+2025,Brazil Grand Prix,Lando Norris,McLaren,95.553,95.018,,14,fastf1
+2025,Brazil Grand Prix,Oscar Piastri,McLaren,101.899,,,16,fastf1
+2025,Brazil Grand Prix,Fernando Alonso,Aston Martin,93.733,,,18,fastf1
+2025,Brazil Grand Prix,Lance Stroll,Aston Martin,97.578,97.306,96.402,6,fastf1
+2025,Brazil Grand Prix,Esteban Ocon,Alpine,105.78,105.053,,12,fastf1
+2025,Brazil Grand Prix,Jack Doohan,Alpine,83.597,83.156,82.207,3,fastf1
+2025,Brazil Grand Prix,Gabriel Bortoleto,Kick Sauber,106.966,106.257,105.788,7,fastf1
+2025,Brazil Grand Prix,Nico Hulkenberg,Kick Sauber,90.901,90.485,90.124,4,fastf1
+2025,Brazil Grand Prix,Kevin Magnussen,Haas F1 Team,89.835,89.426,88.623,8,fastf1
+2025,Brazil Grand Prix,Oliver Bearman,Haas F1 Team,108.887,108.189,,15,fastf1
+2025,Brazil Grand Prix,Isack Hadjar,Racing Bulls,85.262,85.069,84.688,1,fastf1
+2025,Brazil Grand Prix,Yuki Tsunoda,Racing Bulls,94.957,94.786,,11,fastf1
+2025,Brazil Grand Prix,Alexander Albon,Williams,111.248,,,17,fastf1
+2025,Brazil Grand Prix,Franco Colapinto,Williams,80.205,,,20,fastf1
+2025,China Grand Prix,Max Verstappen,Red Bull Racing,84.665,84.031,83.32,2,fastf1
+2025,China Grand Prix,Liam Lawson,Red Bull Racing,82.696,,,20,fastf1
+2025,China Grand Prix,George Russell,Mercedes,83.395,83.261,82.166,7,fastf1
+2025,China Grand Prix,Andrea Kimi Antonelli,Mercedes,97.985,97.43,96.821,8,fastf1
+2025,China Grand Prix,Charles Leclerc,Ferrari,102.694,102.129,101.811,4,fastf1
+2025,China Grand Prix,Lewis Hamilton,Ferrari,110.557,110.04,109.191,6,fastf1
+2025,China Grand Prix,Lando Norris,McLaren,97.205,96.577,96.652,5,fastf1
+2025,China Grand Prix,Oscar Piastri,McLaren,95.246,,,16,fastf1
+2025,China Grand Prix,Fernando Alonso,Aston Martin,97.45,97.433,96.634,9,fastf1
+2025,China Grand Prix,Lance Stroll,Aston Martin,104.217,103.792,,12,fastf1
+2025,China Grand Prix,Esteban Ocon,Alpine,96.353,95.901,,13,fastf1
+2025,China Grand Prix,Jack Doohan,Alpine,102.255,102.198,,14,fastf1
+2025,China Grand Prix,Gabriel Bortoleto,Kick Sauber,108.794,108.495,,11,fastf1
+2025,China Grand Prix,Nico Hulkenberg,Kick Sauber,87.979,,,17,fastf1
+2025,China Grand Prix,Kevin Magnussen,Haas F1 Team,99.758,,,18,fastf1
+2025,China Grand Prix,Oliver Bearman,Haas F1 Team,100.293,99.803,99.766,3,fastf1
+2025,China Grand Prix,Isack Hadjar,Racing Bulls,110.357,109.857,109.675,10,fastf1
+2025,China Grand Prix,Yuki Tsunoda,Racing Bulls,80.695,80.44,,15,fastf1
+2025,China Grand Prix,Alexander Albon,Williams,100.393,,,19,fastf1
+2025,China Grand Prix,Franco Colapinto,Williams,107.237,106.69,106.103,1,fastf1
+2025,Italy Grand Prix,Max Verstappen,Red Bull Racing,105.923,105.203,,12,fastf1
+2025,Italy Grand Prix,Liam Lawson,Red Bull Racing,111.64,,,20,fastf1
+2025,Italy Grand Prix,George Russell,Mercedes,94.09,94.031,93.541,3,fastf1
+2025,Italy Grand Prix,Andrea Kimi Antonelli,Mercedes,110.843,110.139,110.244,10,fastf1
+2025,Italy Grand Prix,Charles Leclerc,Ferrari,81.29,,,18,fastf1
+2025,Italy Grand Prix,Lewis Hamilton,Ferrari,84.102,83.656,,11,fastf1
+2025,Italy Grand Prix,Lando Norris,McLaren,94.888,,,17,fastf1
+2025,Italy Grand Prix,Oscar Piastri,McLaren,98.038,,,16,fastf1
+2025,Italy Grand Prix,Fernando Alonso,Aston Martin,93.764,93.372,,15,fastf1
+2025,Italy Grand Prix,Lance Stroll,Aston Martin,88.631,88.145,87.704,8,fastf1
+2025,Italy Grand Prix,Esteban Ocon,Alpine,101.873,101.817,,13,fastf1
+2025,Italy Grand Prix,Jack Doohan,Alpine,93.31,,,19,fastf1
+2025,Italy Grand Prix,Gabriel Bortoleto,Kick Sauber,110.146,109.404,,14,fastf1
+2025,Italy Grand Prix,Nico Hulkenberg,Kick Sauber,102.928,102.903,102.127,5,fastf1
+2025,Italy Grand Prix,Kevin Magnussen,Haas F1 Team,96.978,96.936,95.735,4,fastf1
+2025,Italy Grand Prix,Oliver Bearman,Haas F1 Team,82.908,82.471,81.733,9,fastf1
+2025,Italy Grand Prix,Isack Hadjar,Racing Bulls,111.492,111.184,110.545,7,fastf1
+2025,Italy Grand Prix,Yuki Tsunoda,Racing Bulls,94.677,94.667,93.86,2,fastf1
+2025,Italy Grand Prix,Alexander Albon,Williams,93.485,93.021,92.726,6,fastf1
+2025,Italy Grand Prix,Franco Colapinto,Williams,79.599,79.037,78.536,1,fastf1
+2025,Italy Grand Prix,Max Verstappen,Red Bull Racing,108.992,108.507,107.607,7,fastf1
+2025,Italy Grand Prix,Liam Lawson,Red Bull Racing,108.334,108.129,,14,fastf1
+2025,Italy Grand Prix,George Russell,Mercedes,90.092,,,18,fastf1
+2025,Italy Grand Prix,Andrea Kimi Antonelli,Mercedes,91.846,91.75,90.816,8,fastf1
+2025,Italy Grand Prix,Charles Leclerc,Ferrari,98.304,97.733,,11,fastf1
+2025,Italy Grand Prix,Lewis Hamilton,Ferrari,80.288,79.876,,15,fastf1
+2025,Italy Grand Prix,Lando Norris,McLaren,101.937,101.424,100.807,10,fastf1
+2025,Italy Grand Prix,Oscar Piastri,McLaren,103.835,103.207,102.892,3,fastf1
+2025,Italy Grand Prix,Fernando Alonso,Aston Martin,82.868,82.514,82.001,6,fastf1
+2025,Italy Grand Prix,Lance Stroll,Aston Martin,91.141,,,17,fastf1
+2025,Italy Grand Prix,Esteban Ocon,Alpine,105.875,,,16,fastf1
+2025,Italy Grand Prix,Jack Doohan,Alpine,85.809,85.027,,13,fastf1
+2025,Italy Grand Prix,Gabriel Bortoleto,Kick Sauber,89.196,88.868,87.944,1,fastf1
+2025,Italy Grand Prix,Nico Hulkenberg,Kick Sauber,111.549,111.323,110.914,5,fastf1
+2025,Italy Grand Prix,Kevin Magnussen,Haas F1 Team,111.86,111.591,110.596,2,fastf1
+2025,Italy Grand Prix,Oliver Bearman,Haas F1 Team,81.773,81.619,80.83,9,fastf1
+2025,Italy Grand Prix,Isack Hadjar,Racing Bulls,97.646,,,20,fastf1
+2025,Italy Grand Prix,Yuki Tsunoda,Racing Bulls,106.261,105.891,,12,fastf1
+2025,Italy Grand Prix,Alexander Albon,Williams,93.585,93.336,92.767,4,fastf1
+2025,Italy Grand Prix,Franco Colapinto,Williams,97.07,,,19,fastf1
+2025,Canada Grand Prix,Max Verstappen,Red Bull Racing,84.439,84.435,83.548,3,fastf1
+2025,Canada Grand Prix,Liam Lawson,Red Bull Racing,85.476,84.971,84.348,7,fastf1
+2025,Canada Grand Prix,George Russell,Mercedes,92.287,91.63,,14,fastf1
+2025,Canada Grand Prix,Andrea Kimi Antonelli,Mercedes,93.388,93.198,,15,fastf1
+2025,Canada Grand Prix,Charles Leclerc,Ferrari,98.934,98.728,98.157,9,fastf1
+2025,Canada Grand Prix,Lewis Hamilton,Ferrari,79.624,79.34,78.708,10,fastf1
+2025,Canada Grand Prix,Lando Norris,McLaren,89.639,89.51,88.827,2,fastf1
+2025,Canada Grand Prix,Oscar Piastri,McLaren,80.687,,,17,fastf1
+2025,Canada Grand Prix,Fernando Alonso,Aston Martin,99.65,,,18,fastf1
+2025,Canada Grand Prix,Lance Stroll,Aston Martin,82.226,82.199,,11,fastf1
+2025,Canada Grand Prix,Esteban Ocon,Alpine,96.393,96.257,95.498,4,fastf1
+2025,Canada Grand Prix,Jack Doohan,Alpine,108.766,108.511,,13,fastf1
+2025,Canada Grand Prix,Gabriel Bortoleto,Kick Sauber,105.145,105.037,104.371,8,fastf1
+2025,Canada Grand Prix,Nico Hulkenberg,Kick Sauber,93.572,93.418,92.814,6,fastf1
+2025,Canada Grand Prix,Kevin Magnussen,Haas F1 Team,105.394,105.246,,12,fastf1
+2025,Canada Grand Prix,Oliver Bearman,Haas F1 Team,104.144,,,16,fastf1
+2025,Canada Grand Prix,Isack Hadjar,Racing Bulls,84.266,83.703,83.304,1,fastf1
+2025,Canada Grand Prix,Yuki Tsunoda,Racing Bulls,106.194,,,19,fastf1
+2025,Canada Grand Prix,Alexander Albon,Williams,79.604,79.145,78.585,5,fastf1
+2025,Canada Grand Prix,Franco Colapinto,Williams,100.901,,,20,fastf1
+2025,Saudi Arabia Grand Prix,Max Verstappen,Red Bull Racing,108.272,107.65,107.534,10,fastf1
+2025,Saudi Arabia Grand Prix,Liam Lawson,Red Bull Racing,86.795,86.691,86.211,1,fastf1
+2025,Saudi Arabia Grand Prix,George Russell,Mercedes,98.447,98.229,,12,fastf1
+2025,Saudi Arabia Grand Prix,Andrea Kimi Antonelli,Mercedes,98.771,98.762,98.248,8,fastf1
+2025,Saudi Arabia Grand Prix,Charles Leclerc,Ferrari,99.362,,,19,fastf1
+2025,Saudi Arabia Grand Prix,Lewis Hamilton,Ferrari,93.473,,,16,fastf1
+2025,Saudi Arabia Grand Prix,Lando Norris,McLaren,80.005,79.698,,13,fastf1
+2025,Saudi Arabia Grand Prix,Oscar Piastri,McLaren,97.366,,,18,fastf1
+2025,Saudi Arabia Grand Prix,Fernando Alonso,Aston Martin,106.22,105.839,105.43,2,fastf1
+2025,Saudi Arabia Grand Prix,Lance Stroll,Aston Martin,80.157,,,20,fastf1
+2025,Saudi Arabia Grand Prix,Esteban Ocon,Alpine,91.398,90.982,90.059,5,fastf1
+2025,Saudi Arabia Grand Prix,Jack Doohan,Alpine,79.714,,,17,fastf1
+2025,Saudi Arabia Grand Prix,Gabriel Bortoleto,Kick Sauber,110.223,109.981,108.969,6,fastf1
+2025,Saudi Arabia Grand Prix,Nico Hulkenberg,Kick Sauber,97.583,97.337,,11,fastf1
+2025,Saudi Arabia Grand Prix,Kevin Magnussen,Haas F1 Team,90.633,90.439,89.881,4,fastf1
+2025,Saudi Arabia Grand Prix,Oliver Bearman,Haas F1 Team,84.101,83.886,,14,fastf1
+2025,Saudi Arabia Grand Prix,Isack Hadjar,Racing Bulls,103.35,102.652,102.021,7,fastf1
+2025,Saudi Arabia Grand Prix,Yuki Tsunoda,Racing Bulls,96.429,95.815,,15,fastf1
+2025,Saudi Arabia Grand Prix,Alexander Albon,Williams,85.659,85.161,84.797,3,fastf1
+2025,Saudi Arabia Grand Prix,Franco Colapinto,Williams,111.149,111.143,110.104,9,fastf1
+2025,Monaco Grand Prix,Max Verstappen,Red Bull Racing,100.47,100.464,,15,fastf1
+2025,Monaco Grand Prix,Liam Lawson,Red Bull Racing,111.205,,,18,fastf1
+2025,Monaco Grand Prix,George Russell,Mercedes,103.727,103.449,103.127,3,fastf1
+2025,Monaco Grand Prix,Andrea Kimi Antonelli,Mercedes,91.554,,,17,fastf1
+2025,Monaco Grand Prix,Charles Leclerc,Ferrari,95.731,95.155,95.108,2,fastf1
+2025,Monaco Grand Prix,Lewis Hamilton,Ferrari,90.374,89.739,,11,fastf1
+2025,Monaco Grand Prix,Lando Norris,McLaren,88.049,87.552,86.785,7,fastf1
+2025,Monaco Grand Prix,Oscar Piastri,McLaren,101.39,100.637,,13,fastf1
+2025,Monaco Grand Prix,Fernando Alonso,Aston Martin,79.012,78.345,77.876,10,fastf1
+2025,Monaco Grand Prix,Lance Stroll,Aston Martin,82.21,81.568,,12,fastf1
+2025,Monaco Grand Prix,Esteban Ocon,Alpine,105.052,104.61,104.462,4,fastf1
+2025,Monaco Grand Prix,Jack Doohan,Alpine,85.489,,,20,fastf1
+2025,Monaco Grand Prix,Gabriel Bortoleto,Kick Sauber,103.409,102.628,102.652,5,fastf1
+2025,Monaco Grand Prix,Nico Hulkenberg,Kick Sauber,102.499,,,16,fastf1
+2025,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,91.3,90.586,90.472,6,fastf1
+2025,Monaco Grand Prix,Oliver Bearman,Haas F1 Team,90.023,89.493,88.714,1,fastf1
+2025,Monaco Grand Prix,Isack Hadjar,Racing Bulls,99.019,98.977,98.25,8,fastf1
+2025,Monaco Grand Prix,Yuki Tsunoda,Racing Bulls,92.139,,,19,fastf1
+2025,Monaco Grand Prix,Alexander Albon,Williams,84.861,84.586,84.041,9,fastf1
+2025,Monaco Grand Prix,Franco Colapinto,Williams,92.765,92.13,,14,fastf1
+2025,Hungary Grand Prix,Max Verstappen,Red Bull Racing,95.781,95.142,95.105,5,fastf1
+2025,Hungary Grand Prix,Liam Lawson,Red Bull Racing,93.248,,,16,fastf1
+2025,Hungary Grand Prix,George Russell,Mercedes,90.448,90.243,,13,fastf1
+2025,Hungary Grand Prix,Andrea Kimi Antonelli,Mercedes,78.152,77.707,,14,fastf1
+2025,Hungary Grand Prix,Charles Leclerc,Ferrari,108.364,107.809,107.378,6,fastf1
+2025,Hungary Grand Prix,Lewis Hamilton,Ferrari,84.813,84.644,83.439,4,fastf1
+2025,Hungary Grand Prix,Lando Norris,McLaren,84.203,83.669,83.605,10,fastf1
+2025,Hungary Grand Prix,Oscar Piastri,McLaren,90.011,,,18,fastf1
+2025,Hungary Grand Prix,Fernando Alonso,Aston Martin,94.069,93.489,,11,fastf1
+2025,Hungary Grand Prix,Lance Stroll,Aston Martin,106.313,,,20,fastf1
+2025,Hungary Grand Prix,Esteban Ocon,Alpine,85.221,85.085,84.107,3,fastf1
+2025,Hungary Grand Prix,Jack Doohan,Alpine,78.295,78.033,77.713,1,fastf1
+2025,Hungary Grand Prix,Gabriel Bortoleto,Kick Sauber,86.304,,,17,fastf1
+2025,Hungary Grand Prix,Nico Hulkenberg,Kick Sauber,106.801,106.213,105.704,7,fastf1
+2025,Hungary Grand Prix,Kevin Magnussen,Haas F1 Team,87.208,86.721,,12,fastf1
+2025,Hungary Grand Prix,Oliver Bearman,Haas F1 Team,104.547,104.304,103.527,2,fastf1
+2025,Hungary Grand Prix,Isack Hadjar,Racing Bulls,94.84,94.146,94.285,8,fastf1
+2025,Hungary Grand Prix,Yuki Tsunoda,Racing Bulls,88.191,,,19,fastf1
+2025,Hungary Grand Prix,Alexander Albon,Williams,97.736,97.457,96.49,9,fastf1
+2025,Hungary Grand Prix,Franco Colapinto,Williams,103.704,102.95,,15,fastf1
+2025,Austria Grand Prix,Max Verstappen,Red Bull Racing,88.315,,,19,fastf1
+2025,Austria Grand Prix,Liam Lawson,Red Bull Racing,89.978,89.913,89.433,2,fastf1
+2025,Austria Grand Prix,George Russell,Mercedes,111.599,,,20,fastf1
+2025,Austria Grand Prix,Andrea Kimi Antonelli,Mercedes,89.768,88.981,88.646,5,fastf1
+2025,Austria Grand Prix,Charles Leclerc,Ferrari,82.275,81.712,81.71,3,fastf1
+2025,Austria Grand Prix,Lewis Hamilton,Ferrari,79.308,79.2,,15,fastf1
+2025,Austria Grand Prix,Lando Norris,McLaren,101.669,101.36,101.082,7,fastf1
+2025,Austria Grand Prix,Oscar Piastri,McLaren,94.456,93.707,,11,fastf1
+2025,Austria Grand Prix,Fernando Alonso,Aston Martin,78.926,78.792,78.293,4,fastf1
+2025,Austria Grand Prix,Lance Stroll,Aston Martin,85.168,85.069,83.931,10,fastf1
+2025,Austria Grand Prix,Esteban Ocon,Alpine,90.903,90.464,89.994,6,fastf1
+2025,Austria Grand Prix,Jack Doohan,Alpine,88.313,87.889,,13,fastf1
+2025,Austria Grand Prix,Gabriel Bortoleto,Kick Sauber,84.782,84.106,83.558,1,fastf1
+2025,Austria Grand Prix,Nico Hulkenberg,Kick Sauber,104.765,104.604,103.875,8,fastf1
+2025,Austria Grand Prix,Kevin Magnussen,Haas F1 Team,106.708,106.401,,14,fastf1
+2025,Austria Grand Prix,Oliver Bearman,Haas F1 Team,82.056,,,16,fastf1
+2025,Austria Grand Prix,Isack Hadjar,Racing Bulls,103.148,,,18,fastf1
+2025,Austria Grand Prix,Yuki Tsunoda,Racing Bulls,78.03,,,17,fastf1
+2025,Austria Grand Prix,Alexander Albon,Williams,100.647,100.432,,12,fastf1
+2025,Austria Grand Prix,Franco Colapinto,Williams,88.155,87.613,87.11,9,fastf1
+2025,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing,105.499,104.906,104.302,3,fastf1
+2025,Las Vegas Grand Prix,Liam Lawson,Red Bull Racing,80.734,,,16,fastf1
+2025,Las Vegas Grand Prix,George Russell,Mercedes,93.897,93.332,,12,fastf1
+2025,Las Vegas Grand Prix,Andrea Kimi Antonelli,Mercedes,86.42,86.041,,14,fastf1
+2025,Las Vegas Grand Prix,Charles Leclerc,Ferrari,82.28,82.206,81.404,9,fastf1
+2025,Las Vegas Grand Prix,Lewis Hamilton,Ferrari,109.342,108.978,108.623,10,fastf1
+2025,Las Vegas Grand Prix,Lando Norris,McLaren,103.356,,,20,fastf1
+2025,Las Vegas Grand Prix,Oscar Piastri,McLaren,83.598,,,19,fastf1
+2025,Las Vegas Grand Prix,Fernando Alonso,Aston Martin,90.39,89.959,89.048,7,fastf1
+2025,Las Vegas Grand Prix,Lance Stroll,Aston Martin,89.93,89.855,88.791,4,fastf1
+2025,Las Vegas Grand Prix,Esteban Ocon,Alpine,101.009,100.33,99.81,1,fastf1
+2025,Las Vegas Grand Prix,Jack Doohan,Alpine,109.587,109.147,108.779,8,fastf1
+2025,Las Vegas Grand Prix,Gabriel Bortoleto,Kick Sauber,89.517,89.446,,15,fastf1
+2025,Las Vegas Grand Prix,Nico Hulkenberg,Kick Sauber,83.645,83.074,82.825,5,fastf1
+2025,Las Vegas Grand Prix,Kevin Magnussen,Haas F1 Team,83.949,,,17,fastf1
+2025,Las Vegas Grand Prix,Oliver Bearman,Haas F1 Team,95.897,95.823,,13,fastf1
+2025,Las Vegas Grand Prix,Isack Hadjar,Racing Bulls,88.327,,,18,fastf1
+2025,Las Vegas Grand Prix,Yuki Tsunoda,Racing Bulls,102.825,102.161,101.919,2,fastf1
+2025,Las Vegas Grand Prix,Alexander Albon,Williams,106.649,105.905,106.13,6,fastf1
+2025,Las Vegas Grand Prix,Franco Colapinto,Williams,84.789,84.624,,11,fastf1
+2025,Netherlands Grand Prix,Max Verstappen,Red Bull Racing,107.404,106.704,106.038,6,fastf1
+2025,Netherlands Grand Prix,Liam Lawson,Red Bull Racing,81.926,81.281,,15,fastf1
+2025,Netherlands Grand Prix,George Russell,Mercedes,90.514,89.76,89.762,5,fastf1
+2025,Netherlands Grand Prix,Andrea Kimi Antonelli,Mercedes,85.276,,,17,fastf1
+2025,Netherlands Grand Prix,Charles Leclerc,Ferrari,110.221,,,19,fastf1
+2025,Netherlands Grand Prix,Lewis Hamilton,Ferrari,88.522,88.393,,12,fastf1
+2025,Netherlands Grand Prix,Lando Norris,McLaren,96.622,,,16,fastf1
+2025,Netherlands Grand Prix,Oscar Piastri,McLaren,105.33,104.76,104.786,4,fastf1
+2025,Netherlands Grand Prix,Fernando Alonso,Aston Martin,111.655,110.872,110.916,1,fastf1
+2025,Netherlands Grand Prix,Lance Stroll,Aston Martin,111.829,111.435,110.724,9,fastf1
+2025,Netherlands Grand Prix,Esteban Ocon,Alpine,93.156,92.557,92.283,3,fastf1
+2025,Netherlands Grand Prix,Jack Doohan,Alpine,86.01,85.399,85.361,8,fastf1
+2025,Netherlands Grand Prix,Gabriel Bortoleto,Kick Sauber,80.216,79.642,,11,fastf1
+2025,Netherlands Grand Prix,Nico Hulkenberg,Kick Sauber,84.442,84.119,,14,fastf1
+2025,Netherlands Grand Prix,Kevin Magnussen,Haas F1 Team,78.516,77.993,,13,fastf1
+2025,Netherlands Grand Prix,Oliver Bearman,Haas F1 Team,85.111,84.325,84.275,2,fastf1
+2025,Netherlands Grand Prix,Isack Hadjar,Racing Bulls,87.076,,,18,fastf1
+2025,Netherlands Grand Prix,Yuki Tsunoda,Racing Bulls,91.883,91.679,90.625,10,fastf1
+2025,Netherlands Grand Prix,Alexander Albon,Williams,81.325,,,20,fastf1
+2025,Netherlands Grand Prix,Franco Colapinto,Williams,78.926,78.263,77.813,7,fastf1
+2025,Japan Grand Prix,Max Verstappen,Red Bull Racing,104.196,103.495,103.47,9,fastf1
+2025,Japan Grand Prix,Liam Lawson,Red Bull Racing,100.528,,,18,fastf1
+2025,Japan Grand Prix,George Russell,Mercedes,110.472,110.416,,13,fastf1
+2025,Japan Grand Prix,Andrea Kimi Antonelli,Mercedes,96.431,95.823,,15,fastf1
+2025,Japan Grand Prix,Charles Leclerc,Ferrari,99.293,,,16,fastf1
+2025,Japan Grand Prix,Lewis Hamilton,Ferrari,94.843,,,20,fastf1
+2025,Japan Grand Prix,Lando Norris,McLaren,80.363,79.913,,12,fastf1
+2025,Japan Grand Prix,Oscar Piastri,McLaren,98.997,98.846,,11,fastf1
+2025,Japan Grand Prix,Fernando Alonso,Aston Martin,88.189,87.97,87.092,7,fastf1
+2025,Japan Grand Prix,Lance Stroll,Aston Martin,78.47,,,17,fastf1
+2025,Japan Grand Prix,Esteban Ocon,Alpine,104.221,103.985,103.173,8,fastf1
+2025,Japan Grand Prix,Jack Doohan,Alpine,80.793,80.135,80.186,1,fastf1
+2025,Japan Grand Prix,Gabriel Bortoleto,Kick Sauber,109.534,109.436,108.94,3,fastf1
+2025,Japan Grand Prix,Nico Hulkenberg,Kick Sauber,85.837,85.672,85.211,2,fastf1
+2025,Japan Grand Prix,Kevin Magnussen,Haas F1 Team,102.596,102.517,101.474,4,fastf1
+2025,Japan Grand Prix,Oliver Bearman,Haas F1 Team,108.99,108.453,108.146,6,fastf1
+2025,Japan Grand Prix,Isack Hadjar,Racing Bulls,93.272,92.525,91.936,5,fastf1
+2025,Japan Grand Prix,Yuki Tsunoda,Racing Bulls,88.248,,,19,fastf1
+2025,Japan Grand Prix,Alexander Albon,Williams,88.416,87.862,87.154,10,fastf1
+2025,Japan Grand Prix,Franco Colapinto,Williams,100.999,100.633,,14,fastf1
+2025,UAE Grand Prix,Max Verstappen,Red Bull Racing,87.837,87.126,87.265,10,fastf1
+2025,UAE Grand Prix,Liam Lawson,Red Bull Racing,93.675,93.292,,11,fastf1
+2025,UAE Grand Prix,George Russell,Mercedes,88.121,87.69,86.744,4,fastf1
+2025,UAE Grand Prix,Andrea Kimi Antonelli,Mercedes,102.18,102.04,,15,fastf1
+2025,UAE Grand Prix,Charles Leclerc,Ferrari,78.012,77.494,77.12,3,fastf1
+2025,UAE Grand Prix,Lewis Hamilton,Ferrari,81.951,81.446,,13,fastf1
+2025,UAE Grand Prix,Lando Norris,McLaren,80.572,79.833,79.975,2,fastf1
+2025,UAE Grand Prix,Oscar Piastri,McLaren,100.057,99.745,,14,fastf1
+2025,UAE Grand Prix,Fernando Alonso,Aston Martin,106.003,,,19,fastf1
+2025,UAE Grand Prix,Lance Stroll,Aston Martin,106.554,,,20,fastf1
+2025,UAE Grand Prix,Esteban Ocon,Alpine,97.501,,,17,fastf1
+2025,UAE Grand Prix,Jack Doohan,Alpine,84.012,,,16,fastf1
+2025,UAE Grand Prix,Gabriel Bortoleto,Kick Sauber,102.636,102.618,,12,fastf1
+2025,UAE Grand Prix,Nico Hulkenberg,Kick Sauber,82.599,82.013,81.558,9,fastf1
+2025,UAE Grand Prix,Kevin Magnussen,Haas F1 Team,84.829,84.582,83.554,1,fastf1
+2025,UAE Grand Prix,Oliver Bearman,Haas F1 Team,105.329,105.007,104.469,8,fastf1
+2025,UAE Grand Prix,Isack Hadjar,Racing Bulls,99.983,99.398,98.719,5,fastf1
+2025,UAE Grand Prix,Yuki Tsunoda,Racing Bulls,108.092,107.757,106.728,7,fastf1
+2025,UAE Grand Prix,Alexander Albon,Williams,103.436,,,18,fastf1
+2025,UAE Grand Prix,Franco Colapinto,Williams,90.335,89.92,89.755,6,fastf1
+2025,Spain Grand Prix,Max Verstappen,Red Bull Racing,95.812,,,18,fastf1
+2025,Spain Grand Prix,Liam Lawson,Red Bull Racing,97.998,97.583,,11,fastf1
+2025,Spain Grand Prix,George Russell,Mercedes,81.443,,,16,fastf1
+2025,Spain Grand Prix,Andrea Kimi Antonelli,Mercedes,109.302,109.223,108.228,9,fastf1
+2025,Spain Grand Prix,Charles Leclerc,Ferrari,103.052,102.415,102.053,4,fastf1
+2025,Spain Grand Prix,Lewis Hamilton,Ferrari,91.194,91.001,90.686,2,fastf1
+2025,Spain Grand Prix,Lando Norris,McLaren,93.79,93.453,92.58,10,fastf1
+2025,Spain Grand Prix,Oscar Piastri,McLaren,78.449,77.872,,15,fastf1
+2025,Spain Grand Prix,Fernando Alonso,Aston Martin,92.956,92.501,92.104,5,fastf1
+2025,Spain Grand Prix,Lance Stroll,Aston Martin,85.592,84.891,84.988,7,fastf1
+2025,Spain Grand Prix,Esteban Ocon,Alpine,106.24,,,20,fastf1
+2025,Spain Grand Prix,Jack Doohan,Alpine,106.405,105.744,105.429,1,fastf1
+2025,Spain Grand Prix,Gabriel Bortoleto,Kick Sauber,85.075,84.296,84.194,8,fastf1
+2025,Spain Grand Prix,Nico Hulkenberg,Kick Sauber,91.663,,,17,fastf1
+2025,Spain Grand Prix,Kevin Magnussen,Haas F1 Team,81.91,81.203,,14,fastf1
+2025,Spain Grand Prix,Oliver Bearman,Haas F1 Team,104.991,,,19,fastf1
+2025,Spain Grand Prix,Isack Hadjar,Racing Bulls,107.136,106.859,,12,fastf1
+2025,Spain Grand Prix,Yuki Tsunoda,Racing Bulls,105.234,105.182,104.46,6,fastf1
+2025,Spain Grand Prix,Alexander Albon,Williams,86.507,86.028,,13,fastf1
+2025,Spain Grand Prix,Franco Colapinto,Williams,104.286,103.948,103.051,3,fastf1
+2025,United Kingdom Grand Prix,Max Verstappen,Red Bull Racing,97.858,97.658,97.123,9,fastf1
+2025,United Kingdom Grand Prix,Liam Lawson,Red Bull Racing,80.711,80.439,80.035,10,fastf1
+2025,United Kingdom Grand Prix,George Russell,Mercedes,103.664,103.56,102.756,7,fastf1
+2025,United Kingdom Grand Prix,Andrea Kimi Antonelli,Mercedes,95.985,95.364,95.391,3,fastf1
+2025,United Kingdom Grand Prix,Charles Leclerc,Ferrari,78.698,78.161,,12,fastf1
+2025,United Kingdom Grand Prix,Lewis Hamilton,Ferrari,89.307,89.161,88.296,8,fastf1
+2025,United Kingdom Grand Prix,Lando Norris,McLaren,107.284,106.883,106.157,2,fastf1
+2025,United Kingdom Grand Prix,Oscar Piastri,McLaren,84.089,83.652,82.975,4,fastf1
+2025,United Kingdom Grand Prix,Fernando Alonso,Aston Martin,78.864,,,16,fastf1
+2025,United Kingdom Grand Prix,Lance Stroll,Aston Martin,111.581,,,18,fastf1
+2025,United Kingdom Grand Prix,Esteban Ocon,Alpine,92.154,91.459,,13,fastf1
+2025,United Kingdom Grand Prix,Jack Doohan,Alpine,87.704,87.081,,15,fastf1
+2025,United Kingdom Grand Prix,Gabriel Bortoleto,Kick Sauber,81.782,81.318,80.926,1,fastf1
+2025,United Kingdom Grand Prix,Nico Hulkenberg,Kick Sauber,80.613,79.861,79.888,5,fastf1
+2025,United Kingdom Grand Prix,Kevin Magnussen,Haas F1 Team,109.942,,,20,fastf1
+2025,United Kingdom Grand Prix,Oliver Bearman,Haas F1 Team,96.401,,,17,fastf1
+2025,United Kingdom Grand Prix,Isack Hadjar,Racing Bulls,95.351,94.763,94.823,6,fastf1
+2025,United Kingdom Grand Prix,Yuki Tsunoda,Racing Bulls,104.188,103.823,,14,fastf1
+2025,United Kingdom Grand Prix,Alexander Albon,Williams,100.184,,,19,fastf1
+2025,United Kingdom Grand Prix,Franco Colapinto,Williams,91.381,90.74,,11,fastf1
+2025,Austin Grand Prix,Max Verstappen,Red Bull Racing,108.081,,,16,fastf1
+2025,Austin Grand Prix,Liam Lawson,Red Bull Racing,89.266,89.038,88.576,5,fastf1
+2025,Austin Grand Prix,George Russell,Mercedes,106.248,106.169,105.257,6,fastf1
+2025,Austin Grand Prix,Andrea Kimi Antonelli,Mercedes,106.487,106.377,105.957,10,fastf1
+2025,Austin Grand Prix,Charles Leclerc,Ferrari,93.44,93.278,,11,fastf1
+2025,Austin Grand Prix,Lewis Hamilton,Ferrari,103.068,102.539,102.0,4,fastf1
+2025,Austin Grand Prix,Lando Norris,McLaren,89.204,88.87,87.923,7,fastf1
+2025,Austin Grand Prix,Oscar Piastri,McLaren,105.615,104.894,105.044,8,fastf1
+2025,Austin Grand Prix,Fernando Alonso,Aston Martin,93.027,92.571,92.364,1,fastf1
+2025,Austin Grand Prix,Lance Stroll,Aston Martin,107.992,,,18,fastf1
+2025,Austin Grand Prix,Esteban Ocon,Alpine,79.012,78.571,,12,fastf1
+2025,Austin Grand Prix,Jack Doohan,Alpine,84.538,83.923,,13,fastf1
+2025,Austin Grand Prix,Gabriel Bortoleto,Kick Sauber,107.429,,,20,fastf1
+2025,Austin Grand Prix,Nico Hulkenberg,Kick Sauber,98.44,,,19,fastf1
+2025,Austin Grand Prix,Kevin Magnussen,Haas F1 Team,95.881,95.541,94.507,9,fastf1
+2025,Austin Grand Prix,Oliver Bearman,Haas F1 Team,96.649,96.443,,15,fastf1
+2025,Austin Grand Prix,Isack Hadjar,Racing Bulls,110.601,110.366,,14,fastf1
+2025,Austin Grand Prix,Yuki Tsunoda,Racing Bulls,108.843,108.374,108.273,3,fastf1
+2025,Austin Grand Prix,Alexander Albon,Williams,78.262,,,17,fastf1
+2025,Austin Grand Prix,Franco Colapinto,Williams,79.498,78.766,78.915,2,fastf1
+2025,Australia Grand Prix,Max Verstappen,Red Bull Racing,96.945,96.499,96.247,6,fastf1
+2025,Australia Grand Prix,Liam Lawson,Red Bull Racing,102.515,102.492,101.571,8,fastf1
+2025,Australia Grand Prix,George Russell,Mercedes,98.07,97.829,97.207,3,fastf1
+2025,Australia Grand Prix,Andrea Kimi Antonelli,Mercedes,101.91,,,20,fastf1
+2025,Australia Grand Prix,Charles Leclerc,Ferrari,105.4,105.25,104.055,7,fastf1
+2025,Australia Grand Prix,Lewis Hamilton,Ferrari,105.618,105.165,,15,fastf1
+2025,Australia Grand Prix,Lando Norris,McLaren,104.657,104.654,,12,fastf1
+2025,Australia Grand Prix,Oscar Piastri,McLaren,102.906,102.824,101.565,4,fastf1
+2025,Australia Grand Prix,Fernando Alonso,Aston Martin,93.529,,,16,fastf1
+2025,Australia Grand Prix,Lance Stroll,Aston Martin,96.596,,,17,fastf1
+2025,Australia Grand Prix,Esteban Ocon,Alpine,96.83,96.069,95.878,10,fastf1
+2025,Australia Grand Prix,Jack Doohan,Alpine,109.298,108.817,108.482,1,fastf1
+2025,Australia Grand Prix,Gabriel Bortoleto,Kick Sauber,80.048,,,18,fastf1
+2025,Australia Grand Prix,Nico Hulkenberg,Kick Sauber,93.357,92.866,92.553,5,fastf1
+2025,Australia Grand Prix,Kevin Magnussen,Haas F1 Team,107.238,106.68,,11,fastf1
+2025,Australia Grand Prix,Oliver Bearman,Haas F1 Team,100.813,100.073,,13,fastf1
+2025,Australia Grand Prix,Isack Hadjar,Racing Bulls,98.533,98.182,,14,fastf1
+2025,Australia Grand Prix,Yuki Tsunoda,Racing Bulls,85.778,85.44,84.429,2,fastf1
+2025,Australia Grand Prix,Alexander Albon,Williams,94.964,,,19,fastf1
+2025,Australia Grand Prix,Franco Colapinto,Williams,109.051,108.593,108.5,9,fastf1

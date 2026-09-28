@@ -1,0 +1,25 @@
+circuit_sk,circuit_id,circuit_name,country,city,track_length_km,number_of_corners,altitude_m
+1,CIRC006,Autodromo Enzo E Dino Ferrari,Italy,Imola,4.909,19,37.0
+2,CIRC004,Baku City Circuit,Azerbaijan,Baku,6.003,20,-7.0
+3,CIRC010,Red Bull Ring,Austria,Spielberg,4.318,10,678.0
+4,CIRC009,Circuit Gilles Villeneuve,Canada,Montreal,4.361,14,13.0
+5,CIRC021,Autodromo Jose Carlos Pace,Brazil,Sao Paulo,4.309,15,785.0
+6,CIRC017,Suzuka International Racing Course,Japan,Suzuka,5.807,18,45.0
+7,CIRC015,Autodromo Nazionale Monza,Italy,Unknown,5.793,11,162.0
+8,CIRC020,Autodromo Hermanos Rodriguez,Mexico,Mexico City,4.304,17,2227.0
+9,CIRC011,Silverstone Circuit,United Kingdom,Unknown,5.891,18,153.0
+10,CIRC018,Losail International Circuit,Qatar,Lusail,5.38,16,41.0
+11,CIRC014,Circuit Zandvoort,Netherlands,Zandvoort,4.259,14,6.0
+12,CIRC005,Miami International Autodrome,USA,Miami,5.412,19,41.0
+13,CIRC001,Bahrain International Circuit,Bahrain,Sakhir,5.412,15,7.0
+14,CIRC002,Jeddah Corniche Circuit,Saudi Arabia,Jeddah,6.174,27,12.0
+15,CIRC023,Yas Marina Circuit,UAE,Abu Dhabi,5.281,16,3.0
+16,CIRC024,Shanghai International Circuit,China,Shanghai,5.451,16,4.0
+17,CIRC022,Las Vegas Strip Circuit,USA,Las Vegas,6.201,17,610.0
+18,CIRC019,Circuit Of The Americas,USA,Austin,5.513,20,161.0
+19,CIRC016,Marina Bay Street Circuit,Singapore,Singapore,4.94,19,15.0
+20,CIRC003,Albert Park Circuit,Australia,Melbourne,5.278,14,10.0
+21,CIRC007,Circuit De Monaco,Monaco,Monte Carlo,3.337,19,7.0
+22,CIRC013,Circuit De Spa-Francorchamps,Belgium,Spa,7.004,19,401.0
+23,CIRC012,Hungaroring,Hungary,Budapest,4.381,14,264.0
+24,CIRC008,Circuit De Barcelona-Catalunya,Spain,Barcelona,4.657,14,109.0

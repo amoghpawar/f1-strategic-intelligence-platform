@@ -1,0 +1,70 @@
+driver_number,driver_id,driver_code,full_name,first_name,last_name,nationality,date_of_birth,team_name,season,source
+1,DRV001,VER,Max Verstappen,Max,,Dutch,1997-09-30,Red Bull Racing,2023,formula1_official
+1,DRV001,ver,"VERSTAPPEN, Max",,Verstappen,Dutch,1997-09-30,Red Bull Racing,2023,fastf1
+11,DRV002,per,"PEREZ, Sergio",Sergio,Perez,Mexican,1990-01-26,Red Bull Racing,2023,fastf1
+44,DRV003,HAM,Lewis Hamilton,Lewis,Hamilton,British,1985-01-07,Mercedes,2023,formula1_official
+44,DRV003,HAM,LEWIS HAMILTON,Lewis,Hamilton,British,1985/01/07,Mercedes,2023,openf1
+63,DRV004,RUS,George Russell,George,Russell,British,1998-02-15,Mercedes,2023,formula1_official
+63,DRV004,RUS,GEORGE RUSSELL,George,Russell,British,1998/02/15,Mercedes,2023,openf1
+16,DRV005,LEC,CHARLES LECLERC,Charles,Leclerc,Monegasque,1997/10/16,Ferrari,2023,openf1
+55,DRV006,sai,"SAINZ, Carlos",Carlos,Sainz,Spanish,1994-09-01,Ferrari,2023,fastf1
+14,DRV009,alo,"ALONSO, Fernando",Fernando,Alonso,Spanish,1981-07-29,Aston Martin,2023,fastf1
+18,DRV010,str,"STROLL, Lance",Lance,Stroll,Canadian,1998-10-29,Aston Martin,2023,fastf1
+18,DRV010,STR,LANCE STROLL,Lance,Stroll,Canadian,1998/10/29,Aston Martin,2023,openf1
+10,DRV012,gas,"GASLY, Pierre",Pierre,Gasly,French,1996-02-07,Alpine,2023,fastf1
+10,DRV012,GAS,PIERRE GASLY,Pierre,Gasly,French,1996/02/07,Alpine,2023,openf1
+77,DRV013,BOT,Valtteri Bottas,Valtteri,Bottas,Finnish,1989-08-28,Alfa Romeo,2023,formula1_official
+24,DRV014,zho,"ZHOU, Guanyu",Guanyu,Zhou,Chinese,1999-05-30,Alfa Romeo,2023,fastf1
+20,DRV015,MAG,Kevin Magnussen,,,Danish,1992-10-05,Haas F1 Team,2023,formula1_official
+20,DRV015,mag,"MAGNUSSEN, Kevin",,Magnussen,Danish,1992-10-05,Haas F1 Team,2023,fastf1
+20,DRV015,MAG,KEVIN MAGNUSSEN,Kevin,Magnussen,Danish,1992/10/05,Haas F1 Team,2023,openf1
+27,DRV016,hul,"HULKENBERG, Nico",Nico,Hulkenberg,German,1987-08-19,Haas F1 Team,2023,fastf1
+27,DRV016,HUL,NICO HULKENBERG,Nico,Hulkenberg,German,1987/08/19,HAAS F1 TEAM,2023,openf1
+22,DRV017,TSU,YUKI TSUNODA,,Tsunoda,Japanese,2000/05/11,AlphaTauri,2023,openf1
+3,DRV018,ric,"RICCIARDO, Daniel",Daniel,Ricciardo,Australian,1989-07-01,AlphaTauri,2023,fastf1
+3,DRV018,RIC,DANIEL RICCIARDO,Daniel,Ricciardo,Australian,1989/07/01,AlphaTauri,2023,openf1
+23,DRV019,ALB,ALEXANDER ALBON,Alexander,,THAI,1996/03/23,Williams,2023,openf1
+2,DRV020,SAR,Logan Sargeant,Logan,Sargeant,American,2000-12-31,Williams,2023,formula1_official
+1,DRV001,VER,Max Verstappen,Max,Verstappen,Dutch,1997-09-30,Red Bull Racing,2024,formula1_official
+11,DRV002,PER,SERGIO PEREZ,Sergio,Perez,Mexican,1990/01/26,Red Bull Racing,2024,openf1
+44,DRV003,HAM,Lewis Hamilton,Lewis,Hamilton,British,1985-01-07,Mercedes,2024,formula1_official
+63,DRV004,rus,"RUSSELL, George",George,Russell,British,1998-02-15,Mercedes,2024,fastf1
+16,DRV005,LEC,CHARLES LECLERC,Charles,,Monegasque,1997/10/16,Ferrari,2024,openf1
+4,DRV007,NOR,LANDO NORRIS,Lando,Norris,British,1999/11/13,McLaren,2024,openf1
+81,DRV008,pia,"PIASTRI, Oscar",Oscar,Piastri,Australian,2001-04-06,McLaren,2024,fastf1
+18,DRV010,str,"STROLL, Lance",Lance,,Canadian,1998-10-29,Aston Martin,2024,fastf1
+31,DRV011,OCO,ESTEBAN OCON,Esteban,Ocon,French,1996/09/17,Alpine,2024,openf1
+10,DRV012,GAS,Pierre Gasly,Pierre,Gasly,French,1996-02-07,Alpine,2024,formula1_official
+27,DRV016,HUL,NICO HULKENBERG,Nico,Hulkenberg,German,1987/08/19,Haas F1 Team,2024,openf1
+22,DRV017,tsu,"TSUNODA, Yuki",,Tsunoda,Japanese,2000-05-11,RB,2024,fastf1
+22,DRV017,TSU,YUKI TSUNODA,Yuki,Tsunoda,Japanese,2000/05/11,RB,2024,openf1
+30,DRV021,LAW,Liam Lawson,Liam,Lawson,New Zealander,2002-02-11,RB,2024,formula1_official
+30,DRV021,law,"LAWSON, Liam",Liam,Lawson,New Zealander,2002-02-11,RB,2024,fastf1
+23,DRV019,ALB,Alexander Albon,Alexander,,Thai,1996-03-23,Williams,2024,formula1_official
+23,DRV019,ALB,ALEXANDER ALBON,Alexander,Albon,Thai,1996/03/23,Williams,2024,openf1
+43,DRV022,COL,Franco Colapinto,Franco,Colapinto,Argentine,2003-05-27,Williams,2024,formula1_official
+43,DRV022,COL,FRANCO COLAPINTO,Franco,Colapinto,Argentine,2003/05/27,Williams,2024,openf1
+87,DRV023,BEA,Oliver Bearman,Oliver,,British,2005-05-08,Haas F1 Team,2024,formula1_official
+87,DRV023,BEA,OLIVER BEARMAN,,Bearman,British,2005/05/08,Haas F1 Team,2024,openf1
+1,DRV001,VER,MAX VERSTAPPEN,Max,Verstappen,Dutch,1997/09/30,Red Bull Racing,2025,openf1
+30,DRV021,LAW,Liam Lawson,Liam,Lawson,New Zealander,2002-02-11,Red Bull Racing,2025,formula1_official
+30,DRV021,LAW,LIAM LAWSON,,Lawson,NEW ZEALANDER,2002/02/11,Red Bull Racing,2025,openf1
+63,DRV004,rus,"RUSSELL, George",George,Russell,British,1998-02-15,Mercedes,2025,fastf1
+16,DRV005,LEC,CHARLES LECLERC,Charles,Leclerc,Monegasque,1997/10/16,Ferrari,2025,openf1
+44,DRV003,HAM,Lewis Hamilton,,Hamilton,British,1985-01-07,Ferrari,2025,formula1_official
+44,DRV003,ham,"HAMILTON, Lewis",Lewis,Hamilton,British,1985-01-07,Ferrari,2025,fastf1
+44,DRV003,HAM,LEWIS HAMILTON,Lewis,Hamilton,British,1985/01/07,Ferrari,2025,openf1
+4,DRV007,NOR,LANDO NORRIS,Lando,Norris,BRITISH,1999/11/13,McLaren,2025,openf1
+81,DRV008,PIA,OSCAR PIASTRI,,Piastri,Australian,2001/04/06,McLaren,2025,openf1
+14,DRV009,ALO,Fernando Alonso,Fernando,Alonso,Spanish,1981-07-29,Aston Martin,2025,formula1_official
+31,DRV011,OCO,Esteban Ocon,Esteban,Ocon,French,1996-09-17,ALPINE,2025,formula1_official
+5,DRV025,BOR,Gabriel Bortoleto,Gabriel,Bortoleto,Brazilian,2004-10-14,Kick Sauber,2025,formula1_official
+27,DRV016,HUL,NICO HULKENBERG,Nico,Hulkenberg,German,1987/08/19,Kick Sauber,2025,openf1
+87,DRV023,BEA,OLIVER BEARMAN,Oliver,Bearman,British,2005/05/08,Haas F1 Team,2025,openf1
+6,DRV026,HAD,Isack Hadjar,Isack,,French,2004-09-28,Racing Bulls,2025,formula1_official
+6,DRV026,had,"HADJAR, Isack",Isack,Hadjar,French,2004-09-28,Racing Bulls,2025,fastf1
+23,DRV019,ALB,Alexander Albon,Alexander,Albon,Thai,1996-03-23,Williams,2025,formula1_official
+23,DRV019,alb,"ALBON, Alexander",Alexander,Albon,Thai,1996-03-23,Williams,2025,fastf1
+23,DRV019,ALB,ALEXANDER ALBON,Alexander,Albon,Thai,1996/03/23,Williams,2025,openf1
+43,DRV022,COL,Franco Colapinto,Franco,,Argentine,2003-05-27,Williams,2025,formula1_official
+31,DRV011,OCO,ESTEBAN OCON,Esteban,Ocon,French,1996/09/17,Alpine,2024,openf1
